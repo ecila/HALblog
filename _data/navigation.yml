@@ -16,7 +16,7 @@
   
 - title: Blog
   url: "/blog/"
-  side: left
+  side: right
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"

@@ -9,7 +9,7 @@ teaser:
 permalink: "/participants/"
 ---
 
-## Project Management
+### Project Management
 
 + PI: Alice Eldridge, University of Sussex
 + Co-I: Paul Stapleton, Queen's University Belfast
@@ -23,12 +23,12 @@ permalink: "/participants/"
 + [Mark Plumbley](http://www.surrey.ac.uk/cvssp/people/mark_plumbley/) -- Professor of Signal Processing, University of Surrey
 + [Richard Ranft](https://uk.linkedin.com/in/richardranft) -- Head of Sound & Vision at The British Library
           
-## Network Participants
+### Network Participants
 
 + [Chris Kiefer](http://www.sussex.ac.uk/profiles/208667) -- Computer Music and instrument design, University of Sussex
 
 
     
-## Partners
+### Partners
 + Brighton Digital Festival
 + The Keep, University of Sussex

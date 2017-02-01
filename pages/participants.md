@@ -7,7 +7,7 @@ teaser: "This step-by-step guide helps you to customize Feeling Responsive to yo
 header:
    image_fullwidth: "logo.png"
 permalink: "/participants/"
-
+---
 ## Network Participants
 
 [Chris Kiefer] (http://www.sussex.ac.uk/profiles/208667) -- Computer Music and instrument design, University of Sussex

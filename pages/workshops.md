@@ -8,11 +8,10 @@ teaser:
  
 permalink: "/workshops/"
 ---
-### Workshops
 
 ### Workshop 1. 
 April 27 & 28 -- Sussex Humanities Lab, University of Sussex, Brighton
-#### Perspective Exchanges - 
+#### Perspective Exchanges 
 + Day 1 Interdisciplinary Perspectives on Machine Listening 
 + Day 2 Discussion and Kaggle Challenge: Framing DH questions as machine learning tasks
 

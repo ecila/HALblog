@@ -10,10 +10,10 @@ permalink: "/workshops/"
 ---
 ## WORKSHOPS
 
-##### Perspective Exchanges 
+##### Exchanging Perspectives 
 April 27-28. Sussex Humanities Lab, University of Sussex, Brighton
 
-+ Interdisciplinary Perspectives: Machine Listening vs Listening Machines
++ Machine Listening vs Listening Machines
 + Kaggle Challenge
 
 ##### Improvisational agency in Listening Algorithms

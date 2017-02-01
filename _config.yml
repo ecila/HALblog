@@ -14,7 +14,7 @@ title: 'Humanising Algorithmic Listening'
 slogan: 'Weblog for AHRC HAL Network'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»AHRC network - Humanising Algorithmic Listening
+description: '»AHRC network - Humanising Algorithmic Listening'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Built with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'

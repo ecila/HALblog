@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Network Members"
+title: ""
 subheadline: 
 teaser: 
 header: no

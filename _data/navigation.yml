@@ -3,6 +3,6 @@
   side: left
 
 - title: About
-url: "/about/"
-side: left
+  url: "/about/"
+  side: left
 

@@ -11,10 +11,10 @@ permalink: "/participants/"
 
 ## Project Management
 
-PI: Alice Eldridge, University of Sussex
-Co-I: Paul Stapleton, Queen's University Belfast
++ PI: Alice Eldridge, University of Sussex
++ Co-I: Paul Stapleton, Queen's University Belfast
 
-## Advisory Board
+### Advisory Board
 
 + [Kristina Anderson](http://tinything.com/?p=57) -- Chief Digital Story teller, STEIM, Amsterdam
 + [Fiona Courage](http://www.sussex.ac.uk/profiles/9183) --  Special Collections Manager, The Keep, Sussex               

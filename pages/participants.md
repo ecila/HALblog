@@ -29,4 +29,6 @@ permalink: "/participants/"
 
 
     
-
+## Partners
++ Brighton Digital Festival
++ The Keep, University of Sussex

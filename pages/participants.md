@@ -1,12 +1,11 @@
 ---
 layout: page
-header: no
 show_meta: false
 title: "Network Members"
 subheadline: 
 teaser: 
-header:
-   image_fullwidth: "logo.png"
+header: no
+ 
 permalink: "/participants/"
 ---
 ## Network Participants

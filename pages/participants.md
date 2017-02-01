@@ -2,20 +2,20 @@
 layout: page
 show_meta: false
 title: "Participants"
-#subheadline: "A Step-by-Step Guide"
-#teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+%%subheadline: "A Step-by-Step Guide"
+%%teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
    image_fullwidth: "logo.png"
 permalink: "/participants/"
 
-<h2>Network Participants<h2>
+## Network Participants
 
 [Chris Kiefer] (http://www.sussex.ac.uk/profiles/208667) -- Computer Music and instrument design, University of Sussex
 
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
+%%<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
 
-<h2>Advisory Board<h2>
+## Advisory Board
 
 [Kristina Anderson] (http://tinything.com/?p=57) Chief Digital Story teller, STEIM, Amsterdam
 [Fiona Courage] (http://www.sussex.ac.uk/profiles/9183) --  Special Collections Manager, The Keep, Sussex               
@@ -27,4 +27,4 @@ permalink: "/participants/"
 
     
 
-# [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+%% [1]: {{ site.url }}{{ site.baseurl }}/documentation/

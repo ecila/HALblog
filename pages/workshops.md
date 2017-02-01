@@ -16,7 +16,7 @@ April 27-28. Sussex Humanities Lab, University of Sussex, Brighton
 + Machine Listening vs Listening Machines
 + Kaggle Challenge
 
-##### Improvisational agency in Listening Algorithms
+##### Understanding Agency of Listening Algorithms
 May 31-June 1. Sonic Arts Research Centre, Queen's University Belfast
 
 + What can interactive performance practice teach us about understanding human-machine agency?

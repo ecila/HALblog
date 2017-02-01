@@ -4,7 +4,7 @@ show_meta: false
 title: ""
 subheadline: 
 teaser: 
-header: no
+
  
 permalink: "/participants/"
 ---

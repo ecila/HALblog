@@ -23,11 +23,23 @@ permalink: "/participants/"
 + [Mark Plumbley](http://www.surrey.ac.uk/cvssp/people/mark_plumbley/) -- Professor of Signal Processing, University of Surrey
 + [Richard Ranft](https://uk.linkedin.com/in/richardranft) -- Head of Sound & Vision at The British Library
           
-### Network Participants
+### Network Participants 
 
-+ [Chris Kiefer](http://www.sussex.ac.uk/profiles/208667) -- Computer Music and instrument design, University of Sussex
-
-
++ [Ron Chrisley]
++ Palle Dahlstedt
++ Tom Davis
++ Simon Emmerson
++ Owen Green
++ Tim Hitchcock
++ David Kant
++ Chris Kiefer(http://www.sussex.ac.uk/profiles/208667)
++ Parag Mital
++ Shintaro Miyazaki
++ Sally-Jane Norman
++ Dan Stowell
++ Nick Ward
++ Simon Waters
+(more to follow)
     
 ### Partners
 + Brighton Digital Festival

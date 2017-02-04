@@ -6,7 +6,6 @@
 #
 layout: page
 header:
-  image_fullwidth: header_unsplash_12.jpg
   background-color: "#fabb00"
 
 #

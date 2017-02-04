@@ -1,8 +1,3 @@
-- name: GitHub
-  url: http://github.com/ecila
-  class: icon-github
-  title: "bits and pieces alice wrote..."
-  
 - name: Twitter
   url: http://twitter.com/algolistening
   class: icon-twitter

@@ -1,12 +1,17 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/ecila
   class: icon-github
-  title: Code und mehr...
+  title: bits and pieces alice wrote...
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/algolistening
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Follow us on twitter"
+  
+  - name: Soundcloud
+   url: http://soundcloud.com/algorithmiclistening
+   class: icon-soundcloud
+   title: "Listen"
 
 # - name: Facebook
 #   url: http://www.facebook.com/

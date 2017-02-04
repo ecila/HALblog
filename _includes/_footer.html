@@ -11,16 +11,9 @@
             <!-- left column -->
             
           <div class="medium-6 large-5 columns">
-        <p>        
-            logos here
-        </p>
-          </div><!-- /.large-6.columns -->
-
-            <!-- middle column -->
-          <div class="small-6 medium-3 large-3 large-offset-1 columns">
-            {% for service_item in site.data.services %}
+           {% for service_item in site.data.services %}
               {% if forloop.first == true %}
-                <h5 class="shadow-black">{{ service_item.menu_name }}</h5>
+                <p class="shadow-black">{{ service_item.menu_name }}</p>
               {% endif %}
             {% endfor %}
 
@@ -32,6 +25,11 @@
                   </li>
               {% endfor %}
               </ul>
+          </div><!-- /.large-6.columns -->
+
+            <!-- middle column -->
+          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+        
           </div><!-- /.large-4.columns -->
 
         <!-- end column -->

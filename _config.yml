@@ -38,7 +38,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://ecila.github.io/HAL/images/'
+urlimg: 'https://ecila.github.io/HALblog/images/'
 
 
 # Logo size is 600x80 pixels
@@ -111,7 +111,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: alice     # Default author for pages
   -
     scope:
       path: ''
@@ -120,7 +120,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: alice     # Default author for posts
 
 
 
@@ -193,7 +193,7 @@ og_type:                            'website'
 
 socialmedia:
     twitter: algolistening
-    soundcloud: algolistening
+    soundcloud: algorithmiclistening
 
 
 #        ____  _
@@ -205,7 +205,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: aliceeldridge 
+disqus_shortname: algorithmiclistening 
 
 
 #      _____

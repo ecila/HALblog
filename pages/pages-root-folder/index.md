@@ -5,7 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: page
-background-color: "#fabb00"
+header:
+
 
 #
 # Use the call for action to show a button on the frontpage

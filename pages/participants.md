@@ -25,14 +25,14 @@ permalink: "/participants/"
           
 ### Network Participants 
 
-+ [Ron Chrisley]
++ Ron Chrisley
 + Palle Dahlstedt
 + Tom Davis
 + Simon Emmerson
 + Owen Green
 + Tim Hitchcock
 + David Kant
-+ Chris Kiefer(http://www.sussex.ac.uk/profiles/208667)
++ [Chris Kiefer](http://www.sussex.ac.uk/profiles/208667)
 + Parag Mital
 + Shintaro Miyazaki
 + Sally-Jane Norman

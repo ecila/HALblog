@@ -11,7 +11,19 @@
             <!-- left column -->
             
           <div class="medium-6 large-5 columns">
-           {% for service_item in site.data.services %}
+            <ul class="inline-list social-icons">
+            {% for social_item in site.data.socialmedia %}
+              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+            {% endfor %}
+                               
+                               
+      
+              </ul>
+          </div><!-- /.large-6.columns -->
+
+            <!-- middle column -->
+          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+     {% for service_item in site.data.services %}
               {% if forloop.first == true %}
                 <p class="shadow-black">{{ service_item.menu_name }}</p>
               {% endif %}
@@ -24,15 +36,6 @@
                     <a href="{{ domain }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ service_item.title }}">{{ service_item.name }}</a>
                   </li>
               {% endfor %}
-              </ul>
-          </div><!-- /.large-6.columns -->
-
-            <!-- middle column -->
-          <div class="small-6 medium-3 large-3 large-offset-1 columns">
-             <ul class="inline-list social-icons">
-            {% for social_item in site.data.socialmedia %}
-              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
-            {% endfor %}
             </ul>
               
           </div><!-- /.large-4.columns -->
@@ -52,17 +55,14 @@
     <!--            {{ site.credits }} -->
           </section>
 
-          <img src="{{ site.urlimg}}UoSLogo.png" width="170" itemprop="image">
-            
-          <img src="{{ site.urlimg}}QUBLogo.jpg" width="250" itemprop="image">
-          
-          <img src="{{ site.urlimg}}AHRC-logo-landscape.jpg" width="220" itemprop="image">
             
           <section id="subfooter-right" class="small-12 medium-6 columns">
-       <!--
-              
 
-       -->       
+          <img src="{{ site.urlimg}}UoSLogo.png" width="100" itemprop="image">
+            
+          <img src="{{ site.urlimg}}QUBLogo.jpg" width="150" itemprop="image">
+          
+          <img src="{{ site.urlimg}}AHRC-logo-landscape.jpg" width="120" itemprop="image">
               
           </section>
         </nav>

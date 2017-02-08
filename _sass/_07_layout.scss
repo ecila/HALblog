@@ -325,10 +325,10 @@ body.video cite { color: #fff; }
     width: 36px;
     border-radius: 50%;
     color: $subfooter-bg;
-    background: $subfooter-color;
+    background: $fff;
     text-align: center;
     &:hover {
-      background: $subfooter-bg;
+      background: $$subfooter-color;
       color: #fff;
     }
   }

@@ -39,7 +39,7 @@ permalink: "/participants/"
 + Dan Stowell
 + Nick Ward
 + Simon Waters
-(more to follow)
++ (more to follow)
     
 ### Partners
 + Brighton Digital Festival

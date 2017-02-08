@@ -23,7 +23,13 @@
 
             <!-- middle column -->
           <div class="small-6 medium-3 large-3 large-offset-1 columns">
-     {% for service_item in site.data.services %}
+  
+              
+          </div><!-- /.large-4.columns -->
+
+        <!-- end column -->
+          <div class="small-6 medium-3 large-3 columns">
+             {% for service_item in site.data.services %}
               {% if forloop.first == true %}
                 <p class="shadow-black">{{ service_item.menu_name }}</p>
               {% endif %}
@@ -37,12 +43,6 @@
                   </li>
               {% endfor %}
             </ul>
-              
-          </div><!-- /.large-4.columns -->
-
-        <!-- end column -->
-          <div class="small-6 medium-3 large-3 columns">
-          
           </div><!-- /.large-3.columns -->
         </div><!-- /.row -->
 
@@ -62,7 +62,7 @@
             
           <img src="{{ site.urlimg}}QUBLogo.jpg" width="150" itemprop="image">
           
-          <img src="{{ site.urlimg}}AHRC-logo-landscape.jpg" width="120" itemprop="image">
+          <img src="{{ site.urlimg}}AHRC-logo-landscape.jpg" width="150" itemprop="image">
               
           </section>
         </nav>

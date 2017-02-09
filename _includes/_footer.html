@@ -11,7 +11,8 @@
             <!-- left column -->
             
           <div class="medium-6 large-5 columns">
-            <sub-head class="shadow-black" color = "green"> OFFICE </sub-head></br>
+            <sub-head class="shadow-black" style="color:turquoise;"> OFFICE </sub-head></br>
+            
             <p class="shadow-black">
               Sussex Humanities Lab </br>
             Silverstone</br>
@@ -37,11 +38,11 @@
           <div class="small-6 medium-3 large-3 columns">
              {% for service_item in site.data.services %}
               {% if forloop.first == true %}
-                <p class="shadow-black">{{ service_item.menu_name }}</p>
+                <p class="shadow-black" style="color:turquoise;">{{ service_item.menu_name }}</p>
               {% endif %}
             {% endfor %}
 
-              <ul class="no-bullet shadow-black">
+              <ul class="no-bullet shadow-black" style="color:#fff;">
               {% for service_item in site.data.services %}
                 {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
                   <li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>

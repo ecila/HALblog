@@ -11,19 +11,23 @@
             <!-- left column -->
             
           <div class="medium-6 large-5 columns">
-            <ul class="inline-list social-icons">
-            {% for social_item in site.data.socialmedia %}
-              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
-            {% endfor %}
-                               
-                               
-      
-              </ul>
+            <sub-head> OFFICE </sub-head>
+              Sussex Humanities Lab </br>
+            Silverstone</br>
+            University of Sussex </br>
+            Falmer</br>
+            Brigton</br>
+            BN1 9RG
           </div><!-- /.large-6.columns -->
 
             <!-- middle column -->
           <div class="small-6 medium-3 large-3 large-offset-1 columns">
-  
+      <ul class="inline-list social-icons">
+            {% for social_item in site.data.socialmedia %}
+              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+            {% endfor %}
+                               
+              </ul>
               
           </div><!-- /.large-4.columns -->
 
@@ -53,6 +57,9 @@
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
     <!--            {{ site.credits }} -->
+              <p>
+                 © University of Sussex
+                  </p>
           </section>
 
             

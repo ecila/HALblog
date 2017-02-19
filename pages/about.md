@@ -2,8 +2,10 @@
 layout: page
 show_meta: false
 
+header:
+  image_fullwidth: "logo_grays_lato_banner.gif"
 
- 
+
 permalink: "/about/"
 ---
 

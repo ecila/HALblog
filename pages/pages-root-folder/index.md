@@ -6,7 +6,7 @@
 #
 layout: page
 header:
-  image_fullwidth: "cochlearBanner.jpg"
+  image_fullwidth: "logo_grays_lato_banner.gif"
 
 
 #

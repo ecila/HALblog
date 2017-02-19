@@ -1,10 +1,7 @@
 ---
 layout: page
-show_meta: false
-title: ""
-subheadline:
-teaser:
-
+header:
+  image_fullwidth: "logo_grays_lato_banner.gif"
 
 permalink: "/workshops/"
 ---
@@ -15,7 +12,7 @@ April 27-28. Sussex Humanities Lab, University of Sussex, Brighton
 
 *What new ways of listening does algorithmic listening afford?*
 *How might existing machine learning/ listening methods enrich humanistic modes of enquiry?*
-*Are there any methodological issues associated with importing methods from information science into humanities research?*
+*What are the methodological issues associated with importing methods from information science into humanities research?*
 
 + Machine Listening vs Listening Machines
 + Kaggle Challenge

@@ -1,18 +1,17 @@
 ---
 layout: page
-show_meta: false
-title: ""
-subheadline: 
-teaser: 
 
- 
+header:
+  image_fullwidth: "cochlearBanner.gif"
+
+
 permalink: "/participants/"
 ---
 
 ### Project Management
 
-+ PI: Alice Eldridge, University of Sussex
-+ Co-I: Paul Stapleton, Queen's University Belfast
++ PI: [Alice Eldridge](http://www.sussex.ac.uk/profiles/127749) -- Research Fellow in Digital Technologies, Sussex Humanities Lab,  University of Sussex
++ Co-I: [Paul Stapleton](http://www.paulstapleton.net) Senior Lecturer in Music, Queen's University Belfast
 
 ### Advisory Board
 
@@ -22,8 +21,8 @@ permalink: "/participants/"
 + [Sarah Pink](http://www1.rmit.edu.au/browse%3BID=vcnfenbj05lv) -- Professor of Design and Media and Ethnography, RMIT, Melbourne
 + [Mark Plumbley](http://www.surrey.ac.uk/cvssp/people/mark_plumbley/) -- Professor of Signal Processing, University of Surrey
 + [Richard Ranft](https://uk.linkedin.com/in/richardranft) -- Head of Sound & Vision at The British Library
-          
-### Network Participants 
+
+### Network Participants
 
 + Ron Chrisley
 + Palle Dahlstedt
@@ -40,7 +39,7 @@ permalink: "/participants/"
 + Nick Ward
 + Simon Waters
 + (more to follow)
-    
+
 ### Partners
 + Brighton Digital Festival
 + The Keep, University of Sussex

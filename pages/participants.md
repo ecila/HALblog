@@ -2,7 +2,7 @@
 layout: page
 
 header:
-  image_fullwidth: "logo_grays_lato_banner.gif"
+  image_fullwidth: "logo_grays_lato.gif"
 
 
 permalink: "/participants/"

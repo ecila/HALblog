@@ -28,7 +28,6 @@ permalink: "/participants/"
 + [Palle Dahlstedt](https://soundcloud.com/palle-dahlstedt) -- Obel Professor of Art & Technology, Aalborg University 
 + [Tom Davis](http://staffprofiles.bournemouth.ac.uk/display/tdavis) -- Lecturer in Music and Audio Technology, University of Bournemouth
 + [Simon Emmerson](http://www.dmu.ac.uk/about-dmu/academic-staff/technology/simon-emmerson/simon-emmerson.aspx) -- Professor in Music, Technology & Innovation, De Montford University Leicester.
-
 + [Owen Green](http://owengreen.net/) -- 	Teaching Fellow Music & Sound Design, University of Edinburgh
 + [Tim Hitchcock](http://www.sussex.ac.uk/profiles/336034) -- Professor Of Digital History, University of Sussex
 + [David Kant](http://www.davidkant.com/) -- DMA Music Student, University of California
@@ -38,8 +37,8 @@ permalink: "/participants/"
 + [Sally-Jane Norman](http://www.sussex.ac.uk/profiles/240005) -- Professor of Performance Technologies, University of Sussex
 + [Dan Stowell](http://c4dm.eecs.qmul.ac.uk/people/dans.html) -- Research Fellow in Machine Listening, Queen Mary University London
 + [Nick Ward](http://www.dmarc.ie/people/academic-staff/nicholas-ward/) -- Lecturer in Digital Media & Arts, University of Limerick
-+ [Simon Waters](http://pure.qub.ac.uk/portal/en/persons/simon-waters(2eb6eeb9-1304-4399-ae1c-be09e9e55c89).html) --
-+ (more to follow)
++ [Simon Waters](http://pure.qub.ac.uk/portal/en/persons/simon-waters(2eb6eeb9-1304-4399-ae1c-be09e9e55c89).html) -- Lecturer in Sonic Arts, Queen's University Belfast
++ ...
 
 
 

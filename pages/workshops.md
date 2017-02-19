@@ -5,7 +5,6 @@ header:
 
 permalink: "/workshops/"
 ---
-## WORKSHOPS
 
 ## Exchanging Perspectives
 April 27-28. Sussex Humanities Lab, University of Sussex, Brighton
@@ -27,6 +26,7 @@ May 31-June 1. Sonic Arts Research Centre, Queen's University Belfast
 
 ### Future Implications and Applications of Algorithmic Listening
 Sept 14-15. Sussex Humanities Lab, University of Sussex, Brighton
+
 *What ethical, cultural and epistemological considerations do we need to take into account in the design of machine listening algorithms?*
 
 + Methodological, cultural and ethical perspectives

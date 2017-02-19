@@ -5,7 +5,7 @@
 - title: Participants
   url: "/participants/"
   side: left
-  
+
 - title: Workshops
   url: "/workshops/"
   side: left
@@ -19,8 +19,4 @@
 
 - title: "Search"
   url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
   side: right

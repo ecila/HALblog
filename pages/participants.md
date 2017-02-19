@@ -2,7 +2,7 @@
 layout: page
 
 header:
-  image_fullwidth: "cochlearBanner.gif"
+  image_fullwidth: "logo_grays_lato_banner.gif"
 
 
 permalink: "/participants/"
@@ -23,22 +23,26 @@ permalink: "/participants/"
 + [Richard Ranft](https://uk.linkedin.com/in/richardranft) -- Head of Sound & Vision at The British Library
 
 ### Network Participants
++ [John Bowers](http://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html#background) -- Professor of Creative Digital Practice, University of Newcastle
++ [Ron Chrisley](http://www.sussex.ac.uk/profiles/476) -- Reader in Philosophy (Informatics, Evolutionary and Adaptive Systems Research Group, Centre for Cognitive Science), University of Sussex, UK
++ [Palle Dahlstedt](https://soundcloud.com/palle-dahlstedt) -- Obel Professor of Art & Technology, Aalborg University 
++ [Tom Davis](http://staffprofiles.bournemouth.ac.uk/display/tdavis) -- Lecturer in Music and Audio Technology, University of Bournemouth
++ [Simon Emmerson](http://www.dmu.ac.uk/about-dmu/academic-staff/technology/simon-emmerson/simon-emmerson.aspx) -- Professor in Music, Technology & Innovation, De Montford University Leicester.
 
-+ Ron Chrisley
-+ Palle Dahlstedt
-+ Tom Davis
-+ Simon Emmerson
-+ Owen Green
-+ Tim Hitchcock
-+ David Kant
-+ [Chris Kiefer](http://www.sussex.ac.uk/profiles/208667)
-+ Parag Mital
-+ Shintaro Miyazaki
-+ Sally-Jane Norman
-+ Dan Stowell
-+ Nick Ward
-+ Simon Waters
++ [Owen Green](http://owengreen.net/) -- 	Teaching Fellow Music & Sound Design, University of Edinburgh
++ [Tim Hitchcock](http://www.sussex.ac.uk/profiles/336034) -- Professor Of Digital History, University of Sussex
++ [David Kant](http://www.davidkant.com/) -- DMA Music Student, University of California
++ [Chris Kiefer](http://www.sussex.ac.uk/profiles/208667) -- Lecturer in Music Technology, University of Sussex
++ [Parag Mital](http://pkmital.com) -- Director of machine intelligence, Kadenze
++ [Shintaro Miyazaki](http://shintaro-miyazaki.com/) -- Senior researcher and lecturer at the Institute of Experimental Design and Media Cultures
++ [Sally-Jane Norman](http://www.sussex.ac.uk/profiles/240005) -- Professor of Performance Technologies, University of Sussex
++ [Dan Stowell](http://c4dm.eecs.qmul.ac.uk/people/dans.html) -- Research Fellow in Machine Listening, Queen Mary University London
++ [Nick Ward](http://www.dmarc.ie/people/academic-staff/nicholas-ward/) -- Lecturer in Digital Media & Arts, University of Limerick
++ [Simon Waters](http://pure.qub.ac.uk/portal/en/persons/simon-waters(2eb6eeb9-1304-4399-ae1c-be09e9e55c89).html) --
 + (more to follow)
+
+
+
 
 ### Partners
 + Brighton Digital Festival

@@ -5,7 +5,7 @@ title: "Search"
 sitemap: false
 
 header:
-  image_fullwidth: "logo_grays_lato.gif"
+  image_fullwidth: "borchert1.gif"
 
 ---
 

@@ -8,6 +8,8 @@ header:
 permalink: "/participants/"
 ---
 
+## PARTICIPANTS
+
 ### Project Management
 
 + PI: [Alice Eldridge](http://www.sussex.ac.uk/profiles/127749) -- Research Fellow in Digital Technologies, Sussex Humanities Lab,  University of Sussex
@@ -18,7 +20,7 @@ permalink: "/participants/"
 + [Kristina Anderson](http://tinything.com/?p=57) -- Chief Digital Story teller, STEIM, Amsterdam
 + [Fiona Courage](http://www.sussex.ac.uk/profiles/9183) --  Special Collections Manager, The Keep, Sussex               
 + [Simon Goldhill](http://www.classics.cam.ac.uk/directory/simon-goldhill) -- Director of CRASH, Kings College, Cambridge
-+ [Sarah Pink](http://www1.rmit.edu.au/browse%3BID=vcnfenbj05lv) -- Professor of Design and Media and Ethnography, RMIT, Melbourne
++ [Sarah Pink](http://www1.rmit.edu.au/browse%3BID=vcnfenbj05lv) -- Distinguished Professor and Director of the Digital Ethnography Research Centre, RMIT University, Australia. 
 + [Mark Plumbley](http://www.surrey.ac.uk/cvssp/people/mark_plumbley/) -- Professor of Signal Processing, University of Surrey
 + [Richard Ranft](https://uk.linkedin.com/in/richardranft) -- Head of Sound & Vision at The British Library
 

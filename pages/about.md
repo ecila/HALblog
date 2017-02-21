@@ -3,11 +3,13 @@ layout: page
 show_meta: false
 
 header:
-  image_fullwidth: "logo_grays_lato.gif"
+  image_fullwidth: "logo_grays_lato.png"
 
 
 permalink: "/about/"
 ---
+
+HUMANISING ALGORITHMIC listening
 
 From sound studies to oral history, media archaeology to sensory ethnography, researchers are increasingly concerned with what can be learned from sonic as well as textual resources and computational methods afford opportunities to engage with research materials in new ways. This network brings different disciplinary perspectives together to discuss how we might imagine the future of machine listening. The main aim is to achieve a better understanding of the cultural, technical and ethical implications and possibilities of listening algorithms in our research practices, as well as in our daily lives.
 

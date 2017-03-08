@@ -7,4 +7,4 @@ title: "Contact"
 permalink: "/contact/"
 ---
 
-[alicee@sussex.ac.uk](mailaddress)
+[alicee@sussex.ac.uk](@mailaddress)

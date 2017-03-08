@@ -1,5 +1,9 @@
-- title: About
+- title: Home
   url: "/"
+  side: left
+
+- title: About
+  url: "/about"
   side: left
 
 - title: Participants
@@ -9,6 +13,9 @@
 - title: Workshops
   url: "/workshops/"
   side: left
+  dropdown:
+  - title: "Workshop 1"
+    url: "/workshop1/"
 
 - title: Blog
   url: "/blog/"

@@ -6,19 +6,18 @@ header:
 permalink: "/workshops/"
 ---
 
-## WORKSHOPS
 
 ### Exchanging Perspectives: Machine Listening vs Listening Machines
 April 27-28. Sussex Humanities Lab, University of Sussex, Brighton
 
-*What new ways of listening does algorithmic listening afford?*
-*How might existing machine learning/ listening methods enrich humanistic modes of enquiry?*
-*What are the methodological issues associated with importing methods from information science into humanities research?*
+* *What new ways of listening does algorithmic listening afford?*
+* *How might existing machine learning/ listening methods enrich humanistic modes of enquiry?*
+* *What are the methodological issues associated with importing methods from information science into humanities research?*
 
 + Day 1. Presentations & discussion
-+ Day 2. Kaggle Challenge & Round Table
++ Day 2. Round Table & Kaggle Challenge
 
---- 
+---
 
 ### Understanding Distributed Agency Between Listening Algorithms and Humans
 May 31-June 1. Sonic Arts Research Centre, Queen's University Belfast
@@ -26,9 +25,9 @@ May 31-June 1. Sonic Arts Research Centre, Queen's University Belfast
 *What can improvisation and computer music performance practices teach us about human-machine agency? How might this inform or challenge our understanding of how we can actively listen together with machines?*
 
 + Day 1: Presentations & discussion
-+ Day 2: Errant Machine Listening Workshop & Round Table
++ Day 2: Round Table & Errant Machine Listening Workshop
 
---- 
+---
 
 
 ### Future Implications and Applications of Algorithmic Listening

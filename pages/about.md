@@ -1,20 +1,24 @@
 ---
 layout: page
-show_meta: false
 
 header:
-  image_fullwidth: "logo_grays_lato.png"
+  image_fullwidth: "borchert1.gif"
 
 
 permalink: "/about/"
 ---
 
-HUMANISING ALGORITHMIC listening
+**Humanising Algorithmic Listening** is an AHRC funded network which brings together experts with an interest in the applications and implications of machine listening from diverse disciplines including oral history, sensory ethnography, archive services, computer science, philosophy and music technology. The principle aim is to develop a critical and methodological agenda for the design and development of computational methods for audio analysis - listening algorithms - for future arts and humanities research.
 
-From sound studies to oral history, media archaeology to sensory ethnography, researchers are increasingly concerned with what can be learned from sonic as well as textual resources and computational methods afford opportunities to engage with research materials in new ways. This network brings different disciplinary perspectives together to discuss how we might imagine the future of machine listening. The main aim is to achieve a better understanding of the cultural, technical and ethical implications and possibilities of listening algorithms in our research practices, as well as in our daily lives.
 
-Machine listening algorithms already exist but need tuning to align with and enrich humanities research. Existing methods are capable of tasks such as recognising melodies, identifying instruments or musical genres. Their capacity is evidenced by commercial products which are becoming at once more powerful, more complex and their inner workings more opaque. In order to support humanist research as tools for discovery, interpretation and insight, computational power must be accompanied by critical consideration of what it means to listen through algorithms, what new ways of listening might be afforded, and how we can best design algorithms for the future.
+### Objectives
+*	Explore opportunities for and issues around the use of machine listening algorithms in arts and humanities.
+*	Develop cross-disciplinary understandings of potential applications and implications of machine listening algorithms.
+*	Promote speculative, experimental investigation as a way of problematising and investigating human-machine agency and the unique affordances of machine versus human listening.
+*	Disseminate insights to academia, industry and general public through targeted peer reviewed journal articles, public festival event, open-access website, and radio broadcast of a sonic arts docu-commentary created using algorithmic recompositions of network discussions.
+*	By meeting these objectives, to foster cross-sector collaboration and long-term impactful research that utilises and interrogates the use of computational methods in arts and humanities research and wider culture.
 
-This network brings together experts with an interest in the applications and implications of machine listening from diverse disciplines including oral history, sensory ethnography, archive services, computer science, philosophy and music technology. The principle aim is to develop a critical and methodological agenda for the design and development of computational methods for audio analysis - listening algorithms - for future arts and humanities research.
+
+The network is run by Dr Alice Eldridge, Research Fellow in Digital Technologies at the Sussex Humanities Lab, University of Sussex and Dr Paul Stapleton, Senior Lecturer in Music, SARC, Queen’s University Belfast.
 
 This website and blog will be updated throughout the course of the network as a site of information and exchange.     

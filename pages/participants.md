@@ -7,7 +7,7 @@ header:
 
 permalink: "/participants/"
 ---
-# NETWORK PARTICIPANTS
+# PARTICIPANTS
 
 ### Network Participants
 + [John Bowers](http://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html#background) -- Professor of Creative Digital Practice, University of Newcastle

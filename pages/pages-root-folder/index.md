@@ -6,7 +6,7 @@
 #
 layout: page
 header:
-  image_fullwidth: "borchert1.gif"
+  image_fullwidth: "borchert1_withText_LHS.gif"
 
 
 #

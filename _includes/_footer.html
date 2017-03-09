@@ -11,6 +11,22 @@
             <!-- left column -->
 
           <div class="medium-6 large-5 columns">
+
+            <sub-head class="shadow-black" style="color:white;"> FOLLOW </sub-head></br>
+            <ul class="inline-list social-icons">
+              <p>
+              </p>
+            {% for social_item in site.data.socialmedia %}
+              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+            {% endfor %}
+
+              </ul>
+
+
+
+          </div><!-- /.large-6.columns -->
+            <!-- middle column -->
+<div class="small-6 medium-3 large-3 large-offset-1 columns">
             <sub-head class="shadow-black" style="color:white;"> CONTACT </sub-head></br>
 
             <p class="shadow-black">
@@ -20,19 +36,13 @@
             Falmer</br>
             Brighton</br>
             BN1 9RG</br>
-            
+
             <a href = "mailto:alicee@sussex.ac.uk">alicee@sussex.ac.uk</a>
 </p>
-          </div><!-- /.large-6.columns -->
 
-            <!-- middle column -->
-          <div class="small-6 medium-3 large-3 large-offset-1 columns">
-      <ul class="inline-list social-icons">
-            {% for social_item in site.data.socialmedia %}
-              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
-            {% endfor %}
 
-              </ul>
+
+
 
           </div><!-- /.large-4.columns -->
 
@@ -70,11 +80,11 @@
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
 
-          <img src="{{ site.urlimg}}UoSLogo.png" width="100" itemprop="image">
+          <img src="{{ site.urlimg}}UoSLogo.png" width="120" itemprop="image">
 
-          <img src="{{ site.urlimg}}QUBLogo.jpg" width="170" itemprop="image">
+          <img src="{{ site.urlimg}}QUBLogo.jpg" width="187" itemprop="image">
 
-          <img src="{{ site.urlimg}}AHRC-logo-landscape.jpg" width="150" itemprop="image">
+          <img src="{{ site.urlimg}}AHRC-logo-landscape.jpg" width="165" itemprop="image">
 
           </section>
         </nav>

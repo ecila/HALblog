@@ -1,15 +1,14 @@
 ---
 layout: page
-
+title: "PARTICIPANTS"
 header:
   image_fullwidth: "borchert1.gif"
 
-
 permalink: "/participants/"
 ---
-# PARTICIPANTS
 
-### Network Participants
+
+### NETWORK PARTICIPANTS
 + [John Bowers](http://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html#background) -- Professor of Creative Digital Practice, University of Newcastle
 + [Ron Chrisley](http://www.sussex.ac.uk/profiles/476) -- Reader in Philosophy (Informatics, Evolutionary and Adaptive Systems Research Group, Centre for Cognitive Science), University of Sussex, UK
 + [Palle Dahlstedt](https://soundcloud.com/palle-dahlstedt) -- Obel Professor of Art & Technology, Aalborg University 

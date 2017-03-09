@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "WORKSHOP"
+title: "WORKSHOPS"
 header:
   image_fullwidth: "borchert1.gif"
 
 permalink: "/workshops/"
 ---
-### workshops
+
 Three workshops will be held throughout 2017:
 
 ### 1 Exchanging Perspectives: Machine Listening vs Listening Machines

@@ -23,12 +23,31 @@
               </ul>
 
 
-
           </div><!-- /.large-6.columns -->
             <!-- middle column -->
 <div class="small-6 medium-3 large-3 large-offset-1 columns">
-            <sub-head class="shadow-black" style="color:white;"> CONTACT </sub-head></br>
+  {% for service_item in site.data.services %}
+   {% if forloop.first == true %}
+     <sub-head class="shadow-black" style="color:white;">SERVICES</sub-head></p>
+   {% endif %}
+ {% endfor %}
 
+   <ul class="no-bullet shadow-black" style="color:#fff;">
+   {% for service_item in site.data.services %}
+     {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
+       <li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
+         <a href="{{ domain }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ service_item.title }}">{{ service_item.name }}</a>
+       </li>
+   {% endfor %}
+ </ul>
+
+
+        </div><!-- /.large-4.columns -->
+
+        <!-- end column -->
+          <div class="small-6 medium-3 large-3 columns">
+            <sub-head class="shadow-black" style="color:white;"> CONTACT </sub-head></br>
+            <p></p>
             <p class="shadow-black">
               Sussex Humanities Lab </br>
             Silverstone</br>
@@ -38,31 +57,10 @@
             BN1 9RG</br>
 
             <a href = "mailto:alicee@sussex.ac.uk">alicee@sussex.ac.uk</a>
-</p>
+          </p>
+          </div>
 
-
-
-
-
-          </div><!-- /.large-4.columns -->
-
-        <!-- end column -->
-          <div class="small-6 medium-3 large-3 columns">
-             {% for service_item in site.data.services %}
-              {% if forloop.first == true %}
-                <p class="shadow-black" style="color:white;">{{ service_item.menu_name }}</p>
-              {% endif %}
-            {% endfor %}
-
-              <ul class="no-bullet shadow-black" style="color:#fff;">
-              {% for service_item in site.data.services %}
-                {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
-                  <li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
-                    <a href="{{ domain }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ service_item.title }}">{{ service_item.name }}</a>
-                  </li>
-              {% endfor %}
-            </ul>
-          </div><!-- /.large-3.columns -->
+          <!-- /.large-3.columns -->
         </div><!-- /.row -->
 
       </div><!-- /#footer -->
@@ -72,19 +70,17 @@
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
     <!--            {{ site.credits }} -->
-              <p>
-                 © University of Sussex & Queen's University Belfast
-                  </p>
+    <img src="{{ site.urlimg}}UoSLogo.png" width="200" itemprop="image">
+
+    <img src="{{ site.urlimg}}QUBLogo.jpg" width="250" itemprop="image">
           </section>
 
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
 
-          <img src="{{ site.urlimg}}UoSLogo.png" width="120" itemprop="image">
 
-          <img src="{{ site.urlimg}}QUBLogo.jpg" width="187" itemprop="image">
 
-          <img src="{{ site.urlimg}}AHRC-logo-landscape.jpg" width="165" itemprop="image">
+          <img src="{{ site.urlimg}}AHRC-logo-landscape.jpg" width="265" itemprop="image">
 
           </section>
         </nav>

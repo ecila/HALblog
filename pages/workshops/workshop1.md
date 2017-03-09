@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Workshop 1"
 header: no
 image:
   title: "grays_lato_img.gif"
@@ -7,18 +8,21 @@ image:
 permalink: "/workshop1/"
 ---
 
-### WORKSHOP 1
 
 ### Exchanging Perspectives: Machine Listening vs Listening Machines
 April 27-28. Sussex Humanities Lab, University of Sussex, Brighton
 
-This workshop aims to build cross-disciplinary understandings by sharing current capabilities of machine listening, contemporary sonic perspectives in arts and humanities research, emerging issues in audio archive management and how they might mutually influence each other.
+The first workshop asks what new ways of listening might a transdisciplinary algorithmic listening afford?
 
-Core Questions to address:
-* *What new ways of listening might a transdisciplinary algorithmic listening afford?*
+ Discussions will be framed and stimulated by short presentations from core network participants including current applications of machine listening, sonic perspectives in arts and humanities research, emerging issues in audio archive management and how they might mutually influence each other.
+
+Questions to address - practical, technical and critical
+* *what new ways of listening might a transdisciplinary algorithmic listening afford?*
 * *What are the challenges of dealing with large audio databases in humanities research?*
-* *How is machine listening being applied in other areas of research and culture?*
+* *What new perspectives might new listening methods afford?*
+* *How is machine listening being applied in other areas of research and culture and to what effect?*
 * *What issues arise in importing methods from information sciences into humanities research?*
+* *What does interdisciplinary machine listening look (sound) like?*
 * *How might critical insights from the humanities inform the design of future listening algorithms?*  
 
 
@@ -53,6 +57,8 @@ Dinner in Brighton
 + 18.00 : Fin
 
 
+----
 
 Location: Sussex Humanities Lab, Silverstone, University of Sussex, Falmer. BN1 9RG
-Travel Directions can be found [here]
+
+Travel Directions can be found [here](http://www.sussex.ac.uk/about/directions)

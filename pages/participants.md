@@ -8,7 +8,7 @@ permalink: "/participants/"
 ---
 
 
-### NETWORK PARTICIPANTS
+### Core Participants
 + [John Bowers](http://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html#background) -- Professor of Creative Digital Practice, University of Newcastle
 + [Ron Chrisley](http://www.sussex.ac.uk/profiles/476) -- Reader in Philosophy (Informatics, Evolutionary and Adaptive Systems Research Group, Centre for Cognitive Science), University of Sussex, UK
 + [Palle Dahlstedt](https://soundcloud.com/palle-dahlstedt) -- Obel Professor of Art & Technology, Aalborg University 
@@ -24,7 +24,9 @@ permalink: "/participants/"
 + [Dan Stowell](http://c4dm.eecs.qmul.ac.uk/people/dans.html) -- Research Fellow in Machine Listening, Queen Mary University London
 + [Nick Ward](http://www.dmarc.ie/people/academic-staff/nicholas-ward/) -- Lecturer in Digital Media & Arts, University of Limerick
 + [Simon Waters](http://pure.qub.ac.uk/portal/en/persons/simon-waters(2eb6eeb9-1304-4399-ae1c-be09e9e55c89).html) -- Lecturer in Sonic Arts, Queen's University Belfast
-+ ...
++ More to be confirmed.
+
+
 
 ### Project Management
 

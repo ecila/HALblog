@@ -8,34 +8,35 @@ image:
 permalink: "/workshop1/"
 ---
 
+<!-- Distant listening and deep learning -->
 
-### Exchanging Perspectives: Machine Listening vs Listening Machines
+### Grounding interdisciplinary algorithmic listening
 April 27-28. Sussex Humanities Lab, University of Sussex, Brighton
 
-***What new ways of listening might interdisciplinary algorithmic listening methods afford?***
+The network provides a unique opportunity to curate a conversation across disciplines in order to provoke broad imaginings around the implications of and possibilities for machine listening in research and practice as well as in our daily lives.
 
+The first workshop aims to lay the foundations for building an interdisciplinary research agenda by bringing together archivists, researchers and practitioners from history, philosophy, media archeology, sound arts, computer science and computer music to share archival, technical and critical perspectives on algorithmic listening.
 
- Discussions will be framed and stimulated by short presentations from core network participants and will include current research in applications of machine listening, sonic perspectives in arts and humanities research, emerging issues in digital audio archive management and how they might mutually influence each other.
+ Discussions will be framed and stimulated by short presentations on emerging issues in digital audio archive management, current advances in creative and scientific applications of machine listening and critical and ethical perspectives on listening machines in culture.
 
-Practical, technical and critical topics to address:
-* *What are the challenges and opportunities of working with large digital audio databases for humanities researchers and archivists?
+* *What are the challenges and opportunities of working with large digital audio databases for humanities researchers, sound artists and archivists?*
 * *How is machine listening being applied in other areas of research and culture and what can we learn from this?*
-* *What issues arise in importing machine listening and learning methods directly from the information sciences into humanities research?*
-* *How might critical insights from the humanities -- media archeology, sensory ethnography, sonic sociology etc. - inform the design of future listening algorithms?*  
+* *How might critical insights from the humanities -- media archeology, sound arts and philosophy of technology - inform the design of future listening algorithms?*  
 
 ### Day 1 Presentations & discussion
 
 *Draft timetable: (subject to change)*
-+ 09:30 : Coffee
-+ 10:00 : Welcome
-+ 10:30 : Core participant presentations (4 presentations - 15 min each)
-+ 11:30 : Break
-+ 12:00 : Core participant presentations (4 presentations - 15 mins each)
-+ 13:00 : Lunch Break
-+ 14:00 : Core Participant presentations (4 presentations - 15 min each)
-+ 15:30 : Break
-+ 16:00 : Roundtable discussion with reflections from listeners
-+ 18.00 : Fin
+
++ 10:30 : Coffee
++ 11:00 : Welcome
++ 11:30 : Presentations
++ 12:30 : lunch
++ 13:30 : Presentations
++ 14:30 : breather
++ 14:45 : Presentations
++ 15:45 : Coffee Break
++ 16:15 : Break out group discussions
++ 18.15 : Fin
 
 Dinner in Brighton
 
@@ -44,7 +45,7 @@ Dinner in Brighton
 
 *Draft time table -- subject to change*
 + 09:30 : Coffee
-+ 10:00 : Round Table - chaired by listeners
++ 10:00 : Round Table 
 + 12:00 : Kaggle briefing and team formation
 + 13:00 : Lunch Break
 + 14:00 : Kaggle challenge

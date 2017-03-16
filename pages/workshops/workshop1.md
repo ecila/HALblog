@@ -15,7 +15,7 @@ April 27-28. Sussex Humanities Lab, University of Sussex, Brighton
 
 The network provides a unique opportunity to curate a conversation across disciplines, and to provoke broad imaginings around the implications of and possibilities for machine listening in research and practice, as well as in our daily lives.
 
-The first workshop aims to lay the foundations for an interdisciplinary research agenda by bringing together researchers and practitioners from history, archive services, philosophy, media archeology, sound arts, computer science and computer music to share archival, technical and critical perspectives on algorithmic listening.
+The first workshop will lay the foundations for an interdisciplinary research agenda by bringing together researchers and practitioners from history, archive services, philosophy, media archeology, sound arts, computer science and computer music to share archival, technical and critical perspectives on algorithmic listening.
 
 
  Discussions will be framed and stimulated by short presentations from leading researchers and practitioners. Each will present their current research, highlighting how it inspires or challenges thinking around the implications or applications of machine listening - in research, practice and daily life.

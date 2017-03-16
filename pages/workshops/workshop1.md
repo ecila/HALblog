@@ -10,14 +10,17 @@ permalink: "/workshop1/"
 
 <!-- Distant listening and deep learning -->
 
-### Grounding interdisciplinary algorithmic listening
+### Distant Listening & Deep Learning
 April 27-28. Sussex Humanities Lab, University of Sussex, Brighton
 
-The network provides a unique opportunity to curate a conversation across disciplines in order to provoke broad imaginings around the implications of and possibilities for machine listening in research and practice as well as in our daily lives.
+The network provides a unique opportunity to curate a conversation across disciplines, and to provoke broad imaginings around the implications of and possibilities for machine listening in research and practice, as well as in our daily lives.
 
-The first workshop aims to lay the foundations for building an interdisciplinary research agenda by bringing together archivists, researchers and practitioners from history, philosophy, media archeology, sound arts, computer science and computer music to share archival, technical and critical perspectives on algorithmic listening.
+The first workshop aims to lay the foundations for an interdisciplinary research agenda by bringing together researchers and practitioners from history, archive services, philosophy, media archeology, sound arts, computer science and computer music to share archival, technical and critical perspectives on algorithmic listening.
 
- Discussions will be framed and stimulated by short presentations on emerging issues in digital audio archive management, current advances in creative and scientific applications of machine listening and critical and ethical perspectives on listening machines in culture.
+
+ Discussions will be framed and stimulated by short presentations from leading researchers and practitioners. Each will present their current research, highlighting how it inspires or challenges thinking around the implications or applications of machine listening - in research, practice and daily life.
+
+
 
 * *What are the challenges and opportunities of working with large digital audio databases for humanities researchers, sound artists and archivists?*
 * *How is machine listening being applied in other areas of research and culture and what can we learn from this?*
@@ -45,7 +48,7 @@ Dinner in Brighton
 
 *Draft time table -- subject to change*
 + 09:30 : Coffee
-+ 10:00 : Round Table 
++ 10:00 : Round Table
 + 12:00 : Kaggle briefing and team formation
 + 13:00 : Lunch Break
 + 14:00 : Kaggle challenge

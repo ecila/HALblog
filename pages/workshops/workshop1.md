@@ -35,7 +35,7 @@ The first workshop will lay the foundations for an interdisciplinary research ag
 + 11:30 : Presentations
 + 13:00 : lunch
 + 14:00 : Presentations
-+ 15:30 : Coffee Break & Feedback Cello Demo
++ 15:30 : Coffee Break & Feedback Cello Installation
 + 16:15 : Break out group discussions
 + 18.15 : Fin
 

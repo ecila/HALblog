@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Network motivations"
 title: "Interdisciplinary algorithmic listening"
-teaser: "Toward a careful design of our hybrid ears"
+teaser: "Toward a well-rounded design of future hybrid ears"
 categories:
   - Discussions
 tags:
@@ -40,7 +40,7 @@ With ecologist and engineering colleagues I am working on the development of aco
 
 + *Humanising Algorithmic Listening* might mean considering the rights of humans even where the wellbeing of other species is the primary concern.
 
-A similar enthusiasm for computational methods to afford ['distant listening'](https://blogs.ischool.utexas.edu/hipstas/) or 'close listening'  exists in the Digital Humanities community.  The fundamentally aural nature of poetry and oral history have traditionally been overlooked in humanities research, where textual sources are most common. Interviews are transcribed;  the semantics of the written word is studied but the expression, intonation and rhythm voice is seldom preserved. Just as musically-meaningful features have been built from low level audio features for application in Music Information Retrieval, there is a huge potential for humanities researchers to engage with large oral and sonic archives in new ways with algorithmic methods. Responses to an exploratory workshop in the application of machine listening in Oral History that we ran at [DH2016](http://dh2016.adho.org/abstracts/10) and for  [arts and humanities Doctoral students](http://www.techne.ac.uk/for-students/techne-events/apr-2015/data-mining-the-audio-of-oral-history-a-workshop-in-music-information-retrieval) suggest this is a rich future research direction.
+A similar enthusiasm for computational methods to afford ['distant listening'](https://blogs.ischool.utexas.edu/hipstas/) or 'close listening'  exists in the Digital Humanities community.  The fundamentally aural nature of poetry and oral history have traditionally been overlooked in humanities research, where textual sources are most common. Interviews are transcribed;  the semantics of the written word is studied but the expression, intonation and rhythm voice is seldom preserved. Just as musically-meaningful features have been built from low level audio features for application in Music Information Retrieval, there is a huge potential for humanities researchers to engage with large oral and sonic archives in new ways with algorithmic methods. Responses to an exploratory workshop in the application of machine listening in Oral History that we ran at [DH2016](http://dh2016.adho.org/abstracts/10) and for  [arts and humanities doctoral students](http://www.techne.ac.uk/for-students/techne-events/apr-2015/data-mining-the-audio-of-oral-history-a-workshop-in-music-information-retrieval) suggest this is a rich future research direction.
 
 + *Humanising Algorithmic Listening* might mean designing new audio features and machine listening methods for use in humanities research.
 

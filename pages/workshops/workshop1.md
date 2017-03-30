@@ -23,7 +23,7 @@ The first workshop will lay the foundations for an interdisciplinary research ag
 
 
 * *What are the challenges and opportunities of working with large digital audio databases for humanities researchers, sound artists and archivists?*
-* *How is machine listening being applied in other areas of research and culture and what can we learn from this?*
+* *How is machine listening being applied in other areas of research and practice and what can we learn from this?*
 * *How might critical insights from the humanities -- media archeology, sound arts and philosophy of technology - inform the design of future listening algorithms?*  
 
 ### Day 1 Presentations & discussion
@@ -33,11 +33,9 @@ The first workshop will lay the foundations for an interdisciplinary research ag
 + 10:30 : Coffee
 + 11:00 : Welcome
 + 11:30 : Presentations
-+ 12:30 : lunch
-+ 13:30 : Presentations
-+ 14:30 : breather
-+ 14:45 : Presentations
-+ 15:45 : Coffee Break
++ 13:00 : lunch
++ 14:00 : Presentations
++ 15:30 : Coffee Break & Feedback Cello Demo
 + 16:15 : Break out group discussions
 + 18.15 : Fin
 

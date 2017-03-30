@@ -8,9 +8,9 @@ image:
 permalink: "/workshop1/"
 ---
 
-<!-- Distant listening and deep learning -->
 
-### Distant Listening & Deep Learning
+
+### Interdisciplinary perspectives: Deep & Distant Listening
 April 27-28. Sussex Humanities Lab, University of Sussex, Brighton
 
 The network provides a unique opportunity to curate a conversation across disciplines, and to provoke broad imaginings around the implications of and possibilities for machine listening in research and practice, as well as in our daily lives.

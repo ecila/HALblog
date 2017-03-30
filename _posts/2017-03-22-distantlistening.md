@@ -15,9 +15,9 @@ tags:
 #
 header: no
 image:
-    title: grays_lato_img.gif
-    thumb: Logo_HighRes_cochlear_notext.png
-    homepage: grays_lato_img.gif
+    title: gmattellBarbie.jpg
+    thumb: gmattellBarbie.jpg
+    homepage: gmattellBarbie.jpg
 mediaplayer: true
 ---
 

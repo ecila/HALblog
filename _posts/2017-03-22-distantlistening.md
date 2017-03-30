@@ -15,9 +15,9 @@ tags:
 #
 header: no
 image:
-    title: gmattellBarbie.jpg
-    thumb: gmattellBarbie.jpg
-    homepage: gmattellBarbie.jpg
+    title: mattellBarbie.jpg
+    thumb: mattellBarbie.jpg
+    homepage: mattellBarbie.jpg
 mediaplayer: true
 ---
 

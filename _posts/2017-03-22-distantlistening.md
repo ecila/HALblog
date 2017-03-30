@@ -79,13 +79,13 @@ The value of practice-based, creative methods in enriching our understanding of 
 <p></p>
 The range of concerns and ambitions present today, even amongst close colleagues,  resonates with positions held throughout the history of Philosophy of Technology: from the utopian views of technology post-enlightenment, through twentieth century dystopian warnings to limit the rush of technological invention to assumptions that we are natural born cyborgs and inevitably intertwined with technologies of all kinds.   
 
-## Toward a careful design for future hybrid ears
+## Toward a well-rounded design for future hybrid ears
 <p></p>
 
 The aim of this network is not to reconcile these different perspectives, but to curate conversations across contemporary research communities in order that technical advances, practical ambition and creative investigation mutually inform and are nourished by critical, philosophical perspectives into how technology mediates our existence. The integration of technical, philosophical, creative and practical perspectives may be messy at first, but is ultimately necessary in order to design and manage the applications of effective, ethical and meaningful listening algorithms for the future.
 
 
-Follow us on [twitter](http://twitter.com/algolistening) to get future blog updates
+Follow us on [twitter](http://twitter.com/algolistening) to get future blog posts
 
 <!-- >
 

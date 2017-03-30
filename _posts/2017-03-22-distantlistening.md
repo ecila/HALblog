@@ -15,9 +15,9 @@ tags:
 #
 header: no
 image:
-    title: gmattellBarbie.jpg
-    thumb: gmattellBarbie.jpg
-    homepage: gmattellBarbie.jpg
+    title: mattellBarbie.jpg
+    thumb: mattellBarbie.jpg
+    homepage: mattellBarbie.jpg
 mediaplayer: true
 ---
 
@@ -48,7 +48,6 @@ A similar enthusiasm for computational methods to afford ['distant listening'](h
 
 
 ### Pervasive listening machines: Anxiety over always on devices  
-<!-- -->
 <p></p>
 
 Enthusiasm over new applications of machine listening in research is balanced by social anxiety over their increasing incorporation into  everyday consumer devices. [Amazon's Echo](https://www.amazon.com/dp/B00X4WHP5E), [Google's Home](https://madeby.google.com/intl/en_uk/home/), [Apple's, Siri](http://www.apple.com/uk/ios/siri/), [Microsoft's Cortana](https://support.microsoft.com/en-gb/help/17214/windows-10-what-is), and [Matell's Hello Barbie](http://hellobarbiefaq.mattel.com) are all part of an emerging range of voice-activated products that record audio and conversations from phones, wearables, and in-home agents. [Recent controversy](https://www.engadget.com/2016/12/27/amazon-echo-audio-data-murder-case/) over access to the recording archive of an Amazon ECHO in a US murder trial raises questions around privacy and the Internet of Things in general, but these 'always-on' listening devices are seen to be particularly problematic: They are *pervasive*, appearing in all aspects of our lives, and able to listen in all directions; they are *persistent*, with no current legislation over how long records are stored for; and they *process* the data they collect, seeking to understand what people are saying and *acting* on what they are able to understand.

@@ -18,13 +18,14 @@ The network provides a unique opportunity to curate a conversation across discip
 The first workshop will lay the foundations for an interdisciplinary research agenda by bringing together researchers and practitioners from history, archive services, philosophy, media archeology, sound arts, computer science and computer music to share archival, technical and critical perspectives on algorithmic listening.
 
 
- Discussions will be framed and stimulated by short presentations from leading researchers and practitioners. Each will present their current research, highlighting how it inspires or challenges thinking around the implications or applications of machine listening - in research, practice and daily life.
+ Discussions will be framed and stimulated by short presentations from leading researchers and practitioners. Each will present their current research, highlighting how it inspires or challenges thinking around the implications or applications of machine listening - in research, practice and daily life. Questions covered might include topics such as:
 
 
 
-* *What are the challenges and opportunities of working with large digital audio databases for humanities researchers, sound artists and archivists?*
-* *How is machine listening being applied in other areas of research and practice and what can we learn from this?*
-* *How might critical insights from the humanities -- media archeology, sound arts and philosophy of technology - inform the design of future listening algorithms?*  
+* Practical: *What are the challenges and opportunities of working with large digital audio databases for humanities researchers, sound artists and archivists?*
+* Technical: *How is machine listening being applied in other areas of research and practice and what can we learn from this?*
+* Critical: *What are the cultural, epistemological or phenomenological implications of technologically mediated listening?*
+* Philosophical: *How can ideas from the history of philosophy of technology be applied to productively shape ethical and technical designs in the future? *
 
 ### Day 1 Presentations & discussion
 

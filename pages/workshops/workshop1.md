@@ -68,32 +68,77 @@ Dinner in Brighton
 ## <a name="speakers"></a>  SPEAKERS
 ----
 ### Ron Chrisley -
+<p></p>
+<p></p>
+----
 ### Tristan Clutterbuck -
+<p></p>
+<p></p>
+----
 ### Fiona Courage -
+<p></p>
+<p></p>
+----
 ### Steven Dorrestijn -
-### Beatrice Fazi -
+<p></p>
+<p></p>
+----
 
-### Tim Hitchcock - *Listening to the Dead*
-![TM](p_hitchcock15.jpg)
+![image of Beatrice Fazi]({{site.ulrimg}}p_fazi_beatrice.png)
+### **Beatrice Fazi** -
+
+
+
+Beatrice Fazi is Research Fellow in Digital Humanities & Computational Culture at the Sussex Humanities Lab (University of Sussex, United Kingdom). Her primary areas of expertise are the philosophy of computation, the philosophy of technology and the new emerging field of media philosophy. Beatrice’s current work investigates the limits and potentialities of formal reasoning in relation to computation, and aims to offer a re-conceptualisation of contingency within formal axiomatic systems vis-à-vis technoscientific notions of incompleteness and incomputability. This research is part of a monograph that she is currently writing on how indeterminacy shapes the ontological foundation of computational aesthetics.
+<p></p>
+<p></p>
+
+----
+
+![TM]({{site.urlimg}}p_hitchcock15.jpg)
+### **Tim Hitchcock** - *Listening to the Dead*
+<p></p>
 
 The traces of the past historians normally rely upon are made up of rotting print and fragile manuscript.  But a proportion of this material represents speech uttered in known environments – courtrooms, churches and parliamentary chambers.  And as these traces of the dead have been digitised and turned in to a new kind of 'object of study' (searchable, mash-upable, and macroscopable) we are increasingly challenged to analyse them in light of all the other forms of data that intersect with mere textual recordings   This presentation briefly suggest that the addition of a quantifiable understanding of sound (reflecting historical spaces and environments) to a ‘big data’ approach to textual representations of historical speech, allows us to understand the meaning and import of that speech (and inherited text) in a fundamentally new way.  It allows to listen to the dead, in hopes of hearing the timbre and rhythms of their words.
 
 Tim Hitchcock is Professor of Digital History at the University of Sussex, and co-director of the Sussex Humanities Lab.  A historian of eighteenth and nineteenth century London, Hitchcock has published widely on poverty, sexuality and crime.  With Robert Shoemaker, he has also been responsible for half a dozen major web resources making searchable and re-usable some 35 billion words of historical text and several hundred thousand images.   
 
-### Chris Kiefer -
-### Parag Mital -
-### Shintaro Miyazaki -
+<p></p>
+<p></p>
+----
 
-### Sally-Jane Norman - *Tuning (with/ to/ by) Exosomatic Organs*
-![SJN](/p_sjn.jpg)
+### **Chris Kiefer** -
+
+<p></p>
+<p></p>
+----
+
+### **Parag Mital** -
+
+<p></p>
+<p></p>
+----
+### **Shintaro Miyazaki** -
+
+<p></p>
+<p></p>
+
+----
+![SJN]({{site.urlimg}}p_sjn.jpg)
+### **Sally-Jane Norman** - *Tuning (with/ to/ by) Exosomatic Organs*
+<p></p>
 
 The Old English term *hlysnan* designates listening, hearing, and paying attention, and musicking history abounds in technical artefacts designed to extend our listening abilities. These exosomatic organs (Robert Innis) augment human expressivity, soliciting their creative users and audiences by employing and deploying algorithmic functions – sets of rules or processes. Drawing on music history, I will argue that cultural tuning is key to humanising emerging algorithmic listening practices.
 
 Sally-Jane Norman is Professor of Performance Technologies and Co-Director of Sussex Humanities Lab where she leads the  ‘Digital Technologies, Digital Performance’ strand. She joined Sussex after serving as founding Director of Culture Lab at Newcastle University, Research Director at the Institut International de la Marionnette (Charleville-Mézières), and Artistic Co-Director of STEIM (co-organiser of the first Touch Festival with Michel Waisvisz and Joel Ryan). She is a dual citizen of Aotearoa/ New Zealand and France, trandisciplinary performance scholar (Doctorat d’état, Paris III) and sometime practitioner.  From July, Sally Jane will become Director of Te Koki - New Zealand School of Music, at Victoria University in Wellington, Aotearoa.
 
+<p></p>
+<p></p>
+----
 
-### Dan Stowell - *Computers Listening to Birds*
-![DS](https://github.com/ecila/HALblog/blob/gh-pages/images/p_danStowell.jpeg)
+![DS]({{site.urlimg}}p_danStowell.jpeg)
+### **Dan Stowell** - *Computers Listening to Birds*
+<p></p>
 
 The sounds that birds make are a fascinating challenge for algorithmic listening. Often there is evidence of much complexity, yet how little we understand about the content and purpose of each individual sound. (Whereas with human sounds, we fool ourselves into thinking that we do understand the content and purpose.) I will outline the ways in which we have developed machine listening methods adapted to specific aspects of bird vocalisation - its fine details and its temporal structure - and how the challenge relates to the wider field of machine listening.
 

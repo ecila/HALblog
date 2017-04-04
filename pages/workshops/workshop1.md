@@ -84,7 +84,7 @@ Dinner in Brighton
 <p></p>
 ----
 
-![image of Beatrice Fazi]({{site.urlimg}}p_fazi_beatrice.png)
+![image of Beatrice Fazi]({{site.urlimg}}p_fazi_beatrice.jpg)
 ### **Beatrice Fazi** -
 
 

@@ -28,7 +28,7 @@ This blog is intended as a scratch pad for discussions. In these opening posts C
 There is a broad mix of disciplines represented, and it may be that any two participants have very little in common. This is  intentional. The network was motivated, in part, by recent personal experiences of working across research communities -- computer science, interactive music, soundscape ecology and most recently digital humanities. I have been struck -- both confused and inspired -- by the differences in attitudes, concerns, approach and ambitions of different disciplines with respect to the use of technology in general, and machine listening in particular, in research and practice. In this first post I will outline some of the personal motivations for the network, and consider some of the ways in which we might fruitfully 'humanise' algorithmic listening.
 
 
-### Exosomatic listening organs: The promise of new sonic prostheses
+## Exosomatic listening organs: The promise of new sonic prostheses
 <p></p>
 For celebrants of new technology, machine listening is as a key enabler, holding promise of unlocking new ways to understand and interact with the world.  Decades of work in speech processing and music information retrieval have produced machine listening algorithms capable of accurately recognising aspects of human speech, or music such as genre, instrument melodic or rhythmic features. Current research is exploring other ways that machine listening could open up new ways of understanding and engaging with our lived environments across many other domains in research and industry: From [digital humanities](https://blogs.ischool.utexas.edu/hipstas/) to [conservation biology](https://rfcx.org/), [industrial monitoring](https://techcrunch.com/2017/01/29/the-sound-of-impending-failure/) to [audio archive management](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N014111/1) we are learning to listen with algorithms.
 
@@ -49,7 +49,7 @@ A similar enthusiasm for computational methods to afford ['distant  or close lis
 
 
 
-### Pervasive listening machines: Anxiety over always on devices  
+## Pervasive listening machines: Anxiety over always on devices  
 <p></p>
 
 Enthusiasm over new applications of machine listening in research is balanced by social anxiety over their increasing incorporation into  everyday consumer devices. [Amazon's Echo](https://www.amazon.com/dp/B00X4WHP5E), [Google's Home](https://madeby.google.com/intl/en_uk/home/), [Apple's, Siri](http://www.apple.com/uk/ios/siri/), [Microsoft's Cortana](https://support.microsoft.com/en-gb/help/17214/windows-10-what-is), and [Matell's Hello Barbie](http://hellobarbiefaq.mattel.com) are all part of an emerging range of voice-activated products that record audio and conversations from phones, wearables, and in-home agents. [Recent controversy](https://www.engadget.com/2016/12/27/amazon-echo-audio-data-murder-case/) over access to the recording archive of an Amazon ECHO in a US murder trial raises questions around privacy and the Internet of Things in general, but these 'always-on' listening devices are seen to be particularly problematic: They are *pervasive*, appearing in all aspects of our lives, and able to listen in all directions; they are *persistent*, with no current legislation over how long records are stored for; and they *process* the data they collect, seeking to understand what people are saying and *acting* on what they are able to understand.
@@ -62,7 +62,7 @@ This insidious surveillance contributes to widespread social anxieties around au
 ![HelloBarbie](http://hellobarbiefaq.mattel.com/wp-content/uploads/2015/08/infographic.jpg) *Mattell's controversial [Hello Barbie](http://hellobarbiefaq.mattel.com/) features speech recognition and progressive learning features to create "the first fashion doll that can have two-way conversation with girls". The girls' conversations are stored on a remote server. It is not clear if it will also talk with boys.*
 
 ---
-### Unpacking black boxes through listening
+## Unpacking black boxes through listening
 <p></p>
 Part of this social anxiety stems from the unknown. There is no equivalent of an ingredients list for these algorithmically-enhanced consumer devices; commercial companies are not required to disclose their algorithms. From a public perspective, these are black boxes, the details of their operation is a Great Unknown. In some cases, the workings of bleeding edge machine listening and learning algorithms are equally evasive to the software developers that created them. For example, in the case of multi-layered neural networks used in Deep Learning, the maths is well understood, but in many cases we don't know why a particular model is successful and we can't predict it's response to a particular input without actually trying it.
 
@@ -70,7 +70,7 @@ The extraordinary minds at [Deep Mind](https://deepmind.com/) are no doubt devel
 
 + *Humanising Algorithmic Listening* might mean enriching both our formal and intuitive understandings of how extant and emerging machine listening algorithms work in sonic terms.
 
-### Understanding human-machine agency in interactive performance
+## Understanding human-machine agency in interactive performance
 <p></p>
 A belief in the value of practice-based, creative methods in enriching our understanding of technological mediation is common to many network members. And machine listening has been extensively explored and developed in interactive music systems for decades. By imbuing computers with even simple pitch and amplitude tracking abilities we can build software instruments which we can interact with in fundamentally different ways from traditional acoustic, electronic, or even manually controlled digital instruments. This was my first introduction to machine listening. As a cello-playing PhD student I was interested in how to build software performance systems which could convincingly improvise with a human instrumentalist, the litmus test being the ability to make convincing musical responses and more ambitiously, suggestions. When *performing* with, rather than formally analysing software systems we gain a different, experiential, understanding of machine listening, and its role in melding human-machine agencies. This will the main focus for workshop 2 and the topic of a future blog post by Paul Stapleton.
 

@@ -84,7 +84,7 @@ Dinner in Brighton
 <p></p>
 ----
 
-![image of Beatrice Fazi]({{site.ulrimg}}p_fazi_beatrice.png)
+![image of Beatrice Fazi]({{site.urlimg}}p_fazi_beatrice.png)
 ### **Beatrice Fazi** -
 
 
@@ -95,7 +95,7 @@ Beatrice Fazi is Research Fellow in Digital Humanities & Computational Culture a
 
 ----
 
-![TM]({{site.urlimg}}p_hitchcock15.jpg)
+![Image of Tim Hitchcock]({{site.urlimg}}p_hitchcock15.jpg)
 ### **Tim Hitchcock** - *Listening to the Dead*
 <p></p>
 

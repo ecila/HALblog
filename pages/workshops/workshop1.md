@@ -67,8 +67,39 @@ Dinner in Brighton
 
 ## <a name="speakers"></a>  SPEAKERS
 ----
+### Ron Chrisley -
+### Tristan Clutterbuck -
+### Fiona Courage -
+### Steven Dorrestijn -
+### Beatrice Fazi -
 
-... coming soon ... 
+### Tim Hitchcock - *Listening to the Dead*
+![TM](p_hitchcock15.jpg)
+
+The traces of the past historians normally rely upon are made up of rotting print and fragile manuscript.  But a proportion of this material represents speech uttered in known environments – courtrooms, churches and parliamentary chambers.  And as these traces of the dead have been digitised and turned in to a new kind of 'object of study' (searchable, mash-upable, and macroscopable) we are increasingly challenged to analyse them in light of all the other forms of data that intersect with mere textual recordings   This presentation briefly suggest that the addition of a quantifiable understanding of sound (reflecting historical spaces and environments) to a ‘big data’ approach to textual representations of historical speech, allows us to understand the meaning and import of that speech (and inherited text) in a fundamentally new way.  It allows to listen to the dead, in hopes of hearing the timbre and rhythms of their words.
+
+Tim Hitchcock is Professor of Digital History at the University of Sussex, and co-director of the Sussex Humanities Lab.  A historian of eighteenth and nineteenth century London, Hitchcock has published widely on poverty, sexuality and crime.  With Robert Shoemaker, he has also been responsible for half a dozen major web resources making searchable and re-usable some 35 billion words of historical text and several hundred thousand images.   
+
+### Chris Kiefer -
+### Parag Mital -
+### Shintaro Miyazaki -
+
+### Sally-Jane Norman - *Tuning (with/ to/ by) Exosomatic Organs*
+![SJN](p_sjn.jpg)
+
+The Old English term *hlysnan* designates listening, hearing, and paying attention, and musicking history abounds in technical artefacts designed to extend our listening abilities. These exosomatic organs (Robert Innis) augment human expressivity, soliciting their creative users and audiences by employing and deploying algorithmic functions – sets of rules or processes. Drawing on music history, I will argue that cultural tuning is key to humanising emerging algorithmic listening practices.
+
+Sally-Jane Norman is Professor of Performance Technologies and Co-Director of Sussex Humanities Lab where she leads the  ‘Digital Technologies, Digital Performance’ strand. She joined Sussex after serving as founding Director of Culture Lab at Newcastle University, Research Director at the Institut International de la Marionnette (Charleville-Mézières), and Artistic Co-Director of STEIM (co-organiser of the first Touch Festival with Michel Waisvisz and Joel Ryan). She is a dual citizen of Aotearoa/ New Zealand and France, trandisciplinary performance scholar (Doctorat d’état, Paris III) and sometime practitioner.  From July, Sally Jane will become Director of Te Koki - New Zealand School of Music, at Victoria University in Wellington, Aotearoa.
+
+
+### Dan Stowell - *Computers Listening to Birds*
+![DS](p_danStowell.jpeg)
+
+The sounds that birds make are a fascinating challenge for algorithmic listening. Often there is evidence of much complexity, yet how little we understand about the content and purpose of each individual sound. (Whereas with human sounds, we fool ourselves into thinking that we do understand the content and purpose.) I will outline the ways in which we have developed machine listening methods adapted to specific aspects of bird vocalisation - its fine details and its temporal structure - and how the challenge relates to the wider field of machine listening.
+
+Dan Stowell is a researcher in machine listening - which means using computation to understand sound signals. He co-leads the Machine Listening Lab at Queen Mary University of London, based in the Centre for Digital Music. Dan has worked on voice, music and environmental soundscapes, and is currently leading a five-year EPSRC fellowship project researching the automatic analysis of bird sounds. His first degree was from Cambridge University, and his PhD from Queen Mary University of London.
+
+
 
 ----
 

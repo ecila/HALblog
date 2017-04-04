@@ -12,11 +12,10 @@ Three workshops will be held throughout 2017:
 ### 1 Exchanging Perspectives: Machine Listening vs Listening Machines
 April 27-28. Sussex Humanities Lab, University of Sussex, Brighton
 
-* *What new ways of listening might algorithmic listening afford?*
-  * *What are the challenges and opportunities of working with large digital audio databases for humanities researchers and archivists?*
-  * *How is machine listening being applied in other areas of research and culture and what can we learn from this?*
-  * *What issues arise in importing machine listening and learning methods directly from the information sciences into humanities research?*
-  * *How might critical insights from the humanities -- media archeology, sensory ethnography, sonic sociology etc. - inform the design of future listening algorithms?*  
+* *What are the challenges and opportunities of working with large digital audio databases for humanities researchers, sound artists and archivists?*
+* *How is machine listening being applied in other areas of research and practice and what can we learn from this?*
+* *What are the cultural, epistemological or phenomenological implications of technologically mediated listening?*
+* *How can ideas from the history of philosophy of technology be applied to productively shape ethical and technical designs in the future?*
 
 ---
 

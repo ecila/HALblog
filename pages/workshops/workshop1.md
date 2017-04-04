@@ -13,6 +13,8 @@ permalink: "/workshop1/"
 ### Interdisciplinary perspectives: Deep & Distant Listening
 April 27-28. Sussex Humanities Lab, University of Sussex, Brighton
 
+[[ jump to: [SCHEDULE](#schedule) ...  [SPEAKERS](#speakers) ... [LOCATION](#location) ]]
+
 The network provides a unique opportunity to curate a conversation across disciplines, and to provoke broad imaginings around the implications of and possibilities for machine listening in research and practice, as well as in our daily lives.
 
 The first workshop aims to lay the foundations for an interdisciplinary research agenda by bringing together researchers and practitioners from history, archive services, philosophy, media archeology, sound arts, computer science and computer music to share archival, technical and critical perspectives on algorithmic listening.
@@ -27,6 +29,10 @@ We will consider questions such as:
 * *How is machine listening being applied in other areas of research and practice and what can we learn from this?*
 * *What are the cultural, epistemological or phenomenological implications of technologically mediated listening?*
 * *How can ideas from the history of philosophy of technology be applied to productively shape ethical and technical designs in the future?*
+
+----
+## <a name="schedule"></a> SCHEDULE
+----
 
 ### Day 1 Presentations & discussion
 
@@ -57,9 +63,24 @@ Dinner in Brighton
 + 17:00 : Roundtable discussion and summary of the day
 + 18.00 : Fin
 
+----
+
+## <a name="speakers"></a>  SPEAKERS
+----
+
+... coming soon ... 
 
 ----
 
-Location: Sussex Humanities Lab, Silverstone, University of Sussex, Falmer. BN1 9RG
+## <a name="location"></a>  LOCATION and DIRECTIONS
+----
+
+Sussex Humanities Lab, Silverstone SB211, Arts Road, Falmer, East Sussex, BN1 9RG
+
+We are a short bus or train journey from the centre of Brighton and within easy reach of London via the Victoria and Thameslink lines and the major international airports at Gatwick and Heathrow.
 
 Travel Directions can be found [here](http://www.sussex.ac.uk/about/directions)
+
+The Sussex Humanities Lab is located in the School of Media, Film & Music, Silverstone Building which is situated in Arts Road, between Arts blocks B and C (number '16' on the [campus map](www.sussex.ac.uk/about/documents/campusmap.pdf)).
+
+Participant accommodation is in central Brighton at the [Premiere Inn](http://www.premierinn.com/gb/en/hotels/england/east-sussex/brighton/brighton-city-centre.html). 144 North Street, Brighton, East Sussex BN1 1RE

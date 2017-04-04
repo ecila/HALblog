@@ -85,7 +85,7 @@ Tim Hitchcock is Professor of Digital History at the University of Sussex, and c
 ### Shintaro Miyazaki -
 
 ### Sally-Jane Norman - *Tuning (with/ to/ by) Exosomatic Organs*
-![SJN](p_sjn.jpg)
+![SJN](/p_sjn.jpg)
 
 The Old English term *hlysnan* designates listening, hearing, and paying attention, and musicking history abounds in technical artefacts designed to extend our listening abilities. These exosomatic organs (Robert Innis) augment human expressivity, soliciting their creative users and audiences by employing and deploying algorithmic functions – sets of rules or processes. Drawing on music history, I will argue that cultural tuning is key to humanising emerging algorithmic listening practices.
 
@@ -93,7 +93,7 @@ Sally-Jane Norman is Professor of Performance Technologies and Co-Director of Su
 
 
 ### Dan Stowell - *Computers Listening to Birds*
-![DS](p_danStowell.jpeg)
+![DS](https://github.com/ecila/HALblog/blob/gh-pages/images/p_danStowell.jpeg)
 
 The sounds that birds make are a fascinating challenge for algorithmic listening. Often there is evidence of much complexity, yet how little we understand about the content and purpose of each individual sound. (Whereas with human sounds, we fool ourselves into thinking that we do understand the content and purpose.) I will outline the ways in which we have developed machine listening methods adapted to specific aspects of bird vocalisation - its fine details and its temporal structure - and how the challenge relates to the wider field of machine listening.
 

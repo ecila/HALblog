@@ -116,7 +116,7 @@ Tim Hitchcock is Professor of Digital History at the University of Sussex, and c
 ### **Parag Mital** - *Auditory Perception and Attention and computational arts*
 
 <p></p>
-Will discuss a cursory overview of fMRI and EEG literature relating to auditory perception and attention mechanisms, behavioral science of auditory attention, and detail some computational investigations for understanding audio within a computational arts practice.
+I will present a cursory overview of fMRI and EEG literature relating to auditory perception and attention mechanisms, behavioral science of auditory attention, and detail some computational investigations for understanding audio within a computational arts practice.
 
 Parag K. MITAL (US) is an artist and interdisciplinary researcher obsessed with the nature of information, representation, and attention. Using film, eye-tracking, EEG, and fMRI recordings, he has worked on computational models of audiovisual perception from the perspective of both robots and humans, often revealing the disjunct between the two, through generative film experiences, augmented reality hallucinations, and expressive control of large audiovisual corpora. Through this process, he balances his scientific and arts practice, with both reflecting on each other: the science driving the theories, and the artwork re-defining the questions asked within the research. His work has been exhibited internationally including the Prix Ars Electronica, ACM Multimedia, Victoria & Albert Museum, London’s Science Museum, Oberhausen Short Film Festival, and the British Film Institute, and featured in FastCompany, BBC, NYTimes, CreativeApplications.Net, and CreateDigitalMotion.
 

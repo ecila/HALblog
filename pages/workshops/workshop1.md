@@ -85,8 +85,8 @@ Dinner in Brighton
 ----
 
 ![image of Beatrice Fazi]({{site.urlimg}}p_fazi_beatrice.jpg)
-### **Beatrice Fazi** -
-
+### **Beatrice Fazi** - *Listening with machines that are already ‘listening’? From Augmentation to Automation*
+*What does it mean to listen with or through machines that are already ‘listening’?* We can approach this question by examining the anthropomorphism that might be implicit in the notion of ‘listening algorithms’.  This will help me to argue for the difference between functions and processes of ‘augmentation’ on the one hand, and of ‘automation’ on the other. I will argue that whilst augmentation implies the extension and exteriorisation of predefined forms or modes of behaviour, contemporary developments in computational automation ask us instead to consider the possibility to move beyond a simulative paradigm or phenomenological analogies.
 
 
 Beatrice Fazi is Research Fellow in Digital Humanities & Computational Culture at the Sussex Humanities Lab (University of Sussex, United Kingdom). Her primary areas of expertise are the philosophy of computation, the philosophy of technology and the new emerging field of media philosophy. Beatrice’s current work investigates the limits and potentialities of formal reasoning in relation to computation, and aims to offer a re-conceptualisation of contingency within formal axiomatic systems vis-à-vis technoscientific notions of incompleteness and incomputability. This research is part of a monograph that she is currently writing on how indeterminacy shapes the ontological foundation of computational aesthetics.
@@ -123,8 +123,13 @@ Parag K. MITAL (US) is an artist and interdisciplinary researcher obsessed with 
 <p></p>
 <p></p>
 ----
-### **Shintaro Miyazaki** -
+### **Shintaro Miyazaki** - *Listening to Algorhythmics*
+![image of Shintaro Miyazaki]({{site.urlimg}}p_shintaro_IAMAS_2015.jpg)
+<p></p>
 
+The aim is to provide a probably diametrically opposed approach to “machine listening“ via a media archaeological inquiry into algorhythmic listening in the era between 1940–1965, where mainframe machine operators and scientists were listening to their computing machinery. I will provide some further implementations for the digital humanities context.
+
+Shintaro Miyazaki is a Berlin-born Swiss-Japanese media and design scholar and experimental media designer. He has been a Senior Researcher at the Critical Media Lab of the Institute of Experimental Design and Media Cultures, Academy of Art and Design part of the University of Applied Sciences and Arts Northwestern Switzerland in Basel since 2014 and since 2016 principle investigator there. Shintaro obtained a PhD in media theory at Humboldt-Universität in Berlin (2012). His current interests include cybernetics, design theory and research, non-visual modes of knowledge.
 <p></p>
 <p></p>
 

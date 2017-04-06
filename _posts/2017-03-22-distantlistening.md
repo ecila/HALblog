@@ -11,6 +11,7 @@ categories:
 tags:
   - info
 author: alice_eldridge
+comments: true
 date: 2017-03-27
 #
 # Styling

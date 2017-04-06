@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "WORKSHOPS"
+title: "EVENTS"
 header:
   image_fullwidth: "borchert1.gif"
 
-permalink: "/workshops/"
+permalink: "/events/"
 ---
 
 Three workshops will be held throughout 2017:
@@ -33,3 +33,7 @@ May 31-June 1. Sonic Arts Research Centre, Queen's University Belfast
 Sept 14-15. Sussex Humanities Lab, University of Sussex, Brighton
 
 * *What relationship do we want to have with listening algorithms and how do we go about designing them to achieve this?*
+
+---
+
+Public events to be announced ...

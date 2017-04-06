@@ -7,7 +7,19 @@ header:
 permalink: "/participants/"
 ---
 
+### Instigators
 
++ PI: [Alice Eldridge](http://www.sussex.ac.uk/profiles/127749) -- Research Fellow in Digital Technologies, Sussex Humanities Lab,  University of Sussex
++ Co-I: [Paul Stapleton](http://www.paulstapleton.net) Senior Lecturer in Music, SARC, Queen’s University Belfast
+
+### Advisory Board
+
++ [Kristina Anderson](http://tinything.com/?p=57) -- Chief Digital Story teller, STEIM, Amsterdam
++ [Fiona Courage](http://www.sussex.ac.uk/profiles/9183) --  Special Collections Manager, The Keep, Sussex               
++ [Simon Goldhill](http://www.classics.cam.ac.uk/directory/simon-goldhill) -- Director of CRASH, Kings College, Cambridge
++ [Sarah Pink](http://www1.rmit.edu.au/browse%3BID=vcnfenbj05lv) -- Distinguished Professor and Director of the Digital Ethnography Research Centre, RMIT University, Australia.
++ [Mark Plumbley](http://www.surrey.ac.uk/cvssp/people/mark_plumbley/) -- Professor of Signal Processing, University of Surrey
++ [Richard Ranft](https://uk.linkedin.com/in/richardranft) -- Head of Sound & Vision at The British Library
 + [John Bowers](http://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html#background) -- Professor of Creative Digital Practice, University of Newcastle
 + [Tristan Clutterbuck](http://tristanclutterbuck.tumblr.com/image/136825624304) -- PhD Student SARC, Queen’s University Belfast
 + [Ron Chrisley](http://www.sussex.ac.uk/profiles/476) -- Reader in Philosophy, Informatics, Evolutionary and Adaptive Systems Research Group, Centre for Cognitive Science, University of Sussex
@@ -29,21 +41,6 @@ permalink: "/participants/"
 + [Simon Waters](http://pure.qub.ac.uk/portal/en/persons/simon-waters(2eb6eeb9-1304-4399-ae1c-be09e9e55c89).html) -- Lecturer in Sonic Arts, Queen's University Belfast
 + ... More to be confirmed.
 
-
-
-### Project Management
-
-+ PI: [Alice Eldridge](http://www.sussex.ac.uk/profiles/127749) -- Research Fellow in Digital Technologies, Sussex Humanities Lab,  University of Sussex
-+ Co-I: [Paul Stapleton](http://www.paulstapleton.net) Senior Lecturer in Music, SARC, Queen’s University Belfast
-
-### Advisory Board
-
-+ [Kristina Anderson](http://tinything.com/?p=57) -- Chief Digital Story teller, STEIM, Amsterdam
-+ [Fiona Courage](http://www.sussex.ac.uk/profiles/9183) --  Special Collections Manager, The Keep, Sussex               
-+ [Simon Goldhill](http://www.classics.cam.ac.uk/directory/simon-goldhill) -- Director of CRASH, Kings College, Cambridge
-+ [Sarah Pink](http://www1.rmit.edu.au/browse%3BID=vcnfenbj05lv) -- Distinguished Professor and Director of the Digital Ethnography Research Centre, RMIT University, Australia.
-+ [Mark Plumbley](http://www.surrey.ac.uk/cvssp/people/mark_plumbley/) -- Professor of Signal Processing, University of Surrey
-+ [Richard Ranft](https://uk.linkedin.com/in/richardranft) -- Head of Sound & Vision at The British Library
 
 
 

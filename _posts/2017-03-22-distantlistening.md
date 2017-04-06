@@ -24,7 +24,8 @@ image:
     homepage: mattellBarbie.jpg
 mediaplayer: true
 ---
-
+- By Alice Eldridge
+<p></p>
 This blog is intended as a scratch pad for discussions. In these opening posts Co-I Dr Paul Stapleton and I will share our motivations for instigating this network;  network participants are also warmly invited to share relevant research or reflections, so please be warned that we may approach you for a contribution, and feel free to offer some words if there is a pertinent topic you would like to think through.
 
 There is a broad mix of disciplines represented, and it may be that any two participants have very little in common. This is  intentional. The network was motivated, in part, by recent personal experiences of working across research communities -- computer science, interactive music, soundscape ecology and most recently digital humanities. I have been struck -- both confused and inspired -- by the differences in attitudes, concerns, approach and ambitions of different disciplines with respect to the use of technology in general, and machine listening in particular, in research and practice. In this first post I will outline some of the personal motivations for the network, and consider some of the ways in which we might fruitfully 'humanise' algorithmic listening.

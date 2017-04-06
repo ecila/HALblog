@@ -36,8 +36,6 @@ We will consider questions such as:
 
 ### Day 1 Presentations & discussion
 
-*Draft timetable: (subject to change)*
-
 + 10:30 : Coffee
 + 11:00 : Welcome
 + 11:30 : Presentations: Practical & Technical
@@ -52,7 +50,7 @@ Dinner in Brighton
 
 ### Day 2 - Kaggle challenge
 
-*Draft time table -- subject to change*
+
 + 09:30 : Coffee
 + 10:00 : Round Table - initial agenda scoping
 + 12:30 : Kaggle briefing and team formation
@@ -81,7 +79,7 @@ Dinner in Brighton
 ----
 ![image of Steven Dorrestijn]({{site.urlimg}}p_Dorrestijn.jpg)
 ### Steven Dorrestijn - *Being heard and remembered: Technical mediation and what it means to be human*
-The technical mediation approach in the philosophy of technology considers that technology is more than just an external factor that can support and hinder human life. Technology is constitutive for human self-understanding and for what it means to be human. What does this mean for an ethics of technology? Must we learn to take care of our hybrid selves? For this occasion, I will especially refer to the impact of recording and transporting speech. 
+The technical mediation approach in the philosophy of technology considers that technology is more than just an external factor that can support and hinder human life. Technology is constitutive for human self-understanding and for what it means to be human. What does this mean for an ethics of technology? Must we learn to take care of our hybrid selves? For this occasion, I will especially refer to the impact of recording and transporting speech.
 
 
 Steven Dorrestijn is a senior researcher in the Ethics and Technology research group at Saxion University of Applied Sciences, the Netherlands. Dorrestijn’s research and publications focus on the philosophy and ethics of technology. He has a broad, cross-disciplinary interest in examples and conceptualizations of how technology mediates human existence. To make such insights about the impacts of technology on humans useful for the assessment and design of technologies he has develops the “Product Impact Tool”. For ethical reflection on living technically mediated lives Dorrestijn has specialized in the work of Michel Foucault and technology.

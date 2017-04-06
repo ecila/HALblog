@@ -79,14 +79,22 @@ Dinner in Brighton
 <p></p>
 <p></p>
 ----
-### Steven Dorrestijn -
+![image of Steven Dorrestijn]({{site.urlimg}}p_Dorrestijn.jpg)
+### Steven Dorrestijn - *Being heard and remembered: Technical mediation and what it means to be human*
+The technical mediation approach in the philosophy of technology considers that technology is more than just an external factor that can support and hinder human life. Technology is constitutive for human self-understanding and for what it means to be human. What does this mean for an ethics of technology? Must we learn to take care of our hybrid selves? For this occasion, I will especially refer to the impact of recording and transporting speech. 
+
+
+Steven Dorrestijn is a senior researcher in the Ethics and Technology research group at Saxion University of Applied Sciences, the Netherlands. Dorrestijn’s research and publications focus on the philosophy and ethics of technology. He has a broad, cross-disciplinary interest in examples and conceptualizations of how technology mediates human existence. To make such insights about the impacts of technology on humans useful for the assessment and design of technologies he has develops the “Product Impact Tool”. For ethical reflection on living technically mediated lives Dorrestijn has specialized in the work of Michel Foucault and technology.
+In 2012 Dorrestijn completed his PhD thesis, The design of our own lives: Technical mediation and subjectivation after Michel Foucault, at the University of Twente, the Netherlands. Previously he studied Philosophy in Paris and Philosophy and Mechanical Engineering in Twente.
+
+
 <p></p>
 <p></p>
 ----
 
 ![image of Beatrice Fazi]({{site.urlimg}}p_fazi_beatrice.jpg)
 ### **Beatrice Fazi** - *Listening with machines that are already ‘listening’? From Augmentation to Automation*
-*What does it mean to listen with or through machines that are already ‘listening’?* We can approach this question by examining the anthropomorphism that might be implicit in the notion of ‘listening algorithms’.  This will help me to argue for the difference between functions and processes of ‘augmentation’ on the one hand, and of ‘automation’ on the other. I will argue that whilst augmentation implies the extension and exteriorisation of predefined forms or modes of behaviour, contemporary developments in computational automation ask us instead to consider the possibility to move beyond a simulative paradigm or phenomenological analogies.
+*What does it mean to listen with or through machines that are already ‘listening’?* I engage with this question by examining the anthropomorphism that might be implicit in the notion of ‘listening algorithms’.  This will help me to argue for the difference between functions and processes of ‘augmentation’ on the one hand, and of ‘automation’ on the other. I will argue that whilst augmentation implies the extension and exteriorisation of predefined forms or modes of behaviour, contemporary developments in computational automation ask us instead to consider the possibility to move beyond a simulative paradigm or phenomenological analogies.
 
 
 Beatrice Fazi is Research Fellow in Digital Humanities & Computational Culture at the Sussex Humanities Lab (University of Sussex, United Kingdom). Her primary areas of expertise are the philosophy of computation, the philosophy of technology and the new emerging field of media philosophy. Beatrice’s current work investigates the limits and potentialities of formal reasoning in relation to computation, and aims to offer a re-conceptualisation of contingency within formal axiomatic systems vis-à-vis technoscientific notions of incompleteness and incomputability. This research is part of a monograph that she is currently writing on how indeterminacy shapes the ontological foundation of computational aesthetics.
@@ -123,8 +131,8 @@ Parag K. MITAL (US) is an artist and interdisciplinary researcher obsessed with 
 <p></p>
 <p></p>
 ----
-### **Shintaro Miyazaki** - *Listening to Algorhythmics*
 ![image of Shintaro Miyazaki]({{site.urlimg}}p_shintaro_IAMAS_2015.jpg)
+### **Shintaro Miyazaki** - *Listening to Algorhythmics*
 <p></p>
 
 The aim is to provide a probably diametrically opposed approach to “machine listening“ via a media archaeological inquiry into algorhythmic listening in the era between 1940–1965, where mainframe machine operators and scientists were listening to their computing machinery. I will provide some further implementations for the digital humanities context.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 #
 # Content
 #
@@ -11,6 +11,7 @@ categories:
 tags:
   - info
 author: alice_eldridge
+show_meta: true
 comments: true
 date: 2017-03-27
 #

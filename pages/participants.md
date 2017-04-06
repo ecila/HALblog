@@ -9,7 +9,7 @@ permalink: "/participants/"
 
 
 + [John Bowers](http://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html#background) -- Professor of Creative Digital Practice, University of Newcastle
-+ [Tristan Clutterbuck]() -- PhD Student SARC, Queen’s University Belfast
++ [Tristan Clutterbuck](http://tristanclutterbuck.tumblr.com/image/136825624304) -- PhD Student SARC, Queen’s University Belfast
 + [Ron Chrisley](http://www.sussex.ac.uk/profiles/476) -- Reader in Philosophy, Informatics, Evolutionary and Adaptive Systems Research Group, Centre for Cognitive Science, University of Sussex
 + [Palle Dahlstedt](https://soundcloud.com/palle-dahlstedt) -- Obel Professor of Art & Technology, Aalborg University 
 + [Tom Davis](http://staffprofiles.bournemouth.ac.uk/display/tdavis) -- Lecturer in Music and Audio Technology, University of Bournemouth

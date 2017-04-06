@@ -10,15 +10,12 @@
   url: "/participants/"
   side: left
 
-- title: Workshops
-  url: "/workshops/"
+- title: Workshop 1
+  url: "/workshop1/"
   side: left
   dropdown:
-  - title: "Workshop 1"
-    url: "/workshop1/"
-    dropdown:
-    - title: "Schedule"
-      url: "/schedule/"
+    - title: "Schedule & speakers"
+      url: "/schedule&speakers/"
 
 - title: Blog
   url: "/blog/"

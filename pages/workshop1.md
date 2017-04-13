@@ -18,7 +18,7 @@ The network provides a unique opportunity to curate a conversation across discip
 
 The first workshop aims to lay the foundations for an interdisciplinary research agenda by bringing together researchers and practitioners from history, archive services, philosophy, media archeology, sound arts, computer science and computer music to share archival, technical and critical perspectives on algorithmic listening.
 
-On day 1 core participants from history, archives, computer science, computer music, cultural studies and philosophy will give short presentations to stimulate an initial mapping out of future research agenda. Following the round table on day 2, participants will work together in groups to consider the sorts of questions machine listening might open up in humanities research. Teams will be armed with python notebooks loaded with relevant machine listening and learning libraries. The winning idea will be submitted to online data science community, Kaggle.
+On day 1 core participants from will give short presentations around covering practical archival issues, technical, philosophical and critical perspectives in order to stimulate an initial mapping out of a future research agenda. Following the round table on day 2, participants will work together in groups to consider the sorts of questions machine listening might open up in humanities research. Teams will be armed with python notebooks loaded with relevant machine listening and learning libraries. The winning idea will be submitted to online data science community, Kaggle.
 
 All discussions will be mediated and documented by human and machine listeners.
 

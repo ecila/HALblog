@@ -43,12 +43,18 @@ Dinner in Brighton
 ----
 
 ----
-### Ron Chrisley -
+![image of Ron Chrisley]({{site.urlimg}}p_chrisley.jpg)
+### **Ron Chrisley**
+*What would it be for a robot to sing?*  
 <p></p>
+Drawing on my experiences from investigating this question in the context of a Nao robot, I outline a number of relevant dimensions such as dis/embodiment, playback vs. synthesis, skill, and the potential for lyricism.  I focus on the role that a singing robot’s own listening capability can/should play in its performance and/or acquisition of singing skills.
+
+My academic connection with computers and sound started as an undergraduate at Stanford.  Each of my close friends from my freshman dorm has gone on to make a mark in computers and sound, whether it be inventing the Shazam algorithm, founding a key Hollywood audio editing firm (Audio Mechanics), patenting a sound spatialisation chip widely used in Soundblaster cards in the 80s and 90s, or leading one of the speech recognition teams behind Google Voice.  Like them, I studied computer music under John Chowning and digital signal processing under Julius Smith.  I also studied music theory and experimental forms of music composition.  After Stanford, I worked on neural networks for speech recognition with Teuvo Kohonen in Helsinki, and at ATR in Japan.  My current related interests include expectation-based models of sensory experience, including audition, and the aesthetic and engineering challenges of answering the question:  What would it be for a robot to sing?
+
 <p></p>
 ----
 ![image of Tristan Clutterbuck]({{site.urlimg}}p_clutterbuck.jpg)
-### Tristan Clutterbuck
+### **Tristan Clutterbuck**
 *Listening is not listening, content is not content*
 <p></p>
 In spite of continuous efforts to describe the relationship between listening, content, and meaning in music - a stable and widely applicable account remains elusive. Each lacking the integrity or stability to reach much further than a description of the context of the breath which utters them. My interest lies in how interpretations of machine agency / listening interact with, and feed-back into, how we describe and construct meaningful human practices. How metaphors of intentional human behaviour are constructed through the complex network of system outputs, user experiences, and system author descriptions (Jichen Zhu). Leaning on actor-network theory and embodied cognition, this talk questions the usefulness of these metaphors, and examines the heuristic relationships between content, context, and meaning that constitute current machine-listening practices. Envisioning a speculative, explicitly ‘multiscale’ and ecological approach to machine listening - one which questions the ethics of outsourcing the practices of categorisation and group formation to the computational.
@@ -59,7 +65,7 @@ Tristan Clutterbuck is a PhD candidate at the Sonic Arts Research Centre whose p
 <p></p>
 ----
 ![image of Fiona Courage]({{site.urlimg}}p_courage.jpg)
-### Fiona Courage
+### **Fiona Courage**
 *Describing and accessing sound recordings*
 <p></p>
 Archivists have long been recipients and keepers of records, from scrolls through to hard copy memos and scribbled letters from the papers of individuals and institutions. Whilst traditional methods of cataloguing have served to describe these ‘traditional’ types of record, a century of technological development has presented archivists with new formats to preserve and describe, including sound recordings. This presentation will concentrate on the challenges and opportunities that are faced by archivists in describing and accessing sound recordings, looking to the opportunities that new technologies and methods may provide to open up sound archives.
@@ -71,7 +77,7 @@ Fiona Courage is the University of Sussex Special Collections Manager and Curato
 <p></p>
 ----
 ![image of Steven Dorrestijn]({{site.urlimg}}p_Dorrestijn.jpg)
-### Steven Dorrestijn
+### **Steven Dorrestijn**
 *Being heard and remembered: Technical mediation and what it means to be human*
 <p></p>
 The technical mediation approach in the philosophy of technology considers that technology is more than just an external factor that can support and hinder human life. Technology is constitutive for human self-understanding and for what it means to be human. What does this mean for an ethics of technology? Must we learn to take care of our hybrid selves? For this occasion, I will especially refer to the impact of recording and transporting speech.
@@ -108,12 +114,7 @@ Tim Hitchcock is Professor of Digital History at the University of Sussex, and c
 
 <p></p>
 <p></p>
-----
 
-### **Chris Kiefer** -
-
-<p></p>
-<p></p>
 ----
 ![Image of Parag Mital]({{site.urlimg}}p_parag.png)
 ### **Parag Mital**

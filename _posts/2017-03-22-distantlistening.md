@@ -89,7 +89,7 @@ The range of concerns and ambitions present today, resonate with positions held 
 The aim of this network is not to reconcile these different perspectives, but to curate conversations across contemporary research communities in order that technical advances, practical ambition and creative investigation mutually inform and are nourished by critical, philosophical perspectives into how technology mediates our existence. The integration of technical, philosophical, creative and practical perspectives may be messy at first, but is necessary in order to design and manage the applications of effective, ethical and meaningful listening algorithms for the future.
 
 
-Follow us on [twitter](http://twitter.com/algolistening) to get future blog posts
+Follow us on [twitter](http://twitter.com/algolistening) to get alerts for future blog posts.
 <p></p>
 
 <!-- >

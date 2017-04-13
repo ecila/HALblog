@@ -1,52 +1,162 @@
 ---
 layout: page-fullwidth
-subheadline:  "Multi-Device Layouts in Color"
-title:  "Grid & Colors"
-teaser: "Create powerful multi-device layouts quickly and easily with the 12-column, nest-able Foundation grid. To optimize the size of your images, you find the correct dimensions beneath. Further below you find the <a href='#color-scheme-and-colors-codes'>colorscheme and colors</a> used for <em>Feeling Responsive</em> and their color codes."
-breadcrumb: true
-categories:
-    - design
+subheadline:  ""
+title:  NETWORK PARTICIPANTS
 permalink: /design/grid/
-header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-image:
-    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
+header: no
 ---
-*Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
 <!--more-->
 
-<div class="show-for-small">
-<div class="row">
-    <div class="small-12 columns">
-<h3>Small Grid</h3>
-        </div><!-- /.small-12.columns -->
-    </div>
-<div class="row">
-  <div class="small-6 columns">
-      <img src="http://placehold.it/470x264/6b6351/e1dcd7&amp;text=2+Columns">
+<h2> Instigators</h2>
+<div class="row" id = "instigators">
+  <div class="small-12 large-6 columns">
+      <a href = "http://www.sussex.ac.uk/profiles/127749"><img src="{{site.urlimg}}p_eldridge.jpg"></a>
+      <p></p>
+      <h3>
+       Alice Eldridge
+      </h3>
+      <i>
+      Research Fellow in Digital Technologies, Sussex Humanities Lab, University of Sussex
+      </i>
+      <p></p>
+      <p>
+      Alice Eldridge’s background in music, psychology, adaptive systems and computer science and AI underpins interdisciplinary interests in the analysis and composition of sonic environments in creative and biological systems. Her research focuses on innovative approaches to technologies for listening in ecological and musical settings. Current and recently funded projects include investigating the potential for computational analysis of the acoustic environments for biodiversity monitoring, developing networked notations to support ensemble music making and designing and building new feedback musical instruments.
+      </p>
+
   </div>
-  <div class="small-6 columns">
-      <img src="http://placehold.it/470x264/e05a10/e1e75e&amp;text=2+Columns">
+
+  <div class="large-6 columns">
+      <a hef = "www.paulstapleton.net"><img src="{{site.urlimg}}p_stapleton.jpg"></a>
+      <p></p>
+      <h3>
+       Paul Stapleton
+      </h3>
+      <i>
+      Special Collections Manager, The Keep, University of Sussex
+    </i>
+    <p></p>
+    <p>
+       Paul Stapleton is an improviser, sound artist and instrument inventor originally from Southern California. He designs and performs with a variety of modular metallic sound sculptures, custom made electronics, found objects and electric guitars in locations ranging from Echtzeitmusik venues in Berlin to remote beaches on Vancouver Island. Paul is currently based at the Sonic Arts Research Centre in Belfast, where he teaches and supervises research in improvisation, performance technologies and site-specific art. He has received critical acclaim for several artistic projects, including his album FAUNA (2013, pfMENTUM) with saxophonist Simon Rose, and more recently for his sound design and composition work as part of the immersive audio theatre piece Reassembled, Slightly Askew (2015). Other ongoing collaborations include the distributed instrument project Ambiguous Devices with Tom Davis, improvisation duo SAP with Adam Pultz Melbye and the Translating Improvisation research group with Sara Ramshaw.
+      </p>
   </div>
+  <hr>
 </div>
+<!-- END ROW -->
+
+<h2> Advisory Board</h2>
+
+<h2> Network Participants</h2>
+
+"What would it be for a robot to sing?  Drawing on my experiences from investigating this question in the context of a Nao robot, I outline a number of relevant dimensions such as dis/embodiment, playback vs. synthesis, skill, and the potential for lyricism.  I focus on the role that a singing robot’s own listening capability can/should play in its performance and/or acquisition of singing skills."
+
+<div class="row">
+  <div class="small-12 large-6 columns">
+      <a href = "http://tristanclutterbuck.tumblr.com/image/136825624304"><img src="{{site.urlimg}}p_clutterbuck.jpg"></a>
+      <p></p>
+      <h3>
+       Tristan Clutterbuck
+      </h3>
+      <i>
+      PhD candidate at the Sonic Arts Research Centre, University of Belfast
+      </i>
+      <p></p>
+      <p>
+      Tristan's practice-based research draws from interests in complex musical instruments, machine agency, the history of music technology, improvisation, sociology of music, and actor-network theory.
+      </p>
+
+  </div>
+
+  <div class="large-6 columns">
+      <a hef = "http://www.sussex.ac.uk/profiles/9183"><img src="{{site.urlimg}}p_courage.jpg"></a>
+      <p></p>
+      <h3>
+       Fiona Courage
+      </h3>
+      <i>
+      Special Collections Manager, The Keep, University of Sussex
+    </i>
+    <p></p>
+    <p>
+       Having trained as a librarian, Fiona is responsible for the care and accessibility of the University’s collection of manuscripts, archives and rare books, and works closely with academic and professional colleagues in looking at ways to open up accessibility to heritage collections.
+      </p>
+  </div>
+  <hr>
+</div>
+<!-- END ROW -->
+
+
+<div class="row">
+  <div class="small-12 large-6 columns">
+      <a href = "http://tristanclutterbuck.tumblr.com/image/136825624304"><img src="{{site.urlimg}}p_clutterbuck.jpg"></a>
+      <p></p>
+      <h3>
+       Tristan Clutterbuck
+      </h3>
+      <i>
+      PhD candidate at the Sonic Arts Research Centre, University of Belfast
+      </i>
+      <p></p>
+      <p>
+      Tristan's practice-based research draws from interests in complex musical instruments, machine agency, the history of music technology, improvisation, sociology of music, and actor-network theory.
+      </p>
+
+  </div>
+
+  <div class="large-6 columns">
+      <a hef = "http://www.sussex.ac.uk/profiles/9183"><img src="{{site.urlimg}}p_courage.jpg"></a>
+      <p></p>
+      <h3>
+       Fiona Courage
+      </h3>
+      <i>
+      Special Collections Manager, The Keep, University of Sussex
+    </i>
+    <p></p>
+    <p>
+       Having trained as a librarian, Fiona is responsible for the care and accessibility of the University’s collection of manuscripts, archives and rare books, and works closely with academic and professional colleagues in looking at ways to open up accessibility to heritage collections.
+      </p>
+  </div>
+  <hr>
+</div>
+<!-- END ROW -->
+
+<div class="row">
+  <div class="small-12 large-6 columns">
+      <a href = "http://tristanclutterbuck.tumblr.com/image/136825624304"><img src="{{site.urlimg}}p_clutterbuck.jpg"></a>
+      <p></p>
+      <h3>
+       Tristan Clutterbuck
+      </h3>
+      <i>
+      PhD candidate at the Sonic Arts Research Centre, University of Belfast
+      </i>
+      <p></p>
+      <p>
+      Tristan's practice-based research draws from interests in complex musical instruments, machine agency, the history of music technology, improvisation, sociology of music, and actor-network theory.
+      </p>
+
+  </div>
+
+  <div class="large-6 columns">
+      <a hef = "http://www.sussex.ac.uk/profiles/9183"><img src="{{site.urlimg}}p_courage.jpg"></a>
+      <p></p>
+      <h3>
+       Fiona Courage
+      </h3>
+      <i>
+      Special Collections Manager, The Keep, University of Sussex
+    </i>
+    <p></p>
+    <p>
+       Having trained as a librarian, Fiona is responsible for the care and accessibility of the University’s collection of manuscripts, archives and rare books, and works closely with academic and professional colleagues in looking at ways to open up accessibility to heritage collections.
+      </p>
+  </div>
+  <hr>
 </div>
 
-<div class="show-for-large-up">
-    <div class="row">
-        <div class="small-12 columns">
-            <h2>Large Displays</h2>
-            <h3>Large Displays Two Columns</h3>
-        </div><!-- /.small-12.columns -->
-    </div>
 
-<div class="row">
-  <div class="large-6 columns">
-      <img src="http://placehold.it/470x264/6b6351/e1dcd7&amp;text=Width+470+Pixel">
-  </div>
-  <div class="large-6 columns">
-      <img src="http://placehold.it/470x264/e05a10/e1e75e&amp;text=Width+470+Pixel">
-  </div>
-</div>
+
+
 
 <div class="row">
     <div class="small-12 columns">
@@ -101,12 +211,10 @@ image:
 </div>
 
 <div class="row">
-<div class="small-2 columns"><div style="background: #45B29D; height: 137px;"></div></div>
-<div class="small-2 columns"><div style="background: #334D5C; height: 137px;"></div></div>
-<div class="small-2 columns"><div style="background: #A1D044; height: 137px;"></div></div>
-<div class="small-2 columns"><div style="background: #EFC94C; height: 137px;"></div></div>
-<div class="small-2 columns"><div style="background: #E27A3F; height: 137px;"></div></div>
-<div class="small-2 columns"><div style="background: #DF4949; height: 137px;"></div></div>
+<div class="small-2 large-4 columns"><div style="background: #45B29D; height: 137px;"></div></div>
+<div class="small-1 large-3 columns"><div style="background: #334D5C; height: 137px;"></div></div>
+
+
 </div>
 
 

@@ -103,7 +103,7 @@ header: no
 </div>
 
   <div class="large-6 columns">
-      <a hef = "https://soundcloud.com/palle-dahlstedt"><img src="https://forskargrandprix.se/wp-content/uploads/2014/08/palle-dahlstedt-940px.jpg"></a>
+      <a hef = "https://soundcloud.com/palle-dahlstedt"><img src="{{site.urlimg}}p_dahlstedt.jpg"></a>
       <p></p>
       <h3>
        Palle Dahlstedt
@@ -321,7 +321,7 @@ header: no
 
 
   <div class="large-6 columns">
-      <a hef = "http://www.dmarc.ie/people/academic-staff/nicholas-ward"><img src="{{site.urlimg}}p_ward.jpeg"></a>
+      <a hef = "http://www.dmarc.ie/people/academic-staff/nicholas-ward"><img src="{{site.urlimg}}p_ward.jpg"></a>
       <p></p>
       <h3>
        Nick Ward
@@ -344,7 +344,7 @@ header: no
 
 <div class="row">
   <div class="small-12 large-6 columns">
-      <a href = "http://pure.qub.ac.uk/portal/en/persons/simon-waters"><img src="{{site.urlimg}}p_green.png"></a>
+      <a href = "http://pure.qub.ac.uk/portal/en/persons/simon-waters"><img src="{{site.urlimg}}p_waters.jpg"></a>
       <p></p>
       <h3>
       Simon Waters

@@ -9,39 +9,7 @@
       <div id="footer">
         <div class="row">
             <!-- left column -->
-
-          <div class="medium-6 large-5 columns">
-
-            <sub-head class="shadow-black" style="color:white;"> FOLLOW </sub-head></br>
-            <ul class="inline-list social-icons">
-              <p>
-              </p>
-            {% for social_item in site.data.socialmedia %}
-              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
-            {% endfor %}
-
-              </ul>
-
-
-          </div><!-- /.large-6.columns -->
-            <!-- middle column -->
-<div class="small-6 medium-3 large-3 large-offset-1 columns">
-  {% for service_item in site.data.services %}
-   {% if forloop.first == true %}
-     
-     <p></p>
-   {% endif %}
- {% endfor %}
-
-   <ul class="no-bullet shadow-black" style="color:#fff;">
-
- </ul>
-
-
-        </div><!-- /.large-4.columns -->
-
-        <!-- end column -->
-          <div class="small-6 medium-3 large-3 columns">
+          <div class="medium-2 large-2 columns">
             <sub-head class="shadow-black" style="color:white;"> CONTACT </sub-head></br>
             <p></p>
             <p class="shadow-black">
@@ -54,6 +22,23 @@
 
             <a href = "mailto:alicee@sussex.ac.uk">alicee@sussex.ac.uk</a>
           </p>
+
+        </div><!-- /.large-3.columns -->
+
+            <!-- middle column -->
+
+        <!-- end column -->
+          <div class="small-6 medium-9 large-9 columns">
+            <sub-head class="shadow-black" style="color:white;"> FOLLOW </sub-head></br>
+            <ul class="inline-list social-icons">
+              <p>
+              </p>
+            {% for social_item in site.data.socialmedia %}
+              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+            {% endfor %}
+
+              </ul>
+
           </div>
 
           <!-- /.large-3.columns -->
@@ -66,13 +51,17 @@
         <nav class="row">
 
     <!--            {{ site.credits }} -->
-    <img src="{{ site.urlimg}}UoSLogo.png" width="180" itemprop="image">
+    <div class="medium-2 large-2 columns">
+      <img src="{{ site.urlimg}}ahrcLogoSq.JPG" width="400" itemprop="image">
 
-    <img src="{{ site.urlimg}}QUBLogo.jpg" width="250" itemprop="image">
-    <img src="{{ site.urlimg}}SHL-sized.png" width="110" itemprop="image">
+    </div> <!-- end 2 colum-->
 
-          <img src="{{ site.urlimg}}AHRC-logo-landscape.jpg" width="400" itemprop="image">
+    <div class="small-6 medium-11 large-11 columns">
+      <img src="{{ site.urlimg}}UoSLogo.png" width="180" itemprop="image">
+      <img src="{{ site.urlimg}}QUBLogo.jpg" width="250" itemprop="image">
+      <img src="{{ site.urlimg}}SHL-sized.png" width="110" itemprop="image">
 
+    </div>
           </section>
         </nav>
       </div><!-- /#subfooter -->

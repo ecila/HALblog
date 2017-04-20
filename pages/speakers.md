@@ -5,36 +5,36 @@ header: no
 image:
   title: "grays_lato_img.gif"
 
-permalink: "/schedule&speakers/"
+permalink: "/W1schedule&speakers/"
 ---
 
 
 ### Day 1 Presentations & discussion
 
-+ 10:30 : Coffee
-+ 11:00 : Welcome
-+ 11:30 : Presentations: Archival & Technical
-+ 13:00 : lunch
-+ 14:00 : Presentations: Critical & Philosophical
-+ 15:30 : Coffee Break & Feedback Cello Installation
-+ 16:15 : Break out group discussions - agenda brainstorming
-+ 18.15 : Fin
-
-Dinner in Brighton
++ 1030 : Coffee
++ 1100 : Welcome
++ 1130 : Presentations: Archival & Technical
++ 1300 : Lunch
++ 1400 : Presentations: Critical & Philosophical 
++ 1530 : Coffee Break
++ 1600 : Break out group discussions - intial agenda brainstorming
++ 1700 : Brain storm collation
++ 1800 : Fin
++ 1930 : Dinner at Planet India, Brighton
 
 
 ### Day 2 - Kaggle challenge
 
 
-+ 09:30 : Coffee
-+ 10:00 : Round Table - initial agenda scoping
-+ 12:30 : Kaggle briefing and team formation
-+ 13:00 : Lunch Break
-+ 14:00 : Kaggle challenge brain storming
-+ 15:30 : Coffee & tea break
-+ 16:00 : Kaggle team presentations & vote
-+ 17:00 : Roundtable discussion and summary of the day
-+ 18.00 : Fin
++ 0930 : Coffee
++ 1000 : Round Table - initial agenda scoping
++ 1230 : Kaggle briefing and archive introduction
++ 1300 : Lunch Break
++ 1400 : Kaggle challenge hack-think
++ 1530 : Coffee & tea break
++ 1600 : Kaggle team presentations & voting
++ 1700 : Roundtable discussion and summary
++ 1800 : Fin
 
 ----
 

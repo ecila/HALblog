@@ -13,17 +13,8 @@ permalink: "/workshop1/"
 ### Interdisciplinary perspectives: Deep & Distant Listening
 April 27-28. Sussex Humanities Lab, University of Sussex, Brighton
 
+The first workshop aims to lay the foundations for an interdisciplinary research agenda by bringing together researchers and practitioners from across music, humanities and computer science research to share archival, technical and critical perspectives on algorithmic listening.
 
-The network provides a unique opportunity to curate a conversation across disciplines, and to provoke broad imaginings around the implications of and possibilities for machine listening in research and practice, as well as in our daily lives.
-
-The first workshop aims to lay the foundations for an interdisciplinary research agenda by bringing together researchers and practitioners from history, archive services, philosophy, media archeology, sound arts, computer science and computer music to share archival, technical and critical perspectives on algorithmic listening.
-
-On day 1 core participants from will give short presentations around covering practical archival issues, technical, philosophical and critical perspectives in order to stimulate an initial mapping out of a future research agenda. Following the round table on day 2, participants will work together in groups to consider the sorts of questions machine listening might open up in humanities research. Teams will be armed with python notebooks loaded with relevant machine listening and learning libraries. The winning idea will be submitted to online data science community, Kaggle.
-
-All discussions will be mediated and documented by human and machine listeners.
-
-
-We will consider questions such as:
 * *What are the challenges and opportunities of working with large digital audio databases for humanities researchers, sound artists and archivists?*
 * *How is machine listening being applied in other areas of research and practice and what can we learn from this?*
 * *What are the cultural, epistemological or phenomenological implications of technologically mediated listening?*

@@ -19,7 +19,11 @@
   side: left
   dropdown:
     - title: "Schedule & speakers"
-      url: "/schedule&speakers/"
+      url: "/W1schedule&speakers/"
+
+- title: Workshop 2
+  url: "/workshop2/"
+  side: left
 
 - title: Blog
   url: "/blog/"

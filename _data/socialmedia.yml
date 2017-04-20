@@ -2,16 +2,16 @@
   url: http://twitter.com/algolistening
   class: icon-twitter
   title: "Follow us on twitter"
-  
+
 - name: Soundcloud
   url: http://soundcloud.com/algorithmiclistening
   class: icon-soundcloud
   title: "Listen"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+- name: github
+  url: https://github.com/algolistening
+  class: icon-github
+  title: "Share code"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/

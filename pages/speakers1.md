@@ -99,7 +99,7 @@ The Old English term *hlysnan* designates listening, hearing, and paying attenti
 
 ----
 
-![image of Shintaro Miyazaki]({{site.urlimg}}p_shintaro_IAMAS_2015.jpg)
+![image of Shintaro Miyazaki]({{site.urlimg}}p_shintaro.jpg)
 ### **Shintaro Miyazaki**
 *Listening to Algorhythmics*
 <p></p>

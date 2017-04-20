@@ -45,27 +45,13 @@ header: no
 
 <h2> ADVISORY BOARD</h2>
 <div class="row">
-<div class="large-6 columns">
-    <a hef = "http://www.sussex.ac.uk/profiles/9183"><img src="{{site.urlimg}}p_courage.jpg"></a>
-    <p></p>
-    <h3>
-     Fiona Courage
-    </h3>
-    <i>
-    Special Collections Manager, The Keep, University of Sussex
-  </i>
-  <p></p>
-  <p>
-     Having trained as a librarian, Fiona is responsible for the care and accessibility of the University’s collection of manuscripts, archives and rare books, and works closely with academic and professional colleagues in looking at ways to open up accessibility to heritage collections.
-    </p>
-</div>
+
 </div>
 
 <h2> NETWORK PARTICIPANTS</h2>
 
 
 <div class="row">
-
   <div class="small-12 large-6 columns">
       <a href = "http://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html"><img src="{{site.urlimg}}p_bowers.jpg"></a>
       <p></p>
@@ -97,7 +83,8 @@ header: no
       </p>
 
   </div>
-
+  <hr>
+</div>
 <!-- END ROW -->  
 <div class="row">
   <div class="small-12 large-6 columns">

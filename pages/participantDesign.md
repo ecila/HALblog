@@ -115,7 +115,6 @@ header: no
 
 </div>
 
-
   <div class="large-6 columns">
       <a hef = "https://soundcloud.com/palle-dahlstedt"><img src="https://forskargrandprix.se/wp-content/uploads/2014/08/palle-dahlstedt-940px.jpg"></a>
       <p></p>
@@ -128,8 +127,6 @@ header: no
     <p></p>
     <p>
  I'm a composer, improviser, researcher and programmer. My curiosity-driven work is mainly about two things: understanding the mechanisms of creativity, and developing new technologies for improvisation and composition. What is the artistic creative process like on the inside? Can we make computers behave in a similar way? How can we use new technology to create new ways to play and interact musically? Can mediated improvisation provide new qualities of musical interaction?
-
-
       </p>
   </div>
   <hr>
@@ -174,7 +171,7 @@ header: no
 
 <div class="row">
   <div class="small-12 large-6 columns">
-      <a href = "http://www.sussex.ac.uk/profiles/378975"><img src="{{site.urlimg}}p_fazi_beatrice.jpg"></a>
+      <a href = "http://www.sussex.ac.uk/profiles/378975"><img src="{{site.urlimg}}p_fazi.jpg"></a>
       <p></p>
       <h3>
       Beatrice Fazi
@@ -191,7 +188,7 @@ header: no
 
 
   <div class="large-6 columns">
-      <a hef = "https://www.ixdm.ch/team/felix-gerloff/"><img src="{{site.urlimg}}p_gerloff.jpeg"></a>
+      <a hef = "https://www.ixdm.ch/team/felix-gerloff/"><img src="{{site.urlimg}}p_gerloff.jpg"></a>
       <p></p>
       <h3>
        Felix Gerloff
@@ -266,7 +263,7 @@ header: no
 
 
   <div class="large-6 columns">
-      <a hef = "http://pkmital.com"><img src="{{site.urlimg}}p_parag.png"></a>
+      <a hef = "http://pkmital.com"><img src="{{site.urlimg}}p_parag.jpg"></a>
       <p></p>
       <h3>
        Parag Mital

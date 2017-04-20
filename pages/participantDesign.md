@@ -20,7 +20,7 @@ header: no
       </i>
       <p></p>
       <p>
-      Alice Eldridge’s background in music, psychology, adaptive systems and computer science and AI underpins interdisciplinary interests in the analysis and composition of sonic environments in creative and biological systems. Her research focuses on innovative approaches to technologies for listening in ecological and musical settings. Current and recently funded projects include investigating the potential for computational analysis of the acoustic environments for biodiversity monitoring, developing networked notations to support ensemble music making and designing and building new feedback musical instruments.
+      Alice Eldridge’s background in music, psychology, artificial life and AI informs interdisciplinary interests in the composition and decomposition of sonic environments in creative and biological systems. Her current work focuses on listening technologies   in ecological and musical settings. Current and recently funded projects include investigating the potential for computational analysis of the acoustic environments for biodiversity monitoring in the Ecuadorian Amazon, developing networked notation software to support ensemble music making and designing and building new feedback cellos. 
       </p>
 
   </div>
@@ -103,7 +103,7 @@ header: no
 </div>
 
   <div class="large-6 columns">
-      <a hef = "https://soundcloud.com/palle-dahlstedt"><img src="{{site.urlimg}}p_dahlstedt.jpg"></a>
+      <a hef = "https://soundcloud.com/palle-dahlstedt"><img src="{{site.urlimg}}p_dahls.jpg"></a>
       <p></p>
       <h3>
        Palle Dahlstedt

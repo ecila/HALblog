@@ -19,7 +19,8 @@ The first workshop aims to lay the foundations for an interdisciplinary research
 * *How is machine listening being applied in other areas of research and practice and what can we learn from this?*
 * *What are the cultural, epistemological or phenomenological implications of technologically mediated listening?*
 * *How can ideas from the history of philosophy of technology be applied to productively shape ethical and technical designs in the future?*
-
+* *How readily can digital audio software tools designed to classify, categorise and predict be used to afford discovery, reveal insights and new interpretations of sonic data?*
+* *What new approaches to the design of Listening Algorithms might historical or critical perspectives inspire? What new approaches to humanities research do Listening Algorithms inspire?*
 
 
 ----

@@ -188,13 +188,13 @@ header: no
       Felix Gerloff is junior researcher at the Institute of Experimental Design and Media Cultures within the research project Machine Love? Creativity Cultures in Underground Electronic Music and Software Engineering and PhD candidate at the Humboldt-University Berlin. He graduated in 2013 as Magister Artium (M.A.) at the Humboldt-University’s Institut für Kulturwissenschaft (Institute for Cultural History & Theory). His PhD project focuses on the re-development of programming as a cultural technique and computational thinking. He strives to understand the ways in which media, epistemic practices, and the formation of culture constitute each other. His interests include sound studies with special regard to sonic modes of thinking and reasoning, games and ludic practices, and the history of grammatextuality and typography. Since 2011 he is organizing a public lecture series KlangDenken (sonic thinking) in collaboration with Sebastian Schwesinger and the Sound Studies Lab.
     </p>
   </div>
-  <hr>
+  <hr>  
 </div>
 <!-- END ROW -->
 
 
 <div class="row">
-<a name="k"></a>
+
   <div class="small-12 large-6 columns">
       <a href = "http://www.davidkant.com/"><img src="{{site.urlimg}}p_kant.jpg"></a>
       <p></p>
@@ -394,7 +394,3 @@ header: no
        {% include next-previous-post-in-category %}
     </div><!-- /.small-12.columns -->
 </div>
-
-
-
- [1]: http://foundation.zurb.com/docs/components/grid.html

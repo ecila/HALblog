@@ -361,7 +361,7 @@ header: no
 
 
   <div class="large-6 columns">
-      <a hef = "http://www.sussex.ac.uk/profiles/371068"><img src="{{site.urlimg}}p_webb.jpeg"></a>
+      <a hef = "http://www.sussex.ac.uk/profiles/371068"><img src="{{site.urlimg}}p_webb.jpg"></a>
       <p></p>
       <h3>
        Sharon Webb
@@ -377,20 +377,3 @@ header: no
   <hr>
 </div>
 <!-- END ROW -->
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="bottom" class="row t30">
-    <div class="small-12 columns">
-       {% include next-previous-post-in-category %}
-    </div><!-- /.small-12.columns -->
-</div>

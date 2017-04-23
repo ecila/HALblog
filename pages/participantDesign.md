@@ -8,19 +8,21 @@ header: no
 <!--more-->
 
 <h2> INSTIGATORS</h2>
+<p></p>
 <div class="row" id = "instigators">
   <div class="small-12 large-6 columns">
       <a href = "http://www.sussex.ac.uk/profiles/127749"><img src="{{site.urlimg}}p_eldridge.jpg"></a>
       <p></p>
       <h3>
-       Alice Eldridge
+       Alice Eldridge (PI)
       </h3>
       <i>
       Research Fellow in Digital Technologies, Sussex Humanities Lab, University of Sussex
       </i>
       <p></p>
       <p>
-      Alice Eldridge’s background in music, psychology, artificial life and AI informs interdisciplinary interests in the composition and decomposition of sonic environments in creative and biological systems. Her current work focuses on listening technologies   in ecological and musical settings. Current and recently funded projects include investigating the potential for computational analysis of the acoustic environments for biodiversity monitoring in the Ecuadorian Amazon, developing networked notation software to support ensemble music making and designing and building new feedback cellos.
+      Alice Eldridge is a musician and interdisciplinary researcher. A background in music, psychology (BSc), evolutionary and adaptive systems (MSc) and informatics (PhD) informs wide-ranging creative, technological and scientific interests in the composition and decomposition of sonic environments. Current and recently funded projects include ecoacoustic machine listening for biodiversity monitoring in the Ecuadorian Amazon, development of networked notation software to support ensemble music making for young people and a hybrid luthiery project designing and building an electro-acoustic feedback cello for generative and gestural improvisation. As a cellist she has performed internationally at the intersection of contemporary classical, improvised, folk and avant garde musics, including as one-quarter of award winning Collectress and is a vibrant member of Brighton and London free improv scenes. She have appeared on BBC radio 1 as a pop bassist, BBC radio 3 as a contemporary classical composer and free jazz cellist, BBC radio 4 as a soundscape ecologist and her field recordings feature on Janek Schaefer’s foundsoundscape.com. Her work in all domains is driven by a joy in the absorbing powers of listening and a fascination with technologies for broadening it’s range.  
+
       </p>
 
   </div>
@@ -29,7 +31,7 @@ header: no
       <a hef = "www.paulstapleton.net"><img src="{{site.urlimg}}p_stapleton.jpg"></a>
       <p></p>
       <h3>
-       Paul Stapleton
+       Paul Stapleton (Co-I)
       </h3>
       <i>
       Senior Lecturer in Music, SARC, Queen’s University Belfast
@@ -43,10 +45,6 @@ header: no
 </div>
 <!-- END ROW -->
 
-<h2> ADVISORY BOARD</h2>
-<div class="row">
-
-</div>
 
 <h2> NETWORK PARTICIPANTS</h2>
 
@@ -114,6 +112,9 @@ header: no
     <p></p>
     <p>
  I'm a composer, improviser, researcher and programmer. My curiosity-driven work is mainly about two things: understanding the mechanisms of creativity, and developing new technologies for improvisation and composition. What is the artistic creative process like on the inside? Can we make computers behave in a similar way? How can we use new technology to create new ways to play and interact musically? Can mediated improvisation provide new qualities of musical interaction?
+
+ I grew up in Stockholm, studied instrumental and electronic composition at the academies of Malmö and Gothenburg, and did a PhD in evolutionary computation for musical creativity at Chalmers University of Technology (2004). My music, ranging from piano solos over full orchestra to interactive software installations, has been performed on six continents, and been awarded several international prizes (e.g., Gaudeamus Prize 2001). In my research I develop new technologies for electronic improvisation and composition, and study computer models of artistic creativity. Trained as a classical pianist, I have toured extensively as an improviser on electronics and/or experimental keyboard instruments, primarily with my duo pantoMorf, but also in other constellations, e.g., together with Gino Robair, John Tilbury and the legendary AMM.
+
       </p>
   </div>
   <hr>

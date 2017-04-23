@@ -100,7 +100,8 @@ The Old English term *hlysnan* designates listening, hearing, and paying attenti
 ----
 
 ![image of Shintaro Miyazaki]({{site.urlimg}}p_shintaro.jpg)
-### **Shintaro Miyazaki**
+### [Shintaro Miyazaki]({{site.url}}/participants/#MN)
+
 *Listening to Algorhythmics*
 <p></p>
 The aim is to provide a probably diametrically opposed approach to “machine listening“ via a media archaeological inquiry into algorhythmic listening in the era between 1940–1965, where mainframe machine operators and scientists were listening to their computing machinery. I will provide some further implementations for the digital humanities context.

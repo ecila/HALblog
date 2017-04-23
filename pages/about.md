@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 
 header:
   image_fullwidth: "borchert1.gif"

@@ -30,7 +30,7 @@ a:link {
 }
 
 a:visited {
-    border-bottom: $ci-6;
+    border-bottom: none;
 }
 
 a:hover {
@@ -42,7 +42,7 @@ a:focus {
 }
 
 a:active {
-    color: darken( $ci-2, 20% );
+    color: ( $ci-6, 20% );
 }
 
 /* offset anchor

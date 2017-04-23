@@ -45,7 +45,9 @@ permalink: "/participants/"
 + [Nick Ward](http://www.dmarc.ie/people/academic-staff/nicholas-ward/) -- Lecturer in Digital Media & Arts, University of Limerick
 + [Simon Waters](http://pure.qub.ac.uk/portal/en/persons/simon-waters(2eb6eeb9-1304-4399-ae1c-be09e9e55c89).html) -- Lecturer in Sonic Arts, Queen's University Belfast
 + [Sharon Webb](http://www.sussex.ac.uk/profiles/371068) -- Lecturer in Digital Humanities, Sussex Humanities Lab, University of Sussex
+
 ### Partners
+
 + Brighton Digital Festival
 + The Keep, University of Sussex
 

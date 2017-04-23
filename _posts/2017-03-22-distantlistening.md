@@ -7,7 +7,7 @@ subheadline: "Network motivations"
 title: "An interdisciplinary algorithmic listening"
 teaser: "Toward a well-rounded design of future hybrid ears"
 categories:
-  - Discussions
+  - Introductions
 tags:
   - info
 author: alice_eldridge

@@ -6,6 +6,8 @@ image:
   title: "grays_lato_img.gif"
 
 permalink: "/workshop1/"
+comments: false
+
 ---
 
 

@@ -4,7 +4,7 @@ title: "Workshop 2"
 header: no
 image:
   title: "grays_lato_img.gif"
-
+comments: false 
 permalink: "/workshop2/"
 ---
 

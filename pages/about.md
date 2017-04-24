@@ -3,6 +3,7 @@ layout: page-fullwidth
 
 header:
   image_fullwidth: "borchert1.gif"
+comments: false  
 
 
 permalink: "/about/"

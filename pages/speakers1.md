@@ -13,11 +13,11 @@ permalink: "/W1schedule&speakers/"
 
 + 1030 : Coffee
 + 1100 : Welcome
-+ 1130 : Presentations: Archival & Technical
++ 1130 : Presentations: Archival & Technical (Tim Hitchcock,  Fiona Courage,  Sharon Webb;  Alice Eldridge,  Dan Stowell, Parag Mital)
 + 1300 : Lunch
-+ 1400 : Presentations: Critical & Philosophical
++ 1400 : Presentations: Critical & Philosophical (Sally-Jane Norman,  Shintaro Miyazaki,  Tristan Clutterbuck;  Ron Chrisley, Beatrice Fazi, Steven Dorrestijn)
 + 1530 : Coffee Break
-+ 1600 : Break out group discussions - intial agenda brainstorming
++ 1600 : Break out group discussions - initial agenda brainstorming
 + 1700 : Brain storm collation
 + 1800 : Fin
 + 1930 : Dinner at Planet India, Brighton
@@ -50,7 +50,7 @@ permalink: "/W1schedule&speakers/"
 
 ![Image of Tim Hitchcock]({{site.urlimg}}p_hitchcock15.jpg)
 ### **Tim Hitchcock**
-*Listening to the Dead*
+*Listening to the dead*
 <p></p>
 The traces of the past historians normally rely upon are made up of rotting print and fragile manuscript.  But a proportion of this material represents speech uttered in known environments – courtrooms, churches and parliamentary chambers.  And as these traces of the dead have been digitised and turned in to a new kind of 'object of study' (searchable, mash-upable, and macroscopable) we are increasingly challenged to analyse them in light of all the other forms of data that intersect with mere textual recordings   This presentation briefly suggest that the addition of a quantifiable understanding of sound (reflecting historical spaces and environments) to a ‘big data’ approach to textual representations of historical speech, allows us to understand the meaning and import of that speech (and inherited text) in a fundamentally new way.  It allows to listen to the dead, in hopes of hearing the timbre and rhythms of their words.
 <p></p>
@@ -64,25 +64,45 @@ Archivists have long been recipients and keepers of records, from scrolls throug
 
 
 <p></p>
+----
+![image of Sharon Webb]({{site.urlimg}}p_webb.jpg)
+### **Sharon Webb**
+*Mining oral history collections using audio feature analysis*
+<p></p>
+Recent workshops run by the Sussex Humanities Lab have sought to address an identified gap in the provision and use of audio feature analysis for spoken word collections. Traditionally, oral history methodologies and practices have placed emphasis on working with transcribed textual surrogates of recorded speech rather than the audio files created during the interview process. While practical considerations are responsible for the use of this approach, it inevitably misses a vast amount of potentially meaningful extra-semantic information which is present in the original audio records. Tools developed within the established field of Music Information Retrieval (MIR) inspire a possible means to work directly with the audio.  I will outline the motivations for this work and the results of our workshops thus far.
+
+<p></p>
 <p></p>
 
 ---
 ### Technical - Machine listening & Learning
 ---
+![image of Alice Eldridge]({{site.urlimg}}p_eldridge.jpg)
+
+### **Alice Eldridge**
+*Learning to hear to biodiversity*
+<p></p>
+
+Within the emerging scientific field of ecoacoustics the acoustic environment is understood as both a *resource* for the local community of vocalising creatures, and a potential *source* of information about their interactions and ecological status. This perspective motivates new theoretical frameworks as well as practical approaches to monitoring and conservation. I will briefly outline some of the work we have been doing exploring the potential for acoustic measures as a proxy for biodiversity. This provides an example of how listening has inspired now conceptual and instrumental approaches and illustrates some of the challenges of developing new audio methods, which may be of relevance in thinking through applications of machine listening in the humanities.
+<p></p>
+----
+
+![image of Dan Stowell]({{site.urlimg}}p_danStowell.jpeg)
+### **Dan Stowell**
+*Computers listening to birds*
+<p></p>
+The sounds that birds make are a fascinating challenge for algorithmic listening. Often there is evidence of much complexity, yet how little we understand about the content and purpose of each individual sound. (Whereas with human sounds, we fool ourselves into thinking that we do understand the content and purpose.) I will outline the ways in which we have developed machine listening methods adapted to specific aspects of bird vocalisation - its fine details and its temporal structure - and how the challenge relates to the wider field of machine listening.
+<p></p>
+----
+
 ![Image of Parag Mital]({{site.urlimg}}p_parag.png)
 ### **Parag Mital**
-*Auditory Perception and Attention and computational arts*
+*Auditory perception and attention and computational arts*
 <p></p>
 I will present a cursory overview of fMRI and EEG literature relating to auditory perception and attention mechanisms, behavioral science of auditory attention, and detail some computational investigations for understanding audio within a computational arts practice.
 <p></p>
 
 ----
-
-![image of Dan Stowell]({{site.urlimg}}p_danStowell.jpeg)
-### **Dan Stowell**
-*Computers Listening to Birds*
-<p></p>
-The sounds that birds make are a fascinating challenge for algorithmic listening. Often there is evidence of much complexity, yet how little we understand about the content and purpose of each individual sound. (Whereas with human sounds, we fool ourselves into thinking that we do understand the content and purpose.) I will outline the ways in which we have developed machine listening methods adapted to specific aspects of bird vocalisation - its fine details and its temporal structure - and how the challenge relates to the wider field of machine listening.
 <p></p>
 <p></p>
 ----
@@ -92,7 +112,7 @@ The sounds that birds make are a fascinating challenge for algorithmic listening
 ----
 ![SJN]({{site.urlimg}}p_sjn.jpg)
 ### **Sally-Jane Norman**
-*Tuning (with/ to/ by) Exosomatic Organs*
+*Tuning (with/ to/ by) exosomatic organs*
 <p></p>
 The Old English term *hlysnan* designates listening, hearing, and paying attention, and musicking history abounds in technical artefacts designed to extend our listening abilities. These exosomatic organs (Robert Innis) augment human expressivity, soliciting their creative users and audiences by employing and deploying algorithmic functions – sets of rules or processes. Drawing on music history, I will argue that cultural tuning is key to humanising emerging algorithmic listening practices.
 <p></p>

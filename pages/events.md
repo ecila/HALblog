@@ -9,7 +9,7 @@ permalink: "/events/"
 
 Three workshops will be held throughout 2017:
 
-### 1 Exchanging Perspectives: Machine Listening vs Listening Machines
+### 1 Exchanging Perspectives: Machine Listening and Listening Machines
 April 27-28. Sussex Humanities Lab, University of Sussex, Brighton
 
 * *What are the challenges and opportunities of working with large digital audio databases for humanities researchers, sound artists and archivists?*

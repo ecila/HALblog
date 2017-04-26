@@ -12,7 +12,7 @@ comments: false
 
 
 
-### Interdisciplinary perspectives: Deep & Distant Listening
+### Interdisciplinary perspectives: Machine Listening & Listening Machines
 April 27-28. Sussex Humanities Lab, University of Sussex, Brighton
 
 The first workshop aims to lay the foundations for an interdisciplinary research agenda by bringing together researchers and practitioners from across music, humanities and computer science research to share archival, technical and critical perspectives on algorithmic listening.

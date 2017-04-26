@@ -11,30 +11,47 @@ permalink: "/W1schedule&speakers/"
 
 ### Day 1 Presentations & discussion
 
-+ 1030 : Coffee
-+ 1100 : Welcome
-+ 1130 : Presentations: Archival & Technical (Tim Hitchcock,  Fiona Courage,  Sharon Webb;  Alice Eldridge,  Dan Stowell, Parag Mital)
-+ 1300 : Lunch
-+ 1400 : Presentations: Critical & Philosophical (Sally-Jane Norman,  Shintaro Miyazaki,  Tristan Clutterbuck;  Ron Chrisley, Beatrice Fazi, Steven Dorrestijn)
-+ 1530 : Coffee Break
-+ 1600 : Break out group discussions - initial agenda brainstorming
-+ 1700 : Brain storm collation
-+ 1800 : Fin
-+ 1930 : Dinner at Planet India, Brighton
+1030 : Coffee  
+1100 : Welcome  
+1130 : Presentations: Archival & Technical  
+  &nbsp; Tim Hitchcock - _Listening to the Dead_  
+  &nbsp; Fiona Courage - _Describing and accessing sound recordings_  
+  &nbsp; Sharon Webb - _An experiment in mining oral history collections using audio feature analysis_  
+  &nbsp; Dan Stowell - _Computers listening to birds_   
+  &nbsp; Alice Eldridge - _Humanising Algorithmic Listening by Listening - the need for distant & close listening tools_    
+  &nbsp; Parag Mital - _Auditory Perception and Attention and Computational Arts_  
+
+1300 : Lunch    
+
+1400 : Presentations: Critical & Philosophical   
+&nbsp; Sally-Jane Norman - _Tuning (with/ to/ by) Exosomatic Organs_  
+&nbsp; Shintaro Miyazaki - _Listening to Algorhythmics_    
+&nbsp; Tristan Clutterbuck - _Listening is not listening, content is not content_    
+&nbsp; Ron Chrisley - _What would it be for a robot to sing?_  
+&nbsp; Beatrice Fazi - _Listening with machines that are already ‘listening’? From Augmentation to Automation_  
+&nbsp; Steven Dorrestijn - _Being heard and remembered:  Technical mediation and what it means to be human_
+
+1530 : Coffee Break  
+1600 : Break out group discussions - initial agenda brainstorming  
+1700 : Group discussion - Listeners report back
+1800 : Fin
+
+1930 : Dinner at Planet India, Brighton  
 
 
-### Day 2 - Kaggle challenge
+### Day 2 - Kaggle challenge & Rounctable
 
+0930 : Coffee  
+1000 : Round Table - initial agenda scoping  
+1230 : Kaggle briefing and archive introduction  
 
-+ 0930 : Coffee
-+ 1000 : Round Table - initial agenda scoping
-+ 1230 : Kaggle briefing and archive introduction
-+ 1300 : Lunch Break
-+ 1400 : Kaggle challenge hack-think
-+ 1530 : Coffee & tea break
-+ 1600 : Kaggle team presentations & voting
-+ 1700 : Roundtable discussion and summary
-+ 1800 : Fin
+1300 : Lunch   
+
+1400 : Kaggle challenge hack-think  
+1530 : Coffee & tea break  
+1600 : Kaggle team presentations & voting  
+1700 : Roundtable discussion and summary  
+1800 : Fin
 
 ----
 
@@ -79,19 +96,21 @@ Recent workshops run by the Sussex Humanities Lab have sought to address an iden
 ---
 ![image of Alice Eldridge]({{site.urlimg}}p_eldridge.jpg)
 
-### **Alice Eldridge**
-*Learning to hear to biodiversity*
-<p></p>
-
-Within the emerging scientific field of ecoacoustics the acoustic environment is understood as both a *resource* for the local community of vocalising creatures, and a potential *source* of information about their interactions and ecological status. This perspective motivates new theoretical frameworks as well as practical approaches to monitoring and conservation. I will briefly outline some of the work we have been doing exploring the potential for acoustic measures as a proxy for biodiversity. This provides an example of how listening has inspired now conceptual and instrumental approaches and illustrates some of the challenges of developing new audio methods, which may be of relevance in thinking through applications of machine listening in the humanities.
-<p></p>
-----
 
 ![image of Dan Stowell]({{site.urlimg}}p_danStowell.jpeg)
 ### **Dan Stowell**
 *Computers listening to birds*
 <p></p>
 The sounds that birds make are a fascinating challenge for algorithmic listening. Often there is evidence of much complexity, yet how little we understand about the content and purpose of each individual sound. (Whereas with human sounds, we fool ourselves into thinking that we do understand the content and purpose.) I will outline the ways in which we have developed machine listening methods adapted to specific aspects of bird vocalisation - its fine details and its temporal structure - and how the challenge relates to the wider field of machine listening.
+<p></p>
+----
+
+### **Alice Eldridge**
+*Ecoacoustics and the need for distant and close listening tools*
+<p></p>
+
+Within the emerging scientific field of ecoacoustics the acoustic environment is understood as both a resource for the local community of vocalising creatures, and a potential source of information about their interactions and ecological status. This perspective motivates new theoretical frameworks as well as practical approaches to monitoring and conservation; ecologists dream of a meshwork of listening machines hanging in trees to monitor the health of forests globally. I will outline some of the work we have been doing to validate listening algorithms suitable for this task and highlight issues with inferring ecological meaning from statistical modelling.  I speculate how other compositional methods might be coopted to help us in this context -- humanising algorithmic listening by listening -- and ask whether we need to take greater care in the interpretation of machine listening and learning algorithms more generally.
+
 <p></p>
 ----
 

@@ -31,7 +31,7 @@ permalink: "/W1schedule&speakers/"
 &nbsp; Beatrice Fazi - _Listening with machines that are already ‘listening’? From Augmentation to Automation_  
 &nbsp; Steven Dorrestijn - _Being heard and remembered:  Technical mediation and what it means to be human_
 
-1530 : Coffee Break  
+1530 : Coffee break  
 1600 : Break out group discussions - initial agenda brainstorming  
 1700 : Group discussion - Listeners report back
 1800 : Fin
@@ -43,12 +43,11 @@ permalink: "/W1schedule&speakers/"
 
 0930 : Coffee  
 1000 : Round Table - initial agenda scoping  
-1230 : Kaggle briefing and archive introduction  
-
+1145 : Coffee break
+1200 : Machine listening 101 and archive introduction  
 1300 : Lunch   
-
 1400 : Kaggle challenge hack-think  
-1530 : Coffee & tea break  
+1530 : Coffee break  
 1600 : Kaggle team presentations & voting  
 1700 : Roundtable discussion and summary  
 1800 : Fin

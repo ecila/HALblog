@@ -93,8 +93,6 @@ Recent workshops run by the Sussex Humanities Lab have sought to address an iden
 ---
 ### Technical - Machine listening & Learning
 ---
-![image of Alice Eldridge]({{site.urlimg}}p_eldridge.jpg)
-
 
 ![image of Dan Stowell]({{site.urlimg}}p_danStowell.jpeg)
 ### **Dan Stowell**
@@ -103,7 +101,7 @@ Recent workshops run by the Sussex Humanities Lab have sought to address an iden
 The sounds that birds make are a fascinating challenge for algorithmic listening. Often there is evidence of much complexity, yet how little we understand about the content and purpose of each individual sound. (Whereas with human sounds, we fool ourselves into thinking that we do understand the content and purpose.) I will outline the ways in which we have developed machine listening methods adapted to specific aspects of bird vocalisation - its fine details and its temporal structure - and how the challenge relates to the wider field of machine listening.
 <p></p>
 ----
-
+![image of Alice Eldridge]({{site.urlimg}}p_eldridge.jpg)
 ### **Alice Eldridge**
 *Ecoacoustics and the need for distant and close listening tools*
 <p></p>

@@ -8,13 +8,25 @@
 alice_eldridge: # replace this with your info
   name: "Alice Eldridge"
   siterole: "PI, chief blogger"
-  uri: http://www.algorithmiclistening.org/participants#AEPS
+  uri: http://www.algorithmiclistening.org/participants#instigators
   twitter: "@alicealicealice"
+
+paul_stapleton: # replace this with your info
+  name: "Paul Stapleton"
+  siterole: "Co-Iblogger"
+  uri: http://www.algorithmiclistening.org/participants#instigators
+  twitter: "@pauljstapleton"
 
 david_kant: # replace this with your info
   name: "David Kant"
   siterole: "blogger"
   uri: http://www.algorithmiclistening.org/participants#KK
   twitter: "@anindexofmusic"
+
+shintaro_miyazaki: # replace this with your info
+  name: "Shintaro Miyazaki"
+  siterole: "blogger"
+  uri: http://www.algorithmiclistening.org/participants#MN
+  twitter: "@algorhythmics"
 
 # you can add more authors here

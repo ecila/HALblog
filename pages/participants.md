@@ -248,6 +248,46 @@ permalink: "/participants/"
 
 
 <div class="row">
+<a class="anchor" id="GH"></a>
+  <div class="small-12 large-6 columns">
+      <a href = "http://owengreen.net/"><img src="{{site.urlimg}}p_kant.jpg"></a>
+      <p></p>
+      <h3>
+      Owen Green
+      </h3>
+      <i>
+      Teaching Fellow Music & Sound Design, University of Edinburgh
+      </i>
+      <p></p>
+      <p>
+      I enjoy making soundful systems that breathe and try, playfully, to adapt to their surroundings. Much of what I do involves making such system-compositions as a territory / provocation / instrument for improvising players (usually me, plus chums). I work at the University of Edinburgh teaching on a number of sound and theory based courses on the MSc Sound Design, as well as working as a freelance composer, sound designer and recording engineer. Check out http://owengreen.net for a selection of projects, sounds, videos and publications.  
+
+  </p>
+  </div>
+
+
+  <div class="large-6 columns">
+      <a href = "http://www.sussex.ac.uk/profiles/336034"><img src="{{site.urlimg}}p_anja.jpg"></a>
+      <p></p>
+      <h3>
+       Tim Hitchcock
+      </h3>
+      <i>
+      Professor Of Digital History, University of Sussex
+
+    </i>
+    <p></p>
+    <p>
+    Tim Hitchcock is Professor of Digital History at the University of Sussex, and co-director of the Sussex Humanities Lab. A historian of eighteenth and nineteenth century London, Hitchcock has published widely on poverty, sexuality and crime. With Robert Shoemaker, he has also been responsible for half a dozen major web resources making searchable and re-usable some 35 billion words of historical text and several hundred thousand images.
+
+    </p>
+  </div>
+  <hr>
+</div>
+
+
+
+<div class="row">
 <a class="anchor" id="KK"></a>
   <div class="small-12 large-6 columns">
       <a href = "http://www.davidkant.com/"><img src="{{site.urlimg}}p_kant.jpg"></a>

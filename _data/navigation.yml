@@ -24,6 +24,9 @@
 - title: Workshop 2
   url: "/workshop2/"
   side: left
+  dropdown:
+    - title: "Schedule & speakers"
+      url: "/W2schedule&speakers/"
 
 - title: Blog
   url: "/blog/"

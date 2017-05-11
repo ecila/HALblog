@@ -9,7 +9,7 @@ permalink: "/W1schedule&speakers/"
 ---
 
 
-### Day 1 Presentations & discussion
+### Day 1
 
 1030 : Coffee  
 1100 : Welcome  
@@ -39,7 +39,7 @@ permalink: "/W1schedule&speakers/"
 1930 : Dinner at Planet India, Brighton  
 
 
-### Day 2 - Kaggle challenge & Rounctable
+### Day 2 
 
 0930 : Coffee  
 1000 : Round Table - initial agenda scoping  
@@ -62,7 +62,9 @@ permalink: "/W1schedule&speakers/"
 
 ### Archives and Oral History
 
+
 ----
+
 
 ![Image of Tim Hitchcock]({{site.urlimg}}p_hitchcock15.jpg)
 ### **Tim Hitchcock**

@@ -29,6 +29,7 @@ permalink: "/W2schedule&speakers/"
 + John Bowers - _Stookie John Comes To Belfast_   
 
 1430 : Presentations & demos (sonic lab)
++ David Kant - _Composing through machine listening_
 + Tom Davis - _Feral Cello: temporal and fluid agencies in improvised music performance_
 + Owen Green - _Title TBC_
 

@@ -66,10 +66,8 @@ input[type=file]:hover {
 .span4 {
     display: inline-block;
 }
-
-
 </style>
-<div id="postit" class="clearfix"></div>
+
 <div class="row-fluid">
     <div class="span4"><button type="button" onclick="addPostit('#ffff66')">Add Yellow</button></div>
     <div class="span4"><button type="button" onclick="addPostit('#00ffff')">Add Blue</button></div>

@@ -18,8 +18,23 @@ function drawPostitsFromFile(postits)
   }
 };
 
-function redrawCurrentPostits()
+function updatePostitsFromDivs()
 {
+  var textareas = document.getElementsByClassName('draggable tap-target');
+  for(var i = 0; i < textareas.length; i++)
+  {
+    var textarea = textareas[i];
+    var index = parseInt(textarea.getAttribute('index'));
+    var x = parseInt(textarea.getAttribute('data-x'));
+    var y = parseInt(textarea.getAttribute('data-y'));
+    currentPostits[index][0] = x;
+    currentPostits[index][1] = y;
+    currentPostits[index][2] = textarea.value;
+  }
+}
+
+function redrawCurrentPostits()
+{  
   while (container.hasChildNodes()) {
     container.removeChild(container.lastChild);
   }
@@ -62,6 +77,7 @@ function addPostit(color)
 function deleteSelected()
 {
   var index = currentElement.getAttribute('index');
+  updatePostitsFromDivs();
   currentPostits.splice(index,1);
   redrawCurrentPostits();
 };
@@ -154,17 +170,7 @@ function errorHandler(evt) {
 
 function saveCSV() {
 
-  var textareas = document.getElementsByClassName('draggable tap-target');
-  for(var i = 0; i < textareas.length; i++)
-  {
-    var textarea = textareas[i];
-    var index = parseInt(textarea.getAttribute('index'));
-    var x = parseInt(textarea.getAttribute('data-x'));
-    var y = parseInt(textarea.getAttribute('data-y'));
-    currentPostits[index][0] = x;
-    currentPostits[index][1] = y;
-    currentPostits[index][2] = textarea.value;
-  }
+  updatePostitsFromDivs();
   csvGenerator = new CsvGenerator(currentPostits, 'halPostits.csv');
   csvGenerator.download(true);
 };

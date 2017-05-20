@@ -1,5 +1,5 @@
 
-var currentElement = nil;
+var currentElement;
 var currentPostits = [];
 var container = document.getElementById('postit');
 

@@ -3,7 +3,7 @@ var currentElement;
 var currentPostits = [];
 var container = document.getElementById('postit');
 
-/////////////////RENDERING POSTITS
+/*RENDERING POSTITS*/
 
 function drawPostitsFromFile(postits)
 {
@@ -66,7 +66,7 @@ function deleteSelected()
   redrawCurrentPostits();
 };
 
-/////////////////INTERACT.JS
+/*INTERACT.JS*/
 
 interact('.tap-target')
 .on('tap', function (event) {
@@ -77,33 +77,26 @@ interact('.tap-target')
 interact('.draggable')
 
   .draggable({
-    // enable inertial throwing
     inertia: true,
-    // keep the element within the area of it's parent
     restrict: {
       restriction: "parent",
       endOnly: true,
       elementRect: { top: 0, left: 0, bottom: 1, right: 1 }
     },
-    // enable autoScroll
     autoScroll: true,
 
-    // call this function on every dragmove event
     onmove: dragMoveListener,
 
   });
 
   function dragMoveListener (event) {
     var target = event.target,
-        // keep the dragged position in the data-x/data-y attributes
         x = (parseFloat(target.getAttribute('data-x')) || 0) + event.dx,
         y = (parseFloat(target.getAttribute('data-y')) || 0) + event.dy;
 
-    // translate the element
     target.style.webkitTransform =
     target.style.transform =
       'translate(' + x + 'px, ' + y + 'px)';
-    // update the posiion attributes
     target.setAttribute('data-x', x);
     target.setAttribute('data-y', y);
     var index = parseInt(target.getAttribute('index'));
@@ -114,12 +107,10 @@ interact('.draggable')
 
 window.dragMoveListener = dragMoveListener;
 
-/////////////////CSV READER
+/*CSV READER*/
 
 function handleFiles(files) {
-  // Check for the various File API support.
   if (window.FileReader) {
-      // FileReader are supported.
       getAsText(files[0]);
   } else {
       alert('FileReader are not supported in this browser.');
@@ -128,9 +119,7 @@ function handleFiles(files) {
 
 function getAsText(fileToRead) {
   var reader = new FileReader();
-  // Read file into memory as UTF-8      
   reader.readAsText(fileToRead);
-  // Handle errors load
   reader.onload = loadHandler;
   reader.onerror = errorHandler;
 };
@@ -161,7 +150,7 @@ function errorHandler(evt) {
   }
 };
 
-/////////////////CSV DOWNLOAD
+/*CSV DOWNLOAD*/
 
 function saveCSV() {
 
@@ -180,7 +169,7 @@ function saveCSV() {
   csvGenerator.download(true);
 };
 
-/////////////////CSVGENERATOR CLASS
+/*CSVGENERATOR CLASS*/
 
 function CsvGenerator(dataArray, fileName, separator, addQuotes) {
   this.dataArray = dataArray;
@@ -232,7 +221,6 @@ function CsvGenerator(dataArray, fileName, separator, addQuotes) {
       return this.linkElement;
   };
 
-  // call with removeAfterDownload = true if you want the link to be removed after downloading
   this.download = function (removeAfterDownload) {
       var linkElement = this.getLinkElement();
       linkElement.style.display = 'none';

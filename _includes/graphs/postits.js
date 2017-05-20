@@ -62,7 +62,7 @@ function addPostit(color)
 function deleteSelected()
 {
   var index = currentElement.getAttribute('index');
-  currentPostits.splice(index,1)
+  currentPostits.splice(index,1);
   redrawCurrentPostits();
 };
 

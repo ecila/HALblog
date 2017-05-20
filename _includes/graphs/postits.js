@@ -38,7 +38,7 @@ function drawPostit(postit,index)
     var x = postit[0];
     var y = postit[1];
     var text = postit[2];
-    var color = postit[3]
+    var color = postit[3];
     container.appendChild(item1);
     item1.className = "draggable tap-target";
     item1.value = text;

@@ -60,6 +60,17 @@ format: post
 			{% include _comments.html %}
 			{% endif %}
 		</article>
+
+    <!-- Stuff for jsarr tag  -->
+
+    {% for js in page.jsarr %}
+      <script type="text/javascript">
+	{% include {{ js }} %}
+      </script>
+    {% endfor %}
+
+<!-- End Stuff for jsarr tag  -->
+		
 	</div><!-- /.medium-8.columns -->
 
 
@@ -75,4 +86,6 @@ format: post
 		{% include _sidebar.html %}
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
+
+
 </div><!-- /.row -->

@@ -16,7 +16,7 @@ function drawPostitsFromFile(postits)
     currentPostits.push(postits[i]);
     drawPostit(postits[i],i);
   }
-}
+};
 
 function redrawCurrentPostits()
 {
@@ -30,7 +30,7 @@ function redrawCurrentPostits()
     drawPostit(currentPostits[i],i);
   }
   currentPostits = tempArr;
-}
+};
 
 function drawPostit(postit,index)
 {
@@ -50,21 +50,21 @@ function drawPostit(postit,index)
     item1.style.webkitTransform =
     item1.style.transform =
     'translate(' + x + 'px, ' + y+ 'px)';
-}
+};
 
 function addPostit(color)
 {
   var postit = [0,0,"New Idea!",color];
   currentPostits.push(postit);
   drawPostit(postit,currentPostits.length-1);
-}
+};
 
 function deleteSelected()
 {
   var index = currentElement.getAttribute('index');
   currentPostits.splice(index,1)
   redrawCurrentPostits();
-}
+};
 
 /////////////////INTERACT.JS
 
@@ -110,7 +110,7 @@ interact('.draggable')
     currentPostits[index][0] = x;
     currentPostits[index][1] = y;
     currentElement = target;
-  }
+  };
 
 window.dragMoveListener = dragMoveListener;
 
@@ -124,7 +124,7 @@ function handleFiles(files) {
   } else {
       alert('FileReader are not supported in this browser.');
   }
-}
+};
 
 function getAsText(fileToRead) {
   var reader = new FileReader();
@@ -133,12 +133,12 @@ function getAsText(fileToRead) {
   // Handle errors load
   reader.onload = loadHandler;
   reader.onerror = errorHandler;
-}
+};
 
 function loadHandler(event) {
   var csv = event.target.result;
   processData(csv);
-}
+};
 
 function processData(csv) {
     var allTextLines = csv.split(/\r\n|\n/);
@@ -153,13 +153,13 @@ function processData(csv) {
     }
   console.log(lines);
   drawPostitsFromFile(lines);
-}
+};
 
 function errorHandler(evt) {
   if(evt.target.error.name == "NotReadableError") {
       alert("Canno't read file !");
   }
-}
+};
 
 /////////////////CSV DOWNLOAD
 
@@ -178,7 +178,7 @@ function saveCSV() {
   }
   csvGenerator = new CsvGenerator(currentPostits, 'halPostits.csv');
   csvGenerator.download(true);
-}
+};
 
 /////////////////CSVGENERATOR CLASS
 
@@ -242,4 +242,4 @@ function CsvGenerator(dataArray, fileName, separator, addQuotes) {
           document.body.removeChild(linkElement);
       }
   };
-}
+};

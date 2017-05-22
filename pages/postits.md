@@ -27,6 +27,7 @@ comments: false
   border-radius: 0.125em;
   float: left;
   border-width: 0px;
+  font-size: 0.75rem;
 }
 
 textarea {

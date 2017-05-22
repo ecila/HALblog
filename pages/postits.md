@@ -57,7 +57,7 @@ input[type=file]:hover {
 
 #postit {
     width: 100%; 
-    height: 800px;
+    height: 700px;
     background-color: white;
     border-style: solid;
     border-color: grey;

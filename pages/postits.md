@@ -60,8 +60,8 @@ input[type=file]:hover {
     height: 800px;
     background-color: white;
     border-style: solid;
-    border-color: black;
-    border-radius: 1.0em;
+    border-color: grey;
+    border-radius: 0.5em;
 }
 
 .span4 {

@@ -5,7 +5,7 @@ var container = document.getElementById('postit');
 var xhr = new XMLHttpRequest();
 xhr.onreadystatechange = processRequest;
 var hasGotFile = false;
-var url = "http://www.algorithmiclistening.com/"
+var url = "http://www.algorithmiclistening.com/";
 getLocalFile();
  
 function processRequest(e) {

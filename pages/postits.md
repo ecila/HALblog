@@ -28,6 +28,7 @@ comments: false
   border-radius: 0.125em;
   float: left;
   border-width: 0px;
+  font-size: 0.75rem;
 }
 
 textarea {
@@ -57,11 +58,11 @@ input[type=file]:hover {
 
 #postit {
     width: 100%; 
-    height: 500px;
+    height: 700px;
     background-color: white;
     border-style: solid;
-    border-color: black;
-    border-radius: 1.0em;
+    border-color: grey;
+    border-radius: 0.5em;
 }
 
 .span4 {

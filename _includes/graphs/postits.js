@@ -2,6 +2,88 @@
 var currentElement;
 var currentPostits = [];
 var container = document.getElementById('postit');
+var xhr = new XMLHttpRequest();
+xhr.onreadystatechange = processRequest;
+var hasGotFile = false;
+var url = "http://www.algorithmiclistening.com/"
+getLocalFile();
+ 
+function processRequest(e) {
+    if (xhr.readyState == 4 && xhr.status == 200 && hasGotFile == false) {
+        var response = JSON.parse(xhr.responseText);
+        var arr = arrayFromObject(response['content']);
+        console.log("processing request");
+        console.log(arr);
+        drawPostitsFromFile(arr);
+        hasGotFile = true;
+    }
+};
+
+function arrayFromObject(objects)
+{
+  var toReturn  = [];
+  for(var i = 0; i < objects.length; i++)
+  {
+    var arr = [];
+    var obj = objects[i];
+    arr.push(obj.x);
+    arr.push(obj.y);
+    arr.push(obj.text);
+    arr.push(obj.color);
+    toReturn.push(arr);
+  }
+  return toReturn;
+};
+
+function getLocalFile()
+{
+  console.log("getting local file");
+  xhr.open('GET', url + "data/postits.csv", true);
+  xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+  xhr.send();
+};
+
+function rawContentString(csv)
+{
+  var raw = "x,y,text,color\n";
+  for(var i = 0; i < csv.length; i++)
+  {
+    var postit = csv[i];
+    for(var j = 0; j < postit.length; j++)
+    {
+      raw = raw + postit[j];
+      if(j < postit.length-1)
+      {
+        raw = raw + ","
+      }
+    }
+    raw = raw + "\n";
+  };
+  return raw;
+};
+
+function updateLocalFile(csv)
+{
+  console.log("updating local file");
+  var withHeader = [['x','y','text','color']];
+  for(var i = 0; i < csv.length; i++)
+  {
+    withHeader.push(csv[i]);
+  }
+  var data = {
+    "path": "_data/postits.csv",
+    "relative_path": "_data/postits.csv",
+    "slug": "data_file",
+    "ext": ".csv",
+    "title": "Postits",
+    "raw_content":rawContentString(csv),
+    "content": withHeader
+  };
+  xhr.open('PUT', url + "_api/data/postits.csv", true);
+  xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+  xhr.send(JSON.stringify(data));
+
+};
 
 /*RENDERING POSTITS*/
 
@@ -88,6 +170,7 @@ interact('.tap-target')
 .on('tap', function (event) {
   console.log('tap on ' + event.target.getAttribute('index'));
   currentElement = event.target;
+  updateLocalFile(currentPostits);
 });
 
 interact('.draggable')

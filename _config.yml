@@ -49,6 +49,7 @@ gems:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-admin
 
 
 #       ____              _             __  _

@@ -37,7 +37,7 @@ permalink: "/W2schedule&speakers/"
 1830 : Dinner at Barking Dog   
 2030 : Evening performances (sonic lab)   
 &nbsp; Chris Kiefer & Alice Eldridge - _Feedback Cell_   
-&nbsp; Theo Burt - _automatics group - remixes_   
+&nbsp; Theo Burt/The Automatics Group - _Remixes_   
 
 2130 : End day 1.
 
@@ -181,13 +181,13 @@ Mogees Ltd. is a multi-award winning technology company based in Shoreditch, Eas
 ![image of FBC]({{site.urlimg}}AlgoMechStill.jpg)
 ### **Feedback Cell**
 <p></p>
-Feedback Cell is the duo formed by cellist Alice Eldridge and computer-musician Chris Kiefer (Luuma) to explore their ever-evolving feedback cello project. Two butchered cellos, electromagnetic pickups, code, bows and lots of soldering. Emits dulcet drones and brutal yelps.
+Feedback Cell is the duo formed by cellist Alice Eldridge and computer-musician Chris Kiefer (Luuma) to explore their ever-evolving feedback cello project. Two butchered cellos, electromagnetic pickups, code, bows and lots of soldering. Emits dulcet drones and brutal yelps. In each performance we actively seek to come to stage with a new feature, configuration or development to explore. For this performance we will be collaborating with Craig Jackson to experiment with the effects of (frequency dependent) spatial diffusion on algorithmically and intuitively controlled feedback processes.
 <p></p>
 ---
 
 ![image of theo]({{site.urlimg}}tiesto_full.jpg)
-### **Theo Burt**
-*automatics group - remixes*
+### **Theo Burt/The Automatics Group**
+*Remixes*
 <p></p>
 Continuing the work started with his 2011 release Summer Mix, an album of automatically transformed club anthems (Entr'acte, Death of Rave), Theo Burt's ongoing remixes project utilizes various processes to restructure and synthesise new material from existing music and music video. Using only offline processes, batches of music are subjected to individual transforms, from simple restructuring, to analysis and reordering via machine listening algorithms. The tracks presented are his curation of this output.
 

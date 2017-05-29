@@ -158,7 +158,7 @@ As an instrument builder and improvising musician I am interested in how “thin
 <p></p>
 
 ---
-![image of Green]({{site.urlimg}}p_green.jpg)
+![image of Green]({{site.urlimg}}p_green.png)
 ### **Owen Green**
 *Play and Mischief as Serious Work: Hearing and Realisation*
 <p></p>
@@ -169,6 +169,8 @@ As an instrument builder and improvising musician I am interested in how “thin
 ![image of barry]({{site.urlimg}}p_barry.jpg)
 *Mogees: Music-HCI industry perspective on machine learning*
 ### **Conor Barry**
+Mogees Ltd. is a multi-award winning technology company based in Shoreditch, East London. Mogees research focuses on new methods for gestural interaction, making everyday ordinary objects extraordinary with smart technology. Mogees original product _Mogees Pro_ combines revolutionary software and a vibration sensor to transform any object into a musical instrument and was funded by suceessful Kickstarter campaigns. 
+
 ---
 ---
 
@@ -176,7 +178,7 @@ As an instrument builder and improvising musician I am interested in how “thin
 
 ---
 ---
-![image of theo]({{site.urlimg}}p_tiesto_full.jpg)
+![image of theo]({{site.urlimg}}tiesto_full.jpg)
 ### **Theo Burt**
 *automatics group - remixes*
 

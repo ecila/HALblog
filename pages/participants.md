@@ -26,6 +26,7 @@ permalink: "/participants/"
 ### Participants
 
 + [Trevor Agus](http://pure.qub.ac.uk/portal/en/persons/trevor-agus(74dd12e3-ec7d-4842-8916-66ff16b8d6d5).html) -- Lecturer, SARC, Queen’s University Belfast
++ Conor Barry -- Product Manager, [Mogees Ltd](http://www.mogees.co.uk/)
 + [Theo Burt](http://www.theoburt.com/) -- Artist,
 + [John Bowers](http://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html#background) -- Professor of Creative Digital Practice, University of Newcastle  
 + [Tristan Clutterbuck](http://tristanclutterbuck.tumblr.com/image/136825624304) -- PhD Student SARC, Queen’s University Belfast

@@ -26,7 +26,7 @@ mediaplayer: true
 
 I am first and foremost an improvising musician and instrument maker. I have a particular interested in exploring ways of developing and nurturing networks of human and non-human musical interactions, while also exploring how improvisation might be more broadly conceived as a skilled practice that transcends the disciplinary boundaries of music, promoting new approaches to creative decision-making, critical dialogue, risk-taking, and collaboration across diverse domains and levels of expertise.
 
-### So what does this have to do with Humanising Algorithmic Listening?_
+### So what does this have to do with Humanising Algorithmic Listening?
 <p></p>
 For me, this project is an opportunity to bring different disciplinary perspectives together to discuss how we might imagine the future of machine listening, where our possibly contradictory disciplinary understandings of the act of listening are allowed to occupy a tense but productive coexistence. The aim here is to better understanding the cultural, technical and ethical implications and possibilities of listening with machines in our research practices, as well as in our daily lives.
 

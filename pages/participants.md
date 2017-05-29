@@ -25,6 +25,8 @@ permalink: "/participants/"
 
 ### Participants
 
++ [Trevor Agus](http://pure.qub.ac.uk/portal/en/persons/trevor-agus(74dd12e3-ec7d-4842-8916-66ff16b8d6d5).html) -- Lecturer, SARC, Queen’s University Belfast
++ [Theo Burt](http://www.theoburt.com/) -- Artist,
 + [John Bowers](http://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html#background) -- Professor of Creative Digital Practice, University of Newcastle  
 + [Tristan Clutterbuck](http://tristanclutterbuck.tumblr.com/image/136825624304) -- PhD Student SARC, Queen’s University Belfast
 + [Ron Chrisley](http://www.sussex.ac.uk/profiles/476) -- Reader in Philosophy, Informatics, Evolutionary and Adaptive Systems Research Group, Centre for Cognitive Science, University of Sussex
@@ -41,6 +43,7 @@ permalink: "/participants/"
 + [Parag Mital](http://pkmital.com) -- Director of machine intelligence, Kadenze
 + [Shintaro Miyazaki](http://shintaro-miyazaki.com/) -- Senior researcher and lecturer at the Institute of Experimental Design and Media Cultures
 + [Sally-Jane Norman](http://www.sussex.ac.uk/profiles/240005) -- Professor of Performance Technologies, University of Sussex
++ [Franziska Schroeder](http://pure.qub.ac.uk/portal/en/persons/franziska-schroeder(0f271249-e97a-47ab-b28e-c856d2569345)/cv.html?id=1686993) -- Senior Lecturer, School of Arts, English and Languages, Queen’s University Belfast
 + [Dan Stowell](http://c4dm.eecs.qmul.ac.uk/people/dans.html) -- Research Fellow in Machine Listening, Queen Mary University London
 + [Nick Ward](http://www.dmarc.ie/people/academic-staff/nicholas-ward/) -- Lecturer in Digital Media & Arts, University of Limerick
 + [Simon Waters](http://pure.qub.ac.uk/portal/en/persons/simon-waters(2eb6eeb9-1304-4399-ae1c-be09e9e55c89).html) -- Lecturer in Sonic Arts, Queen's University Belfast

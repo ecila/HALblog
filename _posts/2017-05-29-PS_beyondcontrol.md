@@ -6,9 +6,9 @@ layout: post
 subheadline: "Beyond Control"
 title: "Improvisation, listening and distributed agency in human-machine musical ecosystems"
 categories:
-  - Thoughts
+  - Introductions
 tags:
-  - motivation
+  - info 
 author: paul_stapleton
 show_meta: true
 comments: true

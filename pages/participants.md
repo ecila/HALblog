@@ -27,7 +27,7 @@ permalink: "/participants/"
 
 + [Trevor Agus](http://pure.qub.ac.uk/portal/en/persons/trevor-agus(74dd12e3-ec7d-4842-8916-66ff16b8d6d5).html) -- Lecturer, SARC, Queen’s University Belfast
 + Conor Barry -- Product Manager, [Mogees Ltd](http://www.mogees.co.uk/)
-+ [Theo Burt](http://www.theoburt.com/) -- Artist,
++ [Theo Burt](http://www.theoburt.com/) -- Artist
 + [John Bowers](http://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html#background) -- Professor of Creative Digital Practice, University of Newcastle  
 + [Tristan Clutterbuck](http://tristanclutterbuck.tumblr.com/image/136825624304) -- PhD Student SARC, Queen’s University Belfast
 + [Ron Chrisley](http://www.sussex.ac.uk/profiles/476) -- Reader in Philosophy, Informatics, Evolutionary and Adaptive Systems Research Group, Centre for Cognitive Science, University of Sussex
@@ -41,7 +41,8 @@ permalink: "/participants/"
 + [David Kant](http://www.davidkant.com/) -- DMA Music Student, University of California
 + [Anja Kanngieser](http://anjakanngieser.com/) -- Political geographer and sound artist, Department of Sociology, Goldsmiths College, University of London
 + [Chris Kiefer](http://www.sussex.ac.uk/profiles/208667) -- Lecturer in Music Technology, University of Sussex
-+ [Parag Mital](http://pkmital.com) -- Director of machine intelligence, Kadenze
++ [Cathy Lane](http://www.crisap.org/people/cathy-lane/) -- Director of machine intelligence, Kadenze
++ [Parag Mital](http://pkmital.com) -- Professor of Sound Arts, University of the Arts London
 + [Shintaro Miyazaki](http://shintaro-miyazaki.com/) -- Senior researcher and lecturer at the Institute of Experimental Design and Media Cultures
 + [Sally-Jane Norman](http://www.sussex.ac.uk/profiles/240005) -- Professor of Performance Technologies, University of Sussex
 + [Franziska Schroeder](http://pure.qub.ac.uk/portal/en/persons/franziska-schroeder(0f271249-e97a-47ab-b28e-c856d2569345)/cv.html?id=1686993) -- Senior Lecturer, School of Arts, English and Languages, Queen’s University Belfast
@@ -100,22 +101,65 @@ permalink: "/participants/"
 
 <h2> NETWORK PARTICIPANTS</h2>
 <p></p>
+<div class="row">
+<a class="anchor" id="BC"></a>
+  <div class="small-12 large-6 columns">
+      <a href = "http://pure.qub.ac.uk/portal/en/persons/trevor-agus(74dd12e3-ec7d-4842-8916-66ff16b8d6d5).html"><img src="{{site.urlimg}}p_agus.jpg"></a>
+      <p></p>
+      <h3>
+       Trevor Agus
+
+      </h3>
+      <i>
+      Lecturer, SARC, Queen’s University Belfast
+
+      </i>
+      <p></p>
+      <p>
+Trevor Agus is an auditory psychologist who just wanted control over sounds in a way that made sense to his ears. His research career started by investigating why specifically complex listening situations were particularly challenging for many older listeners. Zooming in, he showed that we use rather complex spectrotemporal cues even in simple, everyday listening tasks, such as recognising that a voice is a voice. Yet more fundamentally, he researches why different snippets of white noise generally sound the same by investigating the rare exceptions. He is currently interested in the psychoacoustics of mixing, with a view to adapting mixes for hearing-impaired listeners.
+      </p>
+  </div>
+
+  <div class="small-12 large-6 columns">
+      <a href = "http://www.theoburt.com/"><img src="{{site.urlimg}}burt_scale.jpg"></a>
+      <p></p>
+      <h3>
+       Theo Burt
+      </h3>
+      <i>
+      Artist
+      </i>
+      <p></p>
+      <p>
+      Theo Burt produces sound, video and light works for live performance, installation, screenings and published media. Adopting a range of aesthetics, he works extensively with unpredictable and automatic processes to produce geometric and synthetic audio-visual performances, recorded music and transformations of existing music and media. By selecting processes that leave traces of both the source material and the process itself, the results are divorced of a single context, unplaceable, familiar and unfamiliar.
+ 
+      His most recent album Gloss (Presto!?, 2015) used early digital hardware synthesisers to create looped music fragments. His current Remix performances and installations continue the work of his album Summer Mix (Entr'acte/Death of Rave, 2011/2015) transforming existing anthemic dance material into new forms. Recent work has focussed on large scale light and sound installations, including "The War Will Feed Itself" in the turbine hall at VAC's Geometry of Now project in Moscow, 2017. A new album in collaboration with Richard Sides will be released later this year.
+
+      </p>
+
+  </div>
+  <hr>
+</div>
+<!-- END ROW -->
+
+
 
 <div class="row">
 <a class="anchor" id="BC"></a>
   <div class="small-12 large-6 columns">
-      <a href = "http://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html"><img src="{{site.urlimg}}p_bowers.jpg"></a>
+      <a href = "http://www.ncl.ac.uk/sacs/staff/profile/john.bowers"><img src="{{site.urlimg}}p_bowers.jpg"></a>
       <p></p>
       <h3>
        John Bowers
 
       </h3>
       <i>
-      Professor of Creative Digital Practice, University of Newcastle
+      Professor of Creative Digital Practice, Digital Cultures Research Group, Culture Lab and Fine Art, Newcastle University
+
       </i>
       <p></p>
       <p>
-     John Bowers is an artist-researcher working within Culture Lab with a particular interest in the use of art and design-led methods (Research Through Design) to explore digital technologies and novel interaction concepts. He also works as a sound artist improvising with electronic, digital, acoustic and electro-mechanical devices and self-made instruments in performance and installation settings, typically accompanied by live digital image. His work is often grounded in field research methods drawn from the social sciences (ethnography, interaction analysis) and related to theoretical and practical issues in Human Computer Interaction (HCI), design research, material culture, media archeology and critical theory. He leads Culture Lab's research on Digital Media.
+  John Bowers has a varied academic background having made contributions to research in psychology, sociology, computer science, and art and design. He is also a sound and inter-media artist who works with modular synthesisers, home-brew electronics, and reconstructions of antique image and sound-making devices, alongside contemporary digital technology. He makes performance environments which combine sound, image and gesture at a fundamental material level. He has performed at festivals including the collateral programme of the Venice Biennale, Piksel Bergen, Electropixel Nantes, AlgoMech Sheffield, BEAM Uxbridge and Spill Ipswich, and toured with the Rambert Dance Company performing David Tudor’s music to Merce Cunningham’s Rainforest. He contributed to the design of The Prayer Companion - a piece exhibited twice at the Museum Of Modern Art (MoMA), New York, and acquired for their permanent collection. Amongst many musical collaborations, he works with Sten-Olof Hellström, Tim Shaw and in the noise drone band Tonesucker. John Bowers works in Culture Lab and Fine Art, Newcastle University, where he helps coordinate the Digital Cultures Research Group.
       </p>
   </div>
 

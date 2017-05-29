@@ -31,13 +31,16 @@ permalink: "/W2schedule&speakers/"
 1430 : Presentations & demos (sonic lab)
 + David Kant - _Composing through machine listening_
 + Tom Davis - _Feral Cello: temporal and fluid agencies in improvised music performance_
-+ Owen Green - _Title TBC_
++ Owen Green - _Play and Mischief as Serious Work: Hearing and Realisation_
++ Conor Barry - _Mogees: Music-HCI industry perspective on machine learning_
+
+
 
 1600 : Tea/coffee break (foyer)   
 1630 : Group discussion (MMR)   
 1830 : Dinner at Barking Dog   
 2030 : Evening performances (sonic lab)
-+ Alice Eldridge & Chris Kiefer - _Feedback Cell_
++ Chris Kiefer & Alice Elridge - _Feedback Cell_
 + Theo Burt - _REMIXES_
 
 2130 : End day 1.

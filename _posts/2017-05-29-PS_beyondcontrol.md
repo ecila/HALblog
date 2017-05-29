@@ -8,7 +8,7 @@ title: "Improvisation, listening and distributed agency in human-machine musical
 categories:
   - Introductions
 tags:
-  - info 
+  - info
 author: paul_stapleton
 show_meta: true
 comments: true
@@ -47,7 +47,7 @@ In a [previous blog](http://www.algorithmiclistening.org/introductions/distantli
 
 + _Humanising Algorithmic Listening might mean learning anew what it means to listen together as humans._
 
-And I believe strongly in the key role that artistic practices can play in our attempts to better understand these possibilities. My own attempts to artistically explore the collaborative potential of computer music technologies includes my ongoing [Ambiguous Devices project with Tom Davis](http://www.paulstapleton.net/portfolio/tomdavis). Ambiguous Devices is a distributed musical ecosystem (Bowers [^2], Waters [^3]), a network of interconnected music-making machines, people and ideas. The project began in 2011 out of a mutual desire to explore non-linear and resistive forms of networked musical interactions in an attempt to challenge and extend our existing practices as improvisers and instrument makers. As the title suggests, we value “ambiguity as a resource” [4^] which allows for the possibility to (re)constitute the dynamics of our musical ecosystem, a process I have described elsewhere as co-tuning [^5] & forthcoming - see [paulstapleton.net](http://www.paulstapleton.net/portfolio/tomdavis) for updates.
+And I believe strongly in the key role that artistic practices can play in our attempts to better understand these possibilities. My own attempts to artistically explore the collaborative potential of computer music technologies includes my ongoing [Ambiguous Devices project with Tom Davis](http://www.paulstapleton.net/portfolio/tomdavis). Ambiguous Devices is a distributed musical ecosystem (Bowers [^2], Waters [^3]), a network of interconnected music-making machines, people and ideas. The project began in 2011 out of a mutual desire to explore non-linear and resistive forms of networked musical interactions in an attempt to challenge and extend our existing practices as improvisers and instrument makers. As the title suggests, we value “ambiguity as a resource” [^4] which allows for the possibility to (re)constitute the dynamics of our musical ecosystem, a process I have described elsewhere as co-tuning [^5] & forthcoming - see [paulstapleton.net](http://www.paulstapleton.net/portfolio/tomdavis) for updates.
 
 
 ### Coda: why do I celebrate instability and adaptability over control?

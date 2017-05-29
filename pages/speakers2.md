@@ -35,7 +35,7 @@ permalink: "/W2schedule&speakers/"
 1600 : Tea/coffee break (foyer)   
 1630 : Group discussion (MMR)   
 1830 : Dinner at Barking Dog   
-2030 : Evening performances (sonic lab)
+2030 : Evening performances (sonic lab)   
 &nbsp; Chris Kiefer & Alice Eldridge - _Feedback Cell_   
 &nbsp; Theo Burt - _automatics group - remixes_   
 
@@ -169,7 +169,7 @@ As an instrument builder and improvising musician I am interested in how “thin
 ![image of barry]({{site.urlimg}}p_barry.jpg)
 *Mogees: Music-HCI industry perspective on machine learning*
 ### **Conor Barry**
-Mogees Ltd. is a multi-award winning technology company based in Shoreditch, East London. Mogees research focuses on new methods for gestural interaction, making everyday ordinary objects extraordinary with smart technology. Mogees original product _Mogees Pro_ combines revolutionary software and a vibration sensor to transform any object into a musical instrument and was funded by suceessful Kickstarter campaigns. 
+Mogees Ltd. is a multi-award winning technology company based in Shoreditch, East London. Mogees research focuses on new methods for gestural interaction, making everyday ordinary objects extraordinary with smart technology. Mogees original product _Mogees Pro_ combines revolutionary software and a vibration sensor to transform any object into a musical instrument and was funded by suceessful Kickstarter campaigns.
 
 ---
 ---
@@ -178,15 +178,18 @@ Mogees Ltd. is a multi-award winning technology company based in Shoreditch, Eas
 
 ---
 ---
+![image of FBC]({{site.urlimg}}AlgoMechStill.jpg)
+### **Feedback Cell**
+<p></p>
+Feedback Cell is the duo formed by cellist Alice Eldridge and computer-musician Chris Kiefer (Luuma) to explore their ever-evolving feedback cello project. Two butchered cellos, electromagnetic pickups, code, bows and lots of soldering. Emits dulcet drones and brutal yelps.
+<p></p>
+---
+
 ![image of theo]({{site.urlimg}}tiesto_full.jpg)
 ### **Theo Burt**
 *automatics group - remixes*
-
+<p></p>
 Continuing the work started with his 2011 release Summer Mix, an album of automatically transformed club anthems (Entr'acte, Death of Rave), Theo Burt's ongoing remixes project utilizes various processes to restructure and synthesise new material from existing music and music video. Using only offline processes, batches of music are subjected to individual transforms, from simple restructuring, to analysis and reordering via machine listening algorithms. The tracks presented are his curation of this output.
 
-![image of FBC]({{site.urlimg}}AlgoMechStill.jpg)
-### **Feedback Cell**
-
-Feedback Cell is the duo formed by cellist Alice Eldridge and computer-musician Chris Kiefer (Luuma) to explore their ever-evolving feedback cello project. Two butchered cellos, electromagnetic pickups, code, bows and lots of soldering. Emits dulcet drones and brutal yelps.
-
+<p></p>
 ---

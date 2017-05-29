@@ -298,7 +298,7 @@ Trevor Agus is an auditory psychologist who just wanted control over sounds in a
 <div class="row">
 <a class="anchor" id="GH"></a>
   <div class="small-12 large-6 columns">
-      <a href = "http://owengreen.net/"><img src="{{site.urlimg}}p_kant.jpg"></a>
+      <a href = "http://owengreen.net/"><img src="{{site.urlimg}}p_green.png"></a>
       <p></p>
       <h3>
       Owen Green
@@ -315,7 +315,7 @@ Trevor Agus is an auditory psychologist who just wanted control over sounds in a
 
 
   <div class="large-6 columns">
-      <a href = "http://www.sussex.ac.uk/profiles/336034"><img src="{{site.urlimg}}p_anja.jpg"></a>
+      <a href = "http://www.sussex.ac.uk/profiles/336034"><img src="{{site.urlimg}}p_hitchcock15.jpg"></a>
       <p></p>
       <h3>
        Tim Hitchcock
@@ -392,41 +392,70 @@ Trevor Agus is an auditory psychologist who just wanted control over sounds in a
   </p>
   </div>
 
-
   <div class="large-6 columns">
-      <a href = "http://pkmital.com"><img src="{{site.urlimg}}p_parag.jpg"></a>
-      <p></p>
-      <h3>
-       Parag Mital
-      </h3>
-      <i>
-      Director of machine intelligence, Kadenze
-    </i>
-    <p></p>
-    <p>
-    Parag K. MITAL (US) is an artist and interdisciplinary researcher obsessed with the nature of information, representation, and attention. Using film, eye-tracking, EEG, and fMRI recordings, he has worked on computational models of audiovisual perception from the perspective of both robots and humans, often revealing the disjunct between the two, through generative film experiences, augmented reality hallucinations, and expressive control of large audiovisual corpora. Through this process, he balances his scientific and arts practice, with both reflecting on each other: the science driving the theories, and the artwork re-defining the questions asked within the research. His work has been exhibited internationally including the Prix Ars Electronica, ACM Multimedia, Victoria & Albert Museum, London’s Science Museum, Oberhausen Short Film Festival, and the British Film Institute, and featured in FastCompany, BBC, NYTimes, CreativeApplications.Net, and CreateDigitalMotion.
-    </p>
+  <a href = "http://www.sussex.ac.uk/profiles/208667"><img src="{{site.urlimg}}p_lane.jpg"></a>
+  <p></p>
+  <h3>
+  Cathy Lane
+  </h3>
+  <i>
+Professor of Sound Arts and University of the Arts London and co-director of CRiSAP (Creative Research in Sound Arts Practice), University of the Arts London.
+  </i>
+  <p></p>
+  <p>
+  Cathy Lane is a composer, sound artist and academic. Her work uses spoken word, field recordings and archive material to explore aspects of our listening relationship with each other and the multiverse. She is currently focused on how sound relates to the past, our histories, environment and our collective and individual memories from a feminist perspective. Aspects of her creative practice have developed out of these interests and include composition and installation-based work. She also writes and lectures on these and related subjects as well as collaborating with choreographers, film makers, visual artists and other musicians.
+
+Books include Playing with Words: The Spoken Word in Artistic Practice (RGAP, 2008) and, with Angus Carlyle, In the Field (Uniformbooks, 2013), a collection of interviews with eighteen contemporary sound artists who use field recording in their work and On Listening (2013) a collection of commissioned essays about some of the ways in which listening is used in disciplines including anthropology, community activism, bioacoustics, conflict mediation and religious studies, music, ethnomusicology and field recording. Her CD The Hebrides Suite was released by Gruenrekorder in 2013.
+  </p>
   </div>
   <hr>
+
+
 </div>
+
 <!-- END ROW -->
 
 <div class="row">
 <a class="anchor" id="MN"></a>
   <div class="small-12 large-6 columns">
-      <a href = "http://shintaro-miyazaki.com/"><img src="{{site.urlimg}}p_shintaro.jpg"></a>
-      <p></p>
-      <h3>
-      Shintaro Miyazaki
-      </h3>
-      <i>
-      Senior researcher and lecturer at the Institute of Experimental Design and Media Cultures
-      </i>
-      <p></p>
-      <p>
-      Shintaro Miyazaki is a Berlin-born Swiss-Japanese media and design scholar and experimental media designer. He has been a Senior Researcher at the Critical Media Lab of the Institute of Experimental Design and Media Cultures, Academy of Art and Design part of the University of Applied Sciences and Arts Northwestern Switzerland in Basel since 2014 and since 2016 principle investigator there. Shintaro obtained a PhD in media theory at Humboldt-Universität in Berlin (2012). His current interests include cybernetics, design theory and research, non-visual modes of knowledge.
-  </p>
+  <a href = "http://pkmital.com"><img src="{{site.urlimg}}p_parag.jpg"></a>
+  <p></p>
+  <h3>
+   Parag Mital
+  </h3>
+  <i>
+  Director of machine intelligence, Kadenze
+</i>
+<p></p>
+<p>
+Parag K. MITAL (US) is an artist and interdisciplinary researcher obsessed with the nature of information, representation, and attention. Using film, eye-tracking, EEG, and fMRI recordings, he has worked on computational models of audiovisual perception from the perspective of both robots and humans, often revealing the disjunct between the two, through generative film experiences, augmented reality hallucinations, and expressive control of large audiovisual corpora. Through this process, he balances his scientific and arts practice, with both reflecting on each other: the science driving the theories, and the artwork re-defining the questions asked within the research. His work has been exhibited internationally including the Prix Ars Electronica, ACM Multimedia, Victoria & Albert Museum, London’s Science Museum, Oberhausen Short Film Festival, and the British Film Institute, and featured in FastCompany, BBC, NYTimes, CreativeApplications.Net, and CreateDigitalMotion.
+</p>
   </div>
+
+
+  <div class="large-6 columns">
+  <a href = "http://shintaro-miyazaki.com/"><img src="{{site.urlimg}}p_shintaro.jpg"></a>
+  <p></p>
+  <h3>
+  Shintaro Miyazaki
+  </h3>
+  <i>
+  Senior researcher and lecturer at the Institute of Experimental Design and Media Cultures
+  </i>
+  <p></p>
+  <p>
+  Shintaro Miyazaki is a Berlin-born Swiss-Japanese media and design scholar and experimental media designer. He has been a Senior Researcher at the Critical Media Lab of the Institute of Experimental Design and Media Cultures, Academy of Art and Design part of the University of Applied Sciences and Arts Northwestern Switzerland in Basel since 2014 and since 2016 principle investigator there. Shintaro obtained a PhD in media theory at Humboldt-Universität in Berlin (2012). His current interests include cybernetics, design theory and research, non-visual modes of knowledge.
+</p>
+  </div>
+  <hr>
+</div>
+<!-- END ROW -->
+
+
+<!-- END ROW -->
+
+<div class="row">
+<a class="anchor" id="MN"></a>
 
 
   <div class="large-6 columns">
@@ -441,9 +470,24 @@ Trevor Agus is an auditory psychologist who just wanted control over sounds in a
     <p></p>
     <p>
     Sally-Jane Norman is Professor of Performance Technologies and Co-Director of Sussex Humanities Lab where she leads the  ‘Digital Technologies, Digital Performance’ strand. She joined Sussex after serving as founding Director of Culture Lab at Newcastle University, Research Director at the Institut International de la Marionnette (Charleville-Mézières), and Artistic Co-Director of STEIM (co-organiser of the first Touch Festival with Michel Waisvisz and Joel Ryan). She is a dual citizen of Aotearoa/ New Zealand and France, trandisciplinary performance scholar (Doctorat d’état, Paris III) and sometime practitioner.  From July, Sally Jane will become Director of Te Koki - New Zealand School of Music, at Victoria University in Wellington, Aotearoa.
-
     </p>
   </div>
+<div class="large-6 columns">
+<a href = "https://improvisationresearch.com"><img src="{{site.urlimg}}p_schroederCrop.jpg"></a>
+<p></p>
+<h3>
+ Franziska Schroeder
+</h3>
+<i>
+Senior Lecturer at the School of Arts, English and Languages, Queen’s University Belfast
+</i>
+<p></p>
+<p>
+Franziska is a saxophonist, improviser and theorist, originally from Berlin/Germany. She trained as a contemporary saxophonist in Australia, and in 2006 completed her PhD at the University of Edinburgh, researching performance and theories of embodiment. Her research is published in diverse international journals, including Leonardo, Organised Sound, Performance Research, Cambridge Publishing and Routledge. Franziska has published a book on performance and the threshold (VDM, 2009), an edited volume on user-generated content (Cambridge Scholars Publishing, 2009) as well as a volume on improvisation (Cambridge Scholars Publishing, 2014). Franziska has performed with many international musicians including Joan La Barbara, Pauline Oliveros, Stelarc, the Avatar Orchestra, Carin Levine, Chris Brown and Evan Parker.
+</p>
+
+</div>
+
   <hr>
 </div>
 <!-- END ROW -->

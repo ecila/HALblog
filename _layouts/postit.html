@@ -1,6 +1,7 @@
 ---
 layout: default
 format: page-fullwidth
+
 ---
 {% if page.image.title %}
 <div class="row t30">
@@ -29,18 +30,19 @@ format: page-fullwidth
 				{{ page.teaser }}
 			</p>
 			{% endif %}
-
-			{{ content }}
-		</article>
+			<div id="postit" class="clearfix"></div>
 		    <!-- Stuff for jsarr tag  -->
 
-    {% for js in page.jsarr %}
-      <script type="text/javascript">
-	{% include {{ js }} %}
-      </script>
-    {% endfor %}
+		    {% for js in page.jsarr %}
+		      <script type="text/javascript">
+			{% include {{ js }} %}
+		      </script>
+		    {% endfor %}
 
-<!-- End Stuff for jsarr tag  -->
+		<!-- End Stuff for jsarr tag  -->
+			{{ content }}
+		</article>
+
 	</div><!-- /.medium-12.columns -->
 </div><!-- /.row -->
 

@@ -41,8 +41,8 @@ permalink: "/participants/"
 + [David Kant](http://www.davidkant.com/) -- DMA Music Student, University of California
 + [Anja Kanngieser](http://anjakanngieser.com/) -- Political geographer and sound artist, Department of Sociology, Goldsmiths College, University of London
 + [Chris Kiefer](http://www.sussex.ac.uk/profiles/208667) -- Lecturer in Music Technology, University of Sussex
-+ [Cathy Lane](http://www.crisap.org/people/cathy-lane/) -- Director of machine intelligence, Kadenze
-+ [Parag Mital](http://pkmital.com) -- Professor of Sound Arts, University of the Arts London
++ [Cathy Lane](http://www.crisap.org/people/cathy-lane/) -- Professor of Sound Arts, University of the Arts London
++ [Parag Mital](http://pkmital.com) -- Director of machine intelligence, Kadenze
 + [Shintaro Miyazaki](http://shintaro-miyazaki.com/) -- Senior researcher and lecturer at the Institute of Experimental Design and Media Cultures
 + [Sally-Jane Norman](http://www.sussex.ac.uk/profiles/240005) -- Professor of Performance Technologies, University of Sussex
 + [Franziska Schroeder](http://pure.qub.ac.uk/portal/en/persons/franziska-schroeder(0f271249-e97a-47ab-b28e-c856d2569345)/cv.html?id=1686993) -- Senior Lecturer, School of Arts, English and Languages, Queen’s University Belfast

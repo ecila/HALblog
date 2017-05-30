@@ -30,7 +30,7 @@ function removeTitles(csv)
 {
   var withoutTitles = [];
   var startIndex = 0;
-  if (csv[0][0] == 'x' && csv[0][0] == 'y')
+  if (csv[0][0] == 'x' && csv[0][1] == 'y' && csv[0][2] == 'text' && csv[0][3] == 'color')
   {
     startIndex = 1;
   }
@@ -301,8 +301,8 @@ function processData(csv) {
             }
             lines.push(tarr);
     }
-  console.log(lines);
   lines = removeTitles(lines);
+  console.log(lines);
   drawPostitsFromFile(lines);
 };
 

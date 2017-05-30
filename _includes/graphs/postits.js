@@ -5,19 +5,10 @@ var container = document.getElementById('postit');
 var xhr = new XMLHttpRequest();
 xhr.onreadystatechange = processRequest;
 var hasGotFile = false;
-var url = "http://www.algorithmiclistening.com/";
+var url = "http://www.algorithmiclistening.org/";
 getLocalFile();
- 
-function processRequest(e) {
-    if (xhr.readyState == 4 && xhr.status == 200 && hasGotFile == false) {
-        var response = JSON.parse(xhr.responseText);
-        var arr = arrayFromObject(response['content']);
-        console.log("processing request");
-        console.log(arr);
-        drawPostitsFromFile(arr);
-        hasGotFile = true;
-    }
-};
+
+/*CONVERTING POSTITS*/
 
 function arrayFromObject(objects)
 {
@@ -35,12 +26,29 @@ function arrayFromObject(objects)
   return toReturn;
 };
 
-function getLocalFile()
+function removeTitles(csv)
 {
-  console.log("getting local file");
-  xhr.open('GET', url + "data/postits.csv", true);
-  xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
-  xhr.send();
+  var withoutTitles = [];
+  var startIndex = 0;
+  if (csv[0][0] == 'x' && csv[0][0] == 'y')
+  {
+    startIndex = 1;
+  }
+  for(var i = startIndex; i < csv.length; i++)
+  {
+    withoutTitles.push(csv[i]);
+  }
+  return withoutTitles;
+};
+
+function addTitles(csv)
+{
+  var withTitles = [['x','y','text','color']];
+  for(var i = 0; i < csv.length; i++)
+  {
+    withTitles.push(csv[i]);
+  }
+  return withTitles;
 };
 
 function rawContentString(csv)
@@ -60,6 +68,48 @@ function rawContentString(csv)
     raw = raw + "\n";
   };
   return raw;
+};
+
+/*KEY PRESS*/
+
+function handleKeyPress(evt)
+{
+    var e = event || evt;
+    var charCode = e.which || e.keyCode;
+
+    if (charCode == 9 ) 
+    {
+        postitToFront(currentElement);
+        return false;
+    }
+
+    return true;
+};
+
+/*API*/
+
+function getLocalFile()
+{
+
+  /* xhr.open('GET', url + "data/postits.csv", true);
+   xhr.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+  xhr.send(); */
+
+  var arr = arrayFromObject({{site.data.postits | jsonify}});
+  console.log(arr);
+  drawPostitsFromFile(arr);
+};
+
+ 
+function processRequest(e) {
+    if (xhr.readyState == 4 && xhr.status == 200 && hasGotFile == false) {
+        var response = JSON.parse(xhr.responseText);
+        var arr = arrayFromObject(response['content']);
+        console.log("processing request");
+        console.log(arr);
+        drawPostitsFromFile(arr);
+        hasGotFile = true;
+    }
 };
 
 function updateLocalFile(csv)
@@ -137,6 +187,7 @@ function drawPostit(postit,index)
     var text = postit[2];
     var color = postit[3];
     container.appendChild(item1);
+    item1.onkeydown = handleKeyPress;
     item1.className = "draggable tap-target";
     item1.value = text;
     item1.setAttribute('data-x', x);
@@ -164,13 +215,24 @@ function deleteSelected()
   redrawCurrentPostits();
 };
 
+function postitToFront(postit)
+{
+  updatePostitsFromDivs();
+
+  var index = postit.getAttribute('index');
+  var removed = currentPostits.splice(index,1);
+  currentPostits.push(removed[0]);
+
+  redrawCurrentPostits();
+};
+
 /*INTERACT.JS*/
 
 interact('.tap-target')
 .on('tap', function (event) {
   console.log('tap on ' + event.target.getAttribute('index'));
   currentElement = event.target;
-  updateLocalFile(currentPostits);
+  /*updateLocalFile(currentPostits);*/
 });
 
 interact('.draggable')
@@ -240,6 +302,7 @@ function processData(csv) {
             lines.push(tarr);
     }
   console.log(lines);
+  lines = removeTitles(lines);
   drawPostitsFromFile(lines);
 };
 
@@ -254,7 +317,8 @@ function errorHandler(evt) {
 function saveCSV() {
 
   updatePostitsFromDivs();
-  csvGenerator = new CsvGenerator(currentPostits, 'halPostits.csv');
+  var withTitle = addTitles(currentPostits);
+  csvGenerator = new CsvGenerator(withTitle, 'postits.csv');
   csvGenerator.download(true);
 };
 

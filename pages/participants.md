@@ -25,6 +25,9 @@ permalink: "/participants/"
 
 ### Participants
 
++ [Trevor Agus](http://pure.qub.ac.uk/portal/en/persons/trevor-agus(74dd12e3-ec7d-4842-8916-66ff16b8d6d5).html) -- Lecturer, SARC, Queen’s University Belfast
++ Conor Barry -- Product Manager, [Mogees Ltd](http://www.mogees.co.uk/)
++ [Theo Burt](http://www.theoburt.com/) -- Artist
 + [John Bowers](http://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html#background) -- Professor of Creative Digital Practice, University of Newcastle  
 + [Tristan Clutterbuck](http://tristanclutterbuck.tumblr.com/image/136825624304) -- PhD Student SARC, Queen’s University Belfast
 + [Ron Chrisley](http://www.sussex.ac.uk/profiles/476) -- Reader in Philosophy, Informatics, Evolutionary and Adaptive Systems Research Group, Centre for Cognitive Science, University of Sussex
@@ -38,9 +41,11 @@ permalink: "/participants/"
 + [David Kant](http://www.davidkant.com/) -- DMA Music Student, University of California
 + [Anja Kanngieser](http://anjakanngieser.com/) -- Political geographer and sound artist, Department of Sociology, Goldsmiths College, University of London
 + [Chris Kiefer](http://www.sussex.ac.uk/profiles/208667) -- Lecturer in Music Technology, University of Sussex
++ [Cathy Lane](http://www.crisap.org/people/cathy-lane/) -- Professor of Sound Arts, University of the Arts London
 + [Parag Mital](http://pkmital.com) -- Director of machine intelligence, Kadenze
 + [Shintaro Miyazaki](http://shintaro-miyazaki.com/) -- Senior researcher and lecturer at the Institute of Experimental Design and Media Cultures
 + [Sally-Jane Norman](http://www.sussex.ac.uk/profiles/240005) -- Professor of Performance Technologies, University of Sussex
++ [Franziska Schroeder](http://pure.qub.ac.uk/portal/en/persons/franziska-schroeder(0f271249-e97a-47ab-b28e-c856d2569345)/cv.html?id=1686993) -- Senior Lecturer, School of Arts, English and Languages, Queen’s University Belfast
 + [Dan Stowell](http://c4dm.eecs.qmul.ac.uk/people/dans.html) -- Research Fellow in Machine Listening, Queen Mary University London
 + [Nick Ward](http://www.dmarc.ie/people/academic-staff/nicholas-ward/) -- Lecturer in Digital Media & Arts, University of Limerick
 + [Simon Waters](http://pure.qub.ac.uk/portal/en/persons/simon-waters(2eb6eeb9-1304-4399-ae1c-be09e9e55c89).html) -- Lecturer in Sonic Arts, Queen's University Belfast
@@ -69,7 +74,7 @@ permalink: "/participants/"
       </i>
       <p></p>
       <p>
-      Alice Eldridge is a musician and interdisciplinary researcher. A background in music, psychology (BSc), evolutionary and adaptive systems (MSc) and informatics (PhD) informs wide-ranging creative, technological and scientific interests in the composition and decomposition of sonic environments. Current and recently funded projects include ecoacoustic machine listening for biodiversity monitoring in the Ecuadorian Amazon, development of networked notation software to support ensemble music making for young people and a hybrid luthiery project designing and building an electro-acoustic feedback cello for generative and gestural improvisation. As a cellist she has performed internationally at the intersection of contemporary classical, improvised, folk and avant garde musics, including as one-quarter of award winning Collectress and is a vibrant member of Brighton and London free improv scenes. She have appeared on BBC radio 1 as a pop bassist, BBC radio 3 as a contemporary classical composer and free jazz cellist, BBC radio 4 as a soundscape ecologist and her field recordings feature on Janek Schaefer’s foundsoundscape.com. Her work in all domains is driven by a joy in the absorbing powers of listening and a fascination with technologies for broadening it’s range.  
+      Alice Eldridge is a musician and interdisciplinary researcher. A background in music, psychology (BSc), evolutionary and adaptive systems (MSc) and informatics (PhD) informs wide-ranging creative, technological and scientific research in the composition and decomposition of sonic environments. She has published and presented at conferences internationally across music, computing and soundscape ecology. As a cellist she has performed internationally at the intersection of contemporary classical, improvised, folk and avant garde musics, including as one-quarter of award winning Collectress and is a vibrant member of Brighton and London free improv scenes. She has appeared on BBC radio 1 as a pop bassist, BBC radio 3 as a contemporary classical composer and free jazz cellist, BBC radio 4 and prime-time BBC 2 TV as a soundscape ecologist; her field recordings feature on Janek Schaefer’s foundsoundscape.com. Her work in all domains is driven by a simple joy in the absorbing powers of listening and an interest in technologies and techniques for broadening it’s scope.  
 
       </p>
 
@@ -96,22 +101,65 @@ permalink: "/participants/"
 
 <h2> NETWORK PARTICIPANTS</h2>
 <p></p>
+<div class="row">
+<a class="anchor" id="BC"></a>
+  <div class="small-12 large-6 columns">
+      <a href = "http://pure.qub.ac.uk/portal/en/persons/trevor-agus(74dd12e3-ec7d-4842-8916-66ff16b8d6d5).html"><img src="{{site.urlimg}}p_agus.jpg"></a>
+      <p></p>
+      <h3>
+       Trevor Agus
+
+      </h3>
+      <i>
+      Lecturer, SARC, Queen’s University Belfast
+
+      </i>
+      <p></p>
+      <p>
+Trevor Agus is an auditory psychologist who just wanted control over sounds in a way that made sense to his ears. His research career started by investigating why specifically complex listening situations were particularly challenging for many older listeners. Zooming in, he showed that we use rather complex spectrotemporal cues even in simple, everyday listening tasks, such as recognising that a voice is a voice. Yet more fundamentally, he researches why different snippets of white noise generally sound the same by investigating the rare exceptions. He is currently interested in the psychoacoustics of mixing, with a view to adapting mixes for hearing-impaired listeners.
+      </p>
+  </div>
+
+  <div class="small-12 large-6 columns">
+      <a href = "http://www.theoburt.com/"><img src="{{site.urlimg}}burt_scale.jpg"></a>
+      <p></p>
+      <h3>
+       Theo Burt
+      </h3>
+      <i>
+      Artist
+      </i>
+      <p></p>
+      <p>
+      Theo Burt produces sound, video and light works for live performance, installation, screenings and published media. Adopting a range of aesthetics, he works extensively with unpredictable and automatic processes to produce geometric and synthetic audio-visual performances, recorded music and transformations of existing music and media. By selecting processes that leave traces of both the source material and the process itself, the results are divorced of a single context, unplaceable, familiar and unfamiliar.
+ 
+      His most recent album Gloss (Presto!?, 2015) used early digital hardware synthesisers to create looped music fragments. His current Remix performances and installations continue the work of his album Summer Mix (Entr'acte/Death of Rave, 2011/2015) transforming existing anthemic dance material into new forms. Recent work has focussed on large scale light and sound installations, including "The War Will Feed Itself" in the turbine hall at VAC's Geometry of Now project in Moscow, 2017. A new album in collaboration with Richard Sides will be released later this year.
+
+      </p>
+
+  </div>
+  <hr>
+</div>
+<!-- END ROW -->
+
+
 
 <div class="row">
 <a class="anchor" id="BC"></a>
   <div class="small-12 large-6 columns">
-      <a href = "http://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html"><img src="{{site.urlimg}}p_bowers.jpg"></a>
+      <a href = "http://www.ncl.ac.uk/sacs/staff/profile/john.bowers"><img src="{{site.urlimg}}p_bowers.jpg"></a>
       <p></p>
       <h3>
        John Bowers
 
       </h3>
       <i>
-      Professor of Creative Digital Practice, University of Newcastle
+      Professor of Creative Digital Practice, Digital Cultures Research Group, Culture Lab and Fine Art, Newcastle University
+
       </i>
       <p></p>
       <p>
-     John Bowers is an artist-researcher working within Culture Lab with a particular interest in the use of art and design-led methods (Research Through Design) to explore digital technologies and novel interaction concepts. He also works as a sound artist improvising with electronic, digital, acoustic and electro-mechanical devices and self-made instruments in performance and installation settings, typically accompanied by live digital image. His work is often grounded in field research methods drawn from the social sciences (ethnography, interaction analysis) and related to theoretical and practical issues in Human Computer Interaction (HCI), design research, material culture, media archeology and critical theory. He leads Culture Lab's research on Digital Media.
+  John Bowers has a varied academic background having made contributions to research in psychology, sociology, computer science, and art and design. He is also a sound and inter-media artist who works with modular synthesisers, home-brew electronics, and reconstructions of antique image and sound-making devices, alongside contemporary digital technology. He makes performance environments which combine sound, image and gesture at a fundamental material level. He has performed at festivals including the collateral programme of the Venice Biennale, Piksel Bergen, Electropixel Nantes, AlgoMech Sheffield, BEAM Uxbridge and Spill Ipswich, and toured with the Rambert Dance Company performing David Tudor’s music to Merce Cunningham’s Rainforest. He contributed to the design of The Prayer Companion - a piece exhibited twice at the Museum Of Modern Art (MoMA), New York, and acquired for their permanent collection. Amongst many musical collaborations, he works with Sten-Olof Hellström, Tim Shaw and in the noise drone band Tonesucker. John Bowers works in Culture Lab and Fine Art, Newcastle University, where he helps coordinate the Digital Cultures Research Group.
       </p>
   </div>
 
@@ -250,7 +298,7 @@ permalink: "/participants/"
 <div class="row">
 <a class="anchor" id="GH"></a>
   <div class="small-12 large-6 columns">
-      <a href = "http://owengreen.net/"><img src="{{site.urlimg}}p_kant.jpg"></a>
+      <a href = "http://owengreen.net/"><img src="{{site.urlimg}}p_green.png"></a>
       <p></p>
       <h3>
       Owen Green
@@ -267,7 +315,7 @@ permalink: "/participants/"
 
 
   <div class="large-6 columns">
-      <a href = "http://www.sussex.ac.uk/profiles/336034"><img src="{{site.urlimg}}p_anja.jpg"></a>
+      <a href = "http://www.sussex.ac.uk/profiles/336034"><img src="{{site.urlimg}}p_hitchcock15.jpg"></a>
       <p></p>
       <h3>
        Tim Hitchcock
@@ -344,41 +392,69 @@ permalink: "/participants/"
   </p>
   </div>
 
-
   <div class="large-6 columns">
-      <a href = "http://pkmital.com"><img src="{{site.urlimg}}p_parag.jpg"></a>
-      <p></p>
-      <h3>
-       Parag Mital
-      </h3>
-      <i>
-      Director of machine intelligence, Kadenze
-    </i>
-    <p></p>
-    <p>
-    Parag K. MITAL (US) is an artist and interdisciplinary researcher obsessed with the nature of information, representation, and attention. Using film, eye-tracking, EEG, and fMRI recordings, he has worked on computational models of audiovisual perception from the perspective of both robots and humans, often revealing the disjunct between the two, through generative film experiences, augmented reality hallucinations, and expressive control of large audiovisual corpora. Through this process, he balances his scientific and arts practice, with both reflecting on each other: the science driving the theories, and the artwork re-defining the questions asked within the research. His work has been exhibited internationally including the Prix Ars Electronica, ACM Multimedia, Victoria & Albert Museum, London’s Science Museum, Oberhausen Short Film Festival, and the British Film Institute, and featured in FastCompany, BBC, NYTimes, CreativeApplications.Net, and CreateDigitalMotion.
-    </p>
+  <a href = "http://www.sussex.ac.uk/profiles/208667"><img src="{{site.urlimg}}p_lane.jpg"></a>
+  <p></p>
+  <h3>
+  Cathy Lane
+  </h3>
+  <i>
+Professor of Sound Arts and University of the Arts London and co-director of CRiSAP (Creative Research in Sound Arts Practice), University of the Arts London.
+  </i>
+  <p></p>
+  <p>
+  Cathy Lane is a composer, sound artist and academic. Her work uses spoken word, field recordings and archive material to explore aspects of our listening relationship with each other and the multiverse. She is currently focused on how sound relates to the past, our histories, environment and our collective and individual memories from a feminist perspective. Aspects of her creative practice have developed out of these interests and include composition and installation-based work. She also writes and lectures on these and related subjects as well as collaborating with choreographers, film makers, visual artists and other musicians.
+
+  </p>
   </div>
   <hr>
+
+
 </div>
+
 <!-- END ROW -->
 
 <div class="row">
 <a class="anchor" id="MN"></a>
   <div class="small-12 large-6 columns">
-      <a href = "http://shintaro-miyazaki.com/"><img src="{{site.urlimg}}p_shintaro.jpg"></a>
-      <p></p>
-      <h3>
-      Shintaro Miyazaki
-      </h3>
-      <i>
-      Senior researcher and lecturer at the Institute of Experimental Design and Media Cultures
-      </i>
-      <p></p>
-      <p>
-      Shintaro Miyazaki is a Berlin-born Swiss-Japanese media and design scholar and experimental media designer. He has been a Senior Researcher at the Critical Media Lab of the Institute of Experimental Design and Media Cultures, Academy of Art and Design part of the University of Applied Sciences and Arts Northwestern Switzerland in Basel since 2014 and since 2016 principle investigator there. Shintaro obtained a PhD in media theory at Humboldt-Universität in Berlin (2012). His current interests include cybernetics, design theory and research, non-visual modes of knowledge.
-  </p>
+  <a href = "http://pkmital.com"><img src="{{site.urlimg}}p_parag.jpg"></a>
+  <p></p>
+  <h3>
+   Parag Mital
+  </h3>
+  <i>
+  Director of machine intelligence, Kadenze
+</i>
+<p></p>
+<p>
+Parag K. MITAL (US) is an artist and interdisciplinary researcher obsessed with the nature of information, representation, and attention. Using film, eye-tracking, EEG, and fMRI recordings, he has worked on computational models of audiovisual perception from the perspective of both robots and humans, often revealing the disjunct between the two, through generative film experiences, augmented reality hallucinations, and expressive control of large audiovisual corpora. Through this process, he balances his scientific and arts practice, with both reflecting on each other: the science driving the theories, and the artwork re-defining the questions asked within the research. His work has been exhibited internationally including the Prix Ars Electronica, ACM Multimedia, Victoria & Albert Museum, London’s Science Museum, Oberhausen Short Film Festival, and the British Film Institute, and featured in FastCompany, BBC, NYTimes, CreativeApplications.Net, and CreateDigitalMotion.
+</p>
   </div>
+
+
+  <div class="large-6 columns">
+  <a href = "http://shintaro-miyazaki.com/"><img src="{{site.urlimg}}p_shintaro.jpg"></a>
+  <p></p>
+  <h3>
+  Shintaro Miyazaki
+  </h3>
+  <i>
+  Senior researcher and lecturer at the Institute of Experimental Design and Media Cultures
+  </i>
+  <p></p>
+  <p>
+  Shintaro Miyazaki is a Berlin-born Swiss-Japanese media and design scholar and experimental media designer. He has been a Senior Researcher at the Critical Media Lab of the Institute of Experimental Design and Media Cultures, Academy of Art and Design part of the University of Applied Sciences and Arts Northwestern Switzerland in Basel since 2014 and since 2016 principle investigator there. Shintaro obtained a PhD in media theory at Humboldt-Universität in Berlin (2012). His current interests include cybernetics, design theory and research, non-visual modes of knowledge.
+</p>
+  </div>
+  <hr>
+</div>
+<!-- END ROW -->
+
+
+<!-- END ROW -->
+
+<div class="row">
+<a class="anchor" id="MN"></a>
 
 
   <div class="large-6 columns">
@@ -393,9 +469,24 @@ permalink: "/participants/"
     <p></p>
     <p>
     Sally-Jane Norman is Professor of Performance Technologies and Co-Director of Sussex Humanities Lab where she leads the  ‘Digital Technologies, Digital Performance’ strand. She joined Sussex after serving as founding Director of Culture Lab at Newcastle University, Research Director at the Institut International de la Marionnette (Charleville-Mézières), and Artistic Co-Director of STEIM (co-organiser of the first Touch Festival with Michel Waisvisz and Joel Ryan). She is a dual citizen of Aotearoa/ New Zealand and France, trandisciplinary performance scholar (Doctorat d’état, Paris III) and sometime practitioner.  From July, Sally Jane will become Director of Te Koki - New Zealand School of Music, at Victoria University in Wellington, Aotearoa.
-
     </p>
   </div>
+<div class="large-6 columns">
+<a href = "https://improvisationresearch.com"><img src="{{site.urlimg}}p_schroederCrop.jpg"></a>
+<p></p>
+<h3>
+ Franziska Schroeder
+</h3>
+<i>
+Senior Lecturer at the School of Arts, English and Languages, Queen’s University Belfast
+</i>
+<p></p>
+<p>
+Franziska is a saxophonist, improviser and theorist, originally from Berlin/Germany. She trained as a contemporary saxophonist in Australia, and in 2006 completed her PhD at the University of Edinburgh, researching performance and theories of embodiment. Her research is published in diverse international journals, including Leonardo, Organised Sound, Performance Research, Cambridge Publishing and Routledge. Franziska has published a book on performance and the threshold (VDM, 2009), an edited volume on user-generated content (Cambridge Scholars Publishing, 2009) as well as a volume on improvisation (Cambridge Scholars Publishing, 2014). Franziska has performed with many international musicians including Joan La Barbara, Pauline Oliveros, Stelarc, the Avatar Orchestra, Carin Levine, Chris Brown and Evan Parker.
+</p>
+
+</div>
+
   <hr>
 </div>
 <!-- END ROW -->

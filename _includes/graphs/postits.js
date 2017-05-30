@@ -74,7 +74,7 @@ function rawContentString(csv)
 
 function handleKeyPress(evt)
 {
-    var e = event || evt;
+    var e = evt;
     var charCode = e.which || e.keyCode;
 
     if (charCode == 9 ) 

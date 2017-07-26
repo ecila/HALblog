@@ -1,0 +1,104 @@
+x,y,text,color
+77,184,DRAMA,#ff3399
+40,260,The Deaf / Hearing impaired,#ff3399
+100,250,MUSICIAN,#ff3399
+40,300,Mixed non exclusivist communities of practice,#ff3399
+100,310,IMPROVISOR,#ff3399
+38,350,PERSON ON THE CLAPHAM OMNIBUS,#ff3399
+75,360,NIME,#ff3399
+145,350,INSTRUMENT MAKER,#ff3399
+147,400,DESIGN,#ff3399
+75,450,ARS INDUSTRIALIS,#ff3399
+130,440,ACOUSTICS,#ff3399
+145,475,DYNAMICAL SYSTEMS,#ff3399
+190,470,HCI,#ff3399
+160,530,RSPB,#ff3399
+205,520,ECOLOGY,#ff3399
+195,575,FARMERS,#ff3399
+290,475,CYBERNETICS,#ff3399
+375,475,MACHINE LISTENING,#ff3399
+445,475,COMPUTER SCIENCE,#ff3399
+350,550,MACHINE LEARNING INDUSTRY,#ff3399
+442,300,PHILOSOPHY,#ff3399
+200,100,COGNITIVE SCIENCE,#ff3399
+350,90,PCYCHOLOGISTS,#ff3399
+450,10,ANTHROPOLOGY,#ff3399
+450,75,ANTHROPOLOGIST,#ff3399
+440,110,SOCIAL SCIENCE 2ndry ANALYSIS & BIG DATA PEOPLE,#ff3399
+560,100,MUSICOLOGY & MUSIC PRACTICE,#ff3399
+650,100,DIGITAL HUMANITIES,#ff3399
+720,110,Media Art Histories,#ff3399
+710,160,HISTORY,#ff3399
+780,165,Experimental Media Archaeology,#ff3399
+790,200,CULTURAL & MEDIA THEORIST,#ff3399
+875,250,SCIENCE & TECHNOLOGY STUDIES,#ff3399
+760,265,SOFTWARE STUDIES,#ff3399
+795,380,MEDIA & COMMS,#ff3399
+810,310,CULTURAL STUDIES,#ff3399
+780,365,CRITICAL THEORY,#ff3399
+775,495,DATA SCIENTISTS,#ff3399
+780,475,(PARA) LINGUISTICS ,#ff3399
+770,500,OPEN DATA SOCIETY... ???,#ff3399
+880,490,POLICY MAKERS ???,#ff3399
+880,550,JUDICIARY,#ff3399
+185,190,degenerative consensual not-works,#ffff66
+150,225,ROLE OF ARTIST IN PUBLIC (what is the arrow?) ???,#ffff66
+210,225,HOW TO MAKE USABLE FOR NON RESEARCH COMMUNITIES,#ffff66
+150,270,Do we need to incorporate the tactile (or other modalities) in our conception of machine listening?,#ffff66
+225,270,listening informed sound synthesis/ performance,#ffff66
+150,300,How can we use machine listening for music creation?,#ffff66
+225,300,How do we represent the output of listening algorithms for humans?,#ffff66
+150,350,How can we explore human/machine collaborative listening?,#ffff66
+230,350,How can we use machine listening to make speech-based interaction tools?,#ffff66
+150,400,How can we emphasise the inter-subjective nature of machine listening?,#ffff66
+215,400,Time? 'Real'? 'Non real'? Brief? Long?,#ffff66
+175,425,Can we build in mutual accommodation to human/machine relations?,#ffff66
+215,425,Do signals really contain information?,#ffff66
+320,200,"Is there a ""Hawthorne effect"" for machine listening?",#ffff66
+350,205,Bias/ diversity - Algorithmic unconscious ,#ffff66
+275,240,Is machine listening reductive?,#ffff66
+300,280,Exploring the differences between humans and machine listening ,#ffff66
+300,315,What is listening for humans? for algorithms?,#ffff66
+295,355,what is the difference between machine listening and listening machines?,#ffff66
+260,400,what is human/ machine collaboration?,#ffff66
+310,400,"When is ""listening"" happening in terms of algorithms (i.e. after capture)",#ffff66
+275,440,Pask's Ear,#ffff66
+275,450,??? LISTENING WORK,#ffff66
+400,275,"What is the value of the notion of the ""human"" in this research",#ffff66
+350,310,Abstraction might be good? Sonicity?,#ffff66
+390,350,"What are the assumptions of ""what are algorithms listening to?""",#ffff66
+350,375,"""raw"" data - is there such a thing?",#ffff66
+375,400,How can ML facilitate non-normative cultural technologies?,#ffff66
+350,440,Machine listening is not the end point,#ffff66
+350,450,Population based machine listening,#ffff66
+400,425,Cross discipline survey(s) of actual method,#ffff66
+525,140,How can algorithmic listening map myths and their evolution,#ffff66
+450,190,"WHAT DOES IT MEAN TO ""HUMANISE""? HOW IS THIS HELPFUL FOR THINKING ABOUT LISTENING?",#ffff66
+525,190,The kinds of stories we tell ourselves / how these technologies reveal the stories we tell,#ffff66
+450,250,Is the concept of listening a useful concept in this context?,#ffff66
+500,225,ALTERITY - what if we embrace & pursue - is it romantic/ escape,#ffff66
+560,225,"How can arts/ hum research be as potent as Google (say) with out server farms, infinte budgets ... ",#ffff66
+525,285,What are the subject postitions constructed in models of machine listening?,#ffff66
+525,325,"Do we need to rename ""machine listening""?",#ffff66
+440,375,What is an algorithm and what does it do?,#ffff66
+490,375,How can we group the specifically machinic that ML adds to the what it supposedly analyzes?,#ffff66
+440,410,By what structural means can we make machine listeners remain transparent??,#ffff66
+520,410,"Should ""humans"" listen to ""algorithms""",#ffff66
+460,425,Do we want to listen to our algorithms?,#ffff66
+460,450,"How can we make algorithms ""argue"" with each other?",#ffff66
+540,460,I asked Alexa to tell me something .... = I broadcast my desires to a community of market allied data scientists,#ffff66
+625,160,Can you 3D print algorithmic listening models?,#ffff66
+690,170,What is an archive/ database - past/future - what do archives dream of?,#ffff66
+620,200,McCluham - talking to the dead,#ffff66
+660,220,What is the role of culture and aesthetics in this research?,#ffff66
+610,265,Algorithmic selves - what it means to adapt oneself somewhat to algorithms,#ffff66
+660,265,Is it possible to do cultural criticiams through the use of machine methods?,#ffff66
+575,300,"Should the research use ""capture"" (AORE) rather than ""listening""?",#ffff66
+640,300,"Where are issues gender, class, race etc. in terms of this research?",#ffff66
+690,300,Questioning neutrality in terms of the contours of this research,#ffff66
+570,325,Is there a relationship bewteen machine listening and captology?,#ffff66
+640,325,What are the political economic implications and questions for this research?,#ffff66
+610,375,Legislation - public understanding of machine listening,#ffff66
+580,390,The ethics and norms of machine listening?,#ffff66
+650,410,Ethics of things as well as people - prospective ethics ambivalence,#ffff66
+675,440,HAL: for whose purpose and to what end?,#ffff66

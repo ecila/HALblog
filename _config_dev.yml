@@ -5,9 +5,9 @@
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-url: 		'http://localhost:4000'
-baseurl: 	'http://localhost:4000/HALblog'
-urlimg: 	'http://localhost:4000/HALblog/images/'
+url: 		'http://localhost:4001'
+baseurl: 	'http://localhost:4001/HALblog'
+urlimg: 	'http://localhost:4001/HALblog/images/'
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 gist:

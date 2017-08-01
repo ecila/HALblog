@@ -39,14 +39,14 @@ Up to 6 projects will receive up to £500 each. Outlines to be emailed to halnet
 1100 : Welcome  
 1130 - 1300  ALAMT presentation/ demo (tbc)   
 1300 - 1400  Lunch   
-1400 - 1700  Workshop of projects 1 & 2 with discussion and coffee break   
+1400 - 1700  Workshop of topics 1 & 2 with discussion and coffee break   
 1800 - Early dinner in town     
 1930 - 2100 Long Table discussion on Emerging Cultures of Algorithmic Listening
 
 ### Day 2
-1000 - 1230 Workshop of projects 3 & 4 with discussion and coffee break   
+1000 - 1230 Workshop of topics 3 & 4 with discussion and coffee break   
 1230 - 1400 long lunch for discussions   
-1400 - 1630 Workshop of projects 5 & 6 with discussion and coffee break   
+1400 - 1630 Workshop of topics 5 & 6 with discussion and coffee break   
 1700 - 1800 Wrap up   
 
 

@@ -9,7 +9,7 @@ comments: false
 permalink: "/about/"
 ---
 
-**Humanising Algorithmic Listening** is an AHRC funded network which brings together experts with an interest in the applications and implications of machine listening from diverse disciplines including oral history, sensory ethnography, archive services, computer science, philosophy and music technology. The principle aim is to develop a critical and methodological agenda for the design and development of computational methods for audio analysis - listening algorithms - for future arts and humanities research.
+**Humanising Algorithmic Listening** is an AHRC funded network which brings together experts with an interest in the applications and implications of machine listening from diverse disciplines including oral history, sensory ethnography, archive services, computer science, philosophy and music technology. The principle aim is to develop a critical and methodological agenda for the design and development of computational methods for audio analysis - listening algorithms - for future research and practice.
 
 
 ### Objectives

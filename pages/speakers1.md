@@ -179,7 +179,7 @@ The aim is to provide a probably diametrically opposed approach to “machine li
 In spite of continuous efforts to describe the relationship between listening, content, and meaning in music - a stable and widely applicable account remains elusive. Each lacking the integrity or stability to reach much further than a description of the context of the breath which utters them. My interest lies in how interpretations of machine agency / listening interact with, and feed-back into, how we describe and construct meaningful human practices. How metaphors of intentional human behaviour are constructed through the complex network of system outputs, user experiences, and system author descriptions (Jichen Zhu). Leaning on actor-network theory and embodied cognition, this talk questions the usefulness of these metaphors, and examines the heuristic relationships between content, context, and meaning that constitute current machine-listening practices. Envisioning a speculative, explicitly ‘multiscale’ and ecological approach to machine listening - one which questions the ethics of outsourcing the practices of categorisation and group formation to the computational.
 <p></p>
 <p></p>
-<iframe width='100%' height='546' src="https://www.youtube.com/embed/jfaqfjN2KVc" frameborder="0" allowfullscreen></iframe>
+<iframe width='100%' height='546' src="https://www.youtube.com/embed/A76IfLRA05A" frameborder="0" allowfullscreen></iframe>
 <p></p>
 <p></p>
 

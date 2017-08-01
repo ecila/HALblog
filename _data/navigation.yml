@@ -28,6 +28,10 @@
     - title: "Schedule & speakers"
       url: "/W2schedule&speakers/"
 
+- title: Workshop 3
+  url: "/workshop3/"
+  side: left
+
 - title: Blog
   url: "/blog/"
   side: right

@@ -24,7 +24,7 @@ Part of the third and final workshop for the AHRC Humanising Algorithmic Listeni
 
 
 ### Scope and format
-Proposals should address Future Algorithmic Listening -- in research, practice or culture. This may be broadly imagined. Practice-based, critical, empirical or multidisciplinary methods are all welcome. Proposals should be no more than 1-side of A4 and include: a research question, outline of methods, and justification for costs (e.g. travel to meetings, room hire, materials purchase) etc. 
+Proposals should address Future Algorithmic Listening -- in research, practice or culture. This may be broadly imagined. Practice-based, critical, empirical or multidisciplinary methods are all welcome. Proposals should be no more than 1-side of A4 and include: a research question, outline of methods, and justification for costs (e.g. travel to meetings, room hire, materials purchase) etc.  
 
 ### Deadlines
 Up to 6 projects will receive up to £500 each. Outlines to be emailed to halnetwork9000@gmail.com by August 24th 2017. Notification Aug 28th
@@ -37,7 +37,7 @@ Up to 6 projects will receive up to £500 each. Outlines to be emailed to halnet
 
 1030 : Coffee  
 1100 : Welcome  
-1130 - 1300  Almat presentation/ demo (tbc)   
+1130 - 1300  ALAMT presentation/ demo (tbc)   
 1300 - 1400  Lunch   
 1400 - 1700  Workshop of projects 1 & 2 with discussion and coffee break   
 1800 - Early dinner in town     

@@ -41,7 +41,7 @@ Up to 6 projects will receive up to £500 each. Outlines to be emailed to halnet
 1300 - 1400  Lunch   
 1400 - 1700  Workshop of topics 1 & 2 with discussion and coffee break   
 1800 - Early dinner in town     
-1930 - 2100 Long Table discussion on Emerging Cultures of Algorithmic Listening
+1930 - 2100 Long Table discussion on [Humanising Algorithmic Listening in Culture and Conservation](http://brightondigitalfestival.co.uk/events/humanising-algorithmic-listening-culture-conservation)
 
 ### Day 2
 1000 - 1230 Workshop of topics 3 & 4 with discussion and coffee break   

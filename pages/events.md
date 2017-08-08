@@ -6,8 +6,9 @@ header:
 
 permalink: "/events/"
 ---
+*ACADEMIC EVENTS*
 
-Three workshops will be held throughout 2017:
+ **Workshops to be held throughout 2017:**
 
 ### 1 Exchanging Perspectives: Machine Listening and Listening Machines
 April 27-28. Sussex Humanities Lab, University of Sussex, Brighton
@@ -36,4 +37,8 @@ Sept 14-15. Sussex Humanities Lab, University of Sussex, Brighton
 
 ---
 
-Public events to be announced ...
+*PUBLIC EVENTS*
+### Long table -- Humanising Algorithmic Listening in Culture and Conservation
+Sept 14th 20:00 as part of the [2017 Brighton Digital Festival](http://brightondigitalfestival.co.uk/events/humanising-algorithmic-listening-culture-conservation)
+
+Inspired by the work of Lois Weaver, this Long Table discussion is a theatrical open-ended, non-hierarchical format for participatory debate. Speakers and audience switch places around a dinner table. In place of cutlery, coloured pens are provided to document discussions in drawing and/or writing on the table. Debate, dinner and theatre merge.

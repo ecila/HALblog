@@ -13,6 +13,11 @@
   class: icon-github
   title: "Share code"
 
+- name: youtube
+  url: https://www.youtube.com/channel/UCJwKSRm1_PDrppZ9HcUa-dQ
+  class: icon-youtube
+  title: "View network videos"
+
 # - name: Soundcloud
 #   url: http://soundcloud.com/
 #   class: icon-soundcloud

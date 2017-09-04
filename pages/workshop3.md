@@ -20,44 +20,23 @@ Sept 14-15. University of Sussex, Brighton
 
 *What relationship do we want to have with listening algorithms in the future and how do we go about achieving this?*
 
-Part of the third and final workshop for the AHRC Humanising Algorithmic Listening Network will be dedicated to workshopping ideas from network members and affiliates for future practice and research.  We invite proposal sketches for consideration and can offer small development funds (e.g. travel and/or materials).
-
-
-### Scope and format
-Proposals should address Future Algorithmic Listening -- in research, practice or culture. This may be broadly imagined. Practice-based, critical, empirical or multidisciplinary methods are all welcome. Proposals should be no more than 1-side of A4 and include: a research question, outline of methods, and justification for costs (e.g. travel to meetings, room hire, materials purchase) etc.  
-
-### Deadlines
-Up to 6 projects will receive up to £500 each. Outlines to be emailed to halnetwork9000@gmail.com by August 24th 2017. Notification Aug 28th
-
-----
-## Provisional Schedule
 ----
 
-### Day 1
-
-1030 : Coffee  
-1100 : Welcome  
-1130 - 1300  ALAMT presentation/ demo (tbc)   
-1300 - 1400  Lunch   
-1400 - 1700  Workshop of topics 1 & 2 with discussion and coffee break   
-1800 - Early dinner in town     
-1930 - 2100 Long Table discussion on [Humanising Algorithmic Listening in Culture and Conservation](http://brightondigitalfestival.co.uk/events/humanising-algorithmic-listening-culture-conservation)
-
-### Day 2
-1000 - 1230 Workshop of topics 3 & 4 with discussion and coffee break   
-1230 - 1400 long lunch for discussions   
-1400 - 1630 Workshop of topics 5 & 6 with discussion and coffee break   
-1700 - 1800 Wrap up   
-
-
-
+## LOCATION and DIRECTIONS
 ----
 
-## <a name="location"></a>  LOCATION and DIRECTIONS
-----
+Gardner Tower, [Attenborough Centre for Creative Arts](https://www.attenboroughcentre.com/), University of Sussex, Gardner Centre Rd, Falmer, East Sussex, BN1 9RA
 
-University of Sussex, Falmer, East Sussex, BN1 9RG
+### Getting there   
+**Train** (easiest for IBIS residents)   
+The nearest station is Falmer (approx 5 minutes’ walk from there to the Attenborough Centre). The train takes nine minutes from Brighton and seven minutes from Lewes.
 
-We are a short bus or train journey from the centre of Brighton and within easy reach of London via the Victoria and Thameslink lines and the major international airports at Gatwick and Heathrow.
+Trains run very regularly during the day (about every 15 minutes).
 
-Travel Directions can be found [here](http://www.sussex.ac.uk/about/directions)
+From the train station follow signs to University of Sussex – walk under the underpass and follow the footpath until you reach a zebra crossing.  Turn left here until you reach Gardner Centre Road on your right.  Turn right up Gardner Centre Road to find the main entrance of the building.  The Attenborough Centre is the building with round red brick towers.
+
+**Bus** (may be easiest for Mercure residents)   
+The number 25 and 25X bus brings you from central Brighton all the way to University of Sussex campus.  Alight at the “Sports Centre” bus stop and you will see the Attenborough Centre (building with round red brick towers) through the trees across a lawn.
+
+**Accomodation**   
+Participant accommodation is split between  [The Mercure Brighton Seafront Hotel](http://www.mercure.com/gb/hotel-8335-mercure-brighton-seafront-hotel/index.shtml) on Brighton Seafront and the [IBIS Brighton City Centre - Station](http://www.ibis.com/gb/hotel-6444-ibis-brighton-city-centre-station/index.shtml), at the station.  

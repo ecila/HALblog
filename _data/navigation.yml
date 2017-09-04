@@ -31,6 +31,10 @@
 - title: Workshop 3
   url: "/workshop3/"
   side: left
+  dropdown:
+    - title: "Schedule & speakers"
+      url: "/W3schedule&speakers/"
+
 
 - title: Blog
   url: "/blog/"

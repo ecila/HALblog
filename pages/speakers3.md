@@ -134,7 +134,7 @@ CataRT is explained in more detail [in this article](http://recherche.ircam.fr/e
 
 <p></p>
 ![image of FCS]({{site.urlimg}}w3_ecospectralism.png)
-#### **Getting to Know Big Audio Data** -- *Alice Eldridge*
+#### **Getting to Know Big Audio Data** -- *Alice Eldridge*
 <p></p>
 When machine listening methods are used to address empirical questions -- or even to look for general qualitative trends --  we necessarily need to work with audio data sets which exceed listenable compass. We can't listen to it all, and this can present issues in interpreting often multivariate models. I will present some existing research in the visualisation of long form audio recordings and invite participants to brain-storm hack around with ideas for perceptualisation of audio features which might afford a rapid, deep listening for large audio databases.
 <p></p>

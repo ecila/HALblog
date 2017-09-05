@@ -513,7 +513,7 @@ Sally-Jane Norman is Professor of Performance Technologies and Co-Director of Su
 
 
 <div class="large-6 columns">
-<a href = "http://www.sciss.de/"><img src="{{site.urlimg}}p_schroederCrop.jpg"></a>
+<a href = "http://www.sciss.de/"><img src="{{site.urlimg}}p_rutz.jpg"></a>
 <p></p>
 <h3>
 Hanns Holger Rutz
@@ -553,7 +553,7 @@ Franziska is a saxophonist, improviser and theorist, originally from Berlin/Ger
 </div>
 
 <div class="large-6 columns">
-<a href = "http://imtr.ircam.fr/imtr/Diemo_Schwarz"><img src="{{site.urlimg}}p_schroederCrop.jpg"></a>
+<a href = "http://imtr.ircam.fr/imtr/Diemo_Schwarz"><img src="{{site.urlimg}}p_diemo.png"></a>
 <p></p>
 <h3>
 Diemo Schwarz

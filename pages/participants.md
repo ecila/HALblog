@@ -578,7 +578,7 @@ Researcher–Developer Real-Time Music Interaction team at Ircam–Centre Pompid
 <div class="row">
 <a class="anchor" id="SW"></a>
 <div class="small-12 large-6 columns">
-<a href = "http://c4dm.eecs.qmul.ac.uk/people/dans.html"><img src="{{site.urlimg}}p_diemo.png"></a>
+<a href = "http://c4dm.eecs.qmul.ac.uk/people/dans.html"><img src="{{site.urlimg}}p_danStowell.jpeg"></a>
 <p></p>
 <h3>
 Dan Stowell

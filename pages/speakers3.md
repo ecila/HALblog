@@ -16,16 +16,14 @@ permalink: "/W3schedule&speakers/"
 1115 : **Algorithmic Listening Project Updates**   
 &nbsp;  _Algorithms that Matter_  - Hanns Holger Rutz   
 &nbsp; _Systemic Improvisation_  - Palle Dahlstedt   
-
 1300 : Lunch (Sussex Humanities Lab)   
-
 1400 : **Oi, Algorithm! Chew On This! - Assaying the Noise Between Human and Algorithm**   
 &nbsp; John Bowers & Owen Green   
 1500 : Coffee   
 1515 : **Adaptive & Reflexive Musical Listening Algorithms**   
 &nbsp; _A sense of being ‘listened to'_  - Tom Davis & Nick Ward   
 &nbsp; _Self-listening for music generation_  - Ron Chrisley
-
+1700 : End
 
 1830 : Dinner at [The Rose Hill](http://www.therosehill.co.uk/)   
 
@@ -35,15 +33,15 @@ permalink: "/W3schedule&speakers/"
 
 ### Day 2
 <p></p>
-1030 : **Audio feature surfing**   
+1030 : Coffee
+1100 :     **Listening with dynamical and chaotic systems**   
+&nbsp; Marije Baalman & Chris Kiefer   
+1300 : Lunch (Sussex Humanities Lab)  
+1400 : **Audio feature surfing**   
 &nbsp; _Introduction to CaTART_ - Diemo Schwarz   
 &nbsp; _Getting to know big audio data_ - Alice Eldridge   
 &nbsp; _Listening out for gender-based conversational dynamics_ - Ben Roberts   
-1115 : Coffee   
-1130 : _Feature Hacking_ - all   
-1330 : Lunch (Sussex Humanities Lab)  
-1430 : **Listening with dynamical and chaotic systems**   
-&nbsp; Marije Baalman & Chris Kiefer   
+&nbsp; _Feature Hacking_ - all   
 1630 : Coffee   
 1645 : Closing Panel - David Kant, Parag Mital, Simon Waters   
 1745 : End   
@@ -94,10 +92,10 @@ We will give a short performance-lecture, seguing into discussion that details t
 ---
 
 ### **Adaptive & Reflexive Musical Listening Algorithms**
-In this session, participants will present plans for practice-based investigations into the potential for context sensitive, reflexive and/ or adaptive listening processes.
+
 
 ![image of Nick Ward]({{site.urlimg}}w3_ward_davis.png)
-#### **How can a sense of being ‘listened to’ affect human-algorithm listening relationships?**   
+#### **A sense of being ‘listened to’**   
 *Nicholas Ward & Tom Davis*   
 
 <p></p>
@@ -105,7 +103,7 @@ How can a sense of being ‘listened to’ effect human-algorithm listening rela
 <p></p>
 
 ![image of Ron]({{site.urlimg}}p_chrisley.jpg)
-#### **What role might self-listening play in generative music systems?**   
+#### **Self-listening for music generation**   
 *Ron Chrisley*
 <p></p>
 Although it may seem obvious that in order to create interesting music one must be capable of listening to music as music, the ability to listen is often omitted in the design of musical generative systems.  And for those few systems that can listen, the emphasis is almost exclusively on listening to others, e.g., for the purposes of interactive improvisation.  The project aims to explore the role that a system’s listening to, and evaluating, that system's own musical performance (as its own musical performance) can play in musical generative systems.  What kinds of aesthetic and creative possibilities are afforded by such a design? How does the role of self-listening change at different timescales? Can self-listening generative systems shed light on neglected aspects of human performance?  A three-component architecture for answering questions such as these will be presented.

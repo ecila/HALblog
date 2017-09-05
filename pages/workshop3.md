@@ -18,6 +18,8 @@ comments: false
 ### Future Implications and Applications of Algorithmic Listening
 Sept 14-15. University of Sussex, Brighton   
 
+The third and final workshop is primarily dedicated to workshopping ideas from network members and affiliates to work up into future practice and research.  We are also delighted to welcome other european colleagues to introduce some their existing and ongoing projects in related areas.
+
 *What relationship do we want to have with listening algorithms in the future and how do we go about achieving this?*
 
 ----

@@ -129,7 +129,7 @@ Trevor Agus is an auditory psychologist who just wanted control over sounds in a
 <a href = "www.marijebaalman.eu"><img src="{{site.urlimg}}p_baalman.png"></a>
 <p></p>
 <h3>
-Theo Burt
+Marije Baalman
 </h3>
 <i>
 Artist
@@ -345,7 +345,7 @@ I enjoy making soundful systems that breathe and try, playfully, to adapt to the
 <div class="row">
 
 <div class="large-6 columns">
-<a href = "http://www.irit.fr/~Patrice.Guyot/index_en.php"><img src="{{site.urlimg}}p_guyot.jpg"></a>
+<a href = "http://www.irit.fr/~Patrice.Guyot/index_en.php"><img src="{{site.urlimg}}p_patrice.jpg"></a>
 <p></p>
 <h3>
 Patrice Guyot

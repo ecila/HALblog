@@ -38,5 +38,5 @@ From the train station follow signs to University of Sussex – walk under the u
 **Bus** (may be easiest for Mercure residents)   
 The number 25 and 25X bus brings you from central Brighton all the way to University of Sussex campus.  Alight at the “Sports Centre” bus stop and you will see the Attenborough Centre (building with round red brick towers) through the trees across a lawn.
 
-**Accomodation**   
+**Accommodation**   
 Participant accommodation is split between  [The Mercure Brighton Seafront Hotel](http://www.mercure.com/gb/hotel-8335-mercure-brighton-seafront-hotel/index.shtml) on Brighton Seafront and the [IBIS Brighton City Centre - Station](http://www.ibis.com/gb/hotel-6444-ibis-brighton-city-centre-station/index.shtml), at the station.  

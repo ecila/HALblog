@@ -12,19 +12,19 @@ permalink: "/W3schedule&speakers/"
 <p></p>
 
 1030 : Tea/coffee     
-1100 : Welcome & introduction Alice Eldridge & Paul Stapleton   
+1100 : Welcome & introduction - Alice Eldridge & Paul Stapleton   
 1115 : **Algorithmic Listening Project Updates**   
 &nbsp;  _Algorithms that Matter_  - Hanns Holger Rutz   
 &nbsp; _Systemic Improvisation_  - Palle Dahlstedt   
 
-1300 : Lunch (in the Sussex Humanities Lab)   
+1300 : Lunch (Sussex Humanities Lab)   
 
 1400 : **Oi, Algorithm! Chew On This! - Assaying the Noise Between Human and Algorithm**   
 &nbsp; John Bowers & Owen Green   
 1500 : Coffee   
 1515 : **Adaptive & Reflexive Musical Listening Algorithms**   
-&nbsp; _A sense of being ‘listened to'_  -- Tom Davis & Nick Ward   
-&nbsp; _Self-listening play in generative music_  -- Ron Chrisley
+&nbsp; _A sense of being ‘listened to'_  - Tom Davis & Nick Ward   
+&nbsp; _Self-listening for music generation_  - Ron Chrisley
 
 
 1830 : Dinner at [The Rose Hill](http://www.therosehill.co.uk/)   
@@ -40,12 +40,12 @@ permalink: "/W3schedule&speakers/"
 &nbsp; _Getting to know big audio data_ - Alice Eldridge   
 &nbsp; _Listening out for gender-based conversational dynamics_ - Ben Roberts   
 1115 : Coffee   
-1130 &nbsp; _Feature Hacking_ - all   
-1330 : Lunch (foyer)  
+1130 : _Feature Hacking_ - all   
+1330 : Lunch (Sussex Humanities Lab)  
 1430 : **Listening with dynamical and chaotic systems**   
 &nbsp; Marije Baalman & Chris Kiefer   
 1630 : Coffee   
-1645  Closing Panel - David Kant, Parag Mital, Simon Waters   
+1645 : Closing Panel - David Kant, Parag Mital, Simon Waters   
 1745 : End   
 
 ... Dinner and drinks for those staying  
@@ -77,7 +77,7 @@ Algorithms that Matter (Almat) is a three-year FWF-funded artistic research proj
 *Systemic Improvisation*
 <p></p>
 
-Palle will send me some text to put here very soon ...
+
 
 <p></p>
 
@@ -94,18 +94,18 @@ We will give a short performance-lecture, seguing into discussion that details t
 ---
 
 ### **Adaptive & Reflexive Musical Listening Algorithms**
-In this session, participants will present plans for practice-based investigations into the potential for context sensitive, reflexive and / or adaptive listening processes.
+In this session, participants will present plans for practice-based investigations into the potential for context sensitive, reflexive and/ or adaptive listening processes.
 
 ![image of Nick Ward]({{site.urlimg}}p_ward.jpg)
-**How can a sense of being ‘listened to’ affect human-algorithm listening relationships?**   
+#### **How can a sense of being ‘listened to’ affect human-algorithm listening relationships?**   
 *Nicholas Ward & Tom Davis*   
 
 <p></p>
-Algorithms are used in a lot of different listening contexts, but they often have a reduced view of the world they are listening to. For example, features may be selected for them to recognise and respond to in order to create achievable classification exercises. In these scenarios, a lot of information regarding the wider context of the audio is lost. For example, in musical performance scenarios, listening algorithms can be used to modify systems in real-time based on audio input. These algorithms will respond identically given the same audio input irrespective of the performance context. Rather than create algorithms that perform the same in any context, can we make their listening context dependent, can we make their responses reflexive and relational?
+How can a sense of being ‘listened to’ effect human-algorithm listening relationships? Drawing on ideas informed by the use of auditory cues in conversation, facial expression in interview techniques, and the sense of being stared at, Nick and Tom will present some things from their practice before probing the audience for insights.
 <p></p>
 
 ![image of Ron]({{site.urlimg}}p_chrisley.jpg)
-**What role might self-listening play in generative music systems?**   
+#### **What role might self-listening play in generative music systems?**   
 *Ron Chrisley*
 <p></p>
 Although it may seem obvious that in order to create interesting music one must be capable of listening to music as music, the ability to listen is often omitted in the design of musical generative systems.  And for those few systems that can listen, the emphasis is almost exclusively on listening to others, e.g., for the purposes of interactive improvisation.  The project aims to explore the role that a system’s listening to, and evaluating, that system's own musical performance (as its own musical performance) can play in musical generative systems.  What kinds of aesthetic and creative possibilities are afforded by such a design? How does the role of self-listening change at different timescales? Can self-listening generative systems shed light on neglected aspects of human performance?  A three-component architecture for answering questions such as these will be presented.
@@ -118,18 +118,25 @@ Although it may seem obvious that in order to create interesting music one must 
 ---
 ---
 
-### **Audio Feature Tweaking**
+### **Audio Feature Surfing**
+<p> </p>
 ![image of Diemo]({{site.urlimg}}diemo_catart.png)
-**Introduction to CataRT**
+#### **Introduction to CataRT**
 *Diemo Schwarz*
+The concatenative real-time sound synthesis system [CataRT]([http://imtr.ircam.fr/imtr/CataRT](http://imtr.ircam.fr/imtr/CataRT)) plays grains from a large corpus of segmented and descriptor-analysed sounds according to proximity to a target position in the descriptor space. This can be seen as a content-based extension to granular synthesis providing direct access to specific sound characteristics.
 
-<p></p>
-[http://imtr.ircam.fr/imtr/CataRT](http://imtr.ircam.fr/imtr/CataRT)
+CataRT is implemented in MaxMSP and takes full advantage of the generalised data structures and arbitrary-rate sound processing facilities of the FTM and Gabor libraries. Segmentation and sound descriptors are loaded from text or SDIF files, or analysed on-the-fly.
+
+CataRT allows to explore the corpus interactively or via a target sequencer, to resynthesise an audio file or live input with the source sounds, or to experiment with expressive speech synthesis and gestural control.
+
+CataRT is explained in more detail [in this article](http://recherche.ircam.fr/equipes/analyse-synthese/schwarz/publications/dafx2006/catart-dafx2006-long.pdf) and is an interactive implementation of the new concept of [Corpus-Based Concatenative Synthesis](http://imtr.ircam.fr/imtr/Corpus_Based_Synthesis).
+
+
 <p></p>
 
 **Getting to Know Big Audio Data** -- *Alice Eldridge*
 <p></p>
-
+When machine listening methods are used to address empirical questions -- or even to look for general qualitative trends --  we necessarily need to work with audio data sets which exceed listenable compass. We can't listen to it all, and this can present issues in interpreting often multivariate models. I will present some existing research in the visualisation of long form audio recordings and invite participants to brain-storm hack around with ideas for perceptualisation of audio features which might afford a rapid, deep listening for large audio databases.
 <p></p>
 
 **Listening out for gender-based conversational dynamics** -- *Ben Roberts*

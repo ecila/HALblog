@@ -11,7 +11,7 @@ permalink: "/W3schedule&speakers/"
 ### Day 1
 <p></p>
 
-1030 : Tea/coffee     
+1030 : Coffee     
 1100 : Welcome & introduction - Alice Eldridge & Paul Stapleton   
 1115 : **Algorithmic Listening Project Updates**   
 &nbsp;  _Algorithms that Matter_  - Hanns Holger Rutz   

@@ -96,7 +96,7 @@ We will give a short performance-lecture, seguing into discussion that details t
 ### **Adaptive & Reflexive Musical Listening Algorithms**
 In this session, participants will present plans for practice-based investigations into the potential for context sensitive, reflexive and/ or adaptive listening processes.
 
-![image of Nick Ward]({{site.urlimg}}p_ward.jpg)
+![image of Nick Ward]({{site.urlimg}}w3_ward_davis.png)
 #### **How can a sense of being ‘listened to’ affect human-algorithm listening relationships?**   
 *Nicholas Ward & Tom Davis*   
 
@@ -133,13 +133,13 @@ CataRT is explained in more detail [in this article](http://recherche.ircam.fr/e
 
 
 <p></p>
-
-**Getting to Know Big Audio Data** -- *Alice Eldridge*
+![image of FCS]({{site.urlimg}}w3_ecospectralism.png)
+#### **Getting to Know Big Audio Data** -- *Alice Eldridge*
 <p></p>
 When machine listening methods are used to address empirical questions -- or even to look for general qualitative trends --  we necessarily need to work with audio data sets which exceed listenable compass. We can't listen to it all, and this can present issues in interpreting often multivariate models. I will present some existing research in the visualisation of long form audio recordings and invite participants to brain-storm hack around with ideas for perceptualisation of audio features which might afford a rapid, deep listening for large audio databases.
 <p></p>
 
-**Listening out for gender-based conversational dynamics** -- *Ben Roberts*
+#### **Listening out for gender-based conversational dynamics** -- *Ben Roberts*
 <p></p>
 
 <p></p>

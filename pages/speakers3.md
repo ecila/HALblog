@@ -22,10 +22,10 @@ permalink: "/W3schedule&speakers/"
 1500 : Coffee   
 1515 : **Adaptive & Reflexive Musical Listening Algorithms**   
 &nbsp; _A sense of being ‘listened to'_  - Tom Davis & Nick Ward   
-&nbsp; _Self-listening for music generation_  - Ron Chrisley
+&nbsp; _Self-listening for music generation_  - Ron Chrisley   
 1700 : End   
 
-1900 : Dinner at [The Rose Hill](http://www.therosehill.co.uk/)   
+1830 : Dinner at [The Rose Hill](http://www.therosehill.co.uk/)   
 
 2030 : Long Table discussion on [Humanising Algorithmic Listening in Culture and Conservation](http://brightondigitalfestival.co.uk/events/humanising-algorithmic-listening-culture-conservation)   
 2200 : Finish (latest)

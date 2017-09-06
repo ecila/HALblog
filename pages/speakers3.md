@@ -33,8 +33,8 @@ permalink: "/W3schedule&speakers/"
 
 ### Day 2
 <p></p>
-1030 : Coffee
-1100 :     **Listening with dynamical and chaotic systems**   
+1030 : Coffee   
+1100 : **Listening with dynamical and chaotic systems**   
 &nbsp; Marije Baalman & Chris Kiefer   
 1300 : Lunch (Sussex Humanities Lab)  
 1400 : **Audio feature surfing**   
@@ -116,6 +116,17 @@ Although it may seem obvious that in order to create interesting music one must 
 ---
 ---
 
+
+
+![image of attractor]({{site.urlimg}}attractor.png)
+### **Listening with dynamical and chaotic systems**   
+*Marije Baalman & Chris Kiefer*   
+<p></p>
+What makes dynamical systems different from other approaches to algorithmic listening, and what are the best uses of these algorithms?  We'll explore dynamical systems hands-on, by doing some processing of live sensor data, and discuss their efficacy and applications.
+<p></p>
+---
+---
+
 ### **Audio Feature Surfing**
 <p> </p>
 ![image of Diemo]({{site.urlimg}}diemo_catart.png)
@@ -141,14 +152,3 @@ When machine listening methods are used to address empirical questions -- or eve
 <p></p>
 
 <p></p>
-
----
----
-
-![image of attractor]({{site.urlimg}}attractor.png)
-### **Listening with dynamical and chaotic systems**   
-*Marije Baalman & Chris Kiefer*   
-<p></p>
-What makes dynamical systems different from other approaches to algorithmic listening, and what are the best uses of these algorithms?  We'll explore dynamical systems hands-on, by doing some processing of live sensor data, and discuss their efficacy and applications.
-<p></p>
----

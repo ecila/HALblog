@@ -34,11 +34,11 @@ permalink: "/W3schedule&speakers/"
 ### Day 2
 <p></p>
 1030 : Coffee   
-1100 : **Listening with dynamical and chaotic systems**   
+1100 : **Listening with Dynamical and Chaotic Systems**   
 &nbsp; Marije Baalman & Chris Kiefer   
 1300 : Lunch (Sussex Humanities Lab)  
-1400 : **Audio feature surfing**   
-&nbsp; _Introduction to CaTART_ - Diemo Schwarz   
+1400 : **Audio Feature Surfing**   
+&nbsp; _Introduction to CataRT_ - Diemo Schwarz   
 &nbsp; _Getting to know big audio data_ - Alice Eldridge   
 &nbsp; _Listening out for gender-based conversational dynamics_ - Ben Roberts   
 &nbsp; _Feature Hacking_ - all   

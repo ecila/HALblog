@@ -194,9 +194,7 @@ In spite of continuous efforts to describe the relationship between listening, c
 <p></p>
 *What does it mean to listen with or through machines that are already ‘listening’?* I engage with this question by examining the anthropomorphism that might be implicit in the notion of ‘listening algorithms’.  This will help me to argue for the difference between functions and processes of ‘augmentation’ on the one hand, and of ‘automation’ on the other. I will argue that whilst augmentation implies the extension and exteriorisation of predefined forms or modes of behaviour, contemporary developments in computational automation ask us instead to consider the possibility to move beyond a simulative paradigm or phenomenological analogies.
 <p></p>
-<p></p>
-<iframe width='100%' height='546' src="https://www.youtube.com/embed/tTgAXPmwRME" frameborder="0" allowfullscreen></iframe>
-<p></p>
+
 
 ----
 

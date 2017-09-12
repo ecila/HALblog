@@ -70,12 +70,12 @@ Algorithms that Matter (Almat) is a three-year FWF-funded artistic research proj
 <p></p>
 ---
 
-![image of palle]({{site.urlimg}}w3_SI.png)
+![image of palle]({{site.urlimg}}w3_palle.png)
 ### **Palle Dahlstedt**
 *Systemic Improvisation*
 <p></p>
 
-
+Systemic Improvisation is a research project emerging from a series of musical works by Palle Dahlstedt and Per Anders Nilsson, exploring how computer-mediated interactions between improvisers can lead to new music. Here, an improvisation system is a configuration of human and virtual agents with communication going in both directions. Systemic improvisation is the act of a number of musicians playing in such a system. The virtual agents take input from human players, and produce visual or aural cues, which the human players react to. Together they form a complex interconnected system, with characteristic emergent behavior. Through design of (and playing on) a series of such systems, we study how musical output and musicians' experiences depend on system configuration, cue type, time scale, and a number of other design parameters.
 
 <p></p>
 

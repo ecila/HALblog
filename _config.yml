@@ -39,7 +39,7 @@ improve_content: https://github.com/ecila/HALblog/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 urlimg: 'https://ecila.github.io/HALblog/images/'
-
+urlaud: 'https://ecila.github.io/HALblog/audio/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"

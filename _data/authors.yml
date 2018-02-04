@@ -29,4 +29,10 @@ shintaro_miyazaki: # replace this with your info
   uri: http://www.algorithmiclistening.org/participants#MN
   twitter: "@algorhythmics"
 
+owen_john: # replace this with your info
+  name: "Owen Green and John Bowers"
+  siterole: "blogger"
+  uri: http://www.algorithmiclistening.org/participants#OG
+  twitter: ""
+
 # you can add more authors here

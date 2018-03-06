@@ -58,7 +58,7 @@ These are some of the questions that we would like to explore.
 # Some initial prototyping:
 Over two days in November we sought to move from these questions toward some new work. We decided to eschew the digital entirely, at least temporarily, thereby indulging a contrarian desire to park the actual algorithm. In this age of Deep learning, machine learning, AI and the implied digital computational flavour of all things algorithmic we wanted to begin with an all analogue approach for our listening machine.
 
-![tapePlaying]({{site.urlimg}}b_listenedTo_Nick.jpg)    
+![tapePlaying]({{site.urlimg}}b_listenedTo_Nick.JPG)    
 *Pre listening tape making thinking*
 
 We've started by playing with tape and begun development on our tape based listener, a device that travels forward and back along a strand of magnetic tape alternately listening (recording to tape) and speaking (playing back from tape). To listen or speak it must move. The raising and lowering of one end of the tape is used to accomplish this. We envisage a rake of these listeners installed in a room. This is some form of surveillance. But out in the open.  A congregation of daft machines that feel obliged to record your utterings, and their own, and then warble them back, sometimes in reverse. Comical machine listening implemented by a real stupidity. A flock of mad listening blurting machines some of which try to hide away from humans. Running along their tape. Noting the sounds of each other and the humans in the rooms or singing out earlier secrets captured.

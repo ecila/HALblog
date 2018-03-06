@@ -3,7 +3,7 @@ layout: post
 #
 # Content
 #
-subheadline: "..."
+subheadline: "HAL Seed Project"
 title: "A sense of being listened to"
 categories:
   - seeds
@@ -21,7 +21,7 @@ image:
     thumb: b_listenedTo_tape.jpg
     homepage: b_listenedTo_tape.jpg
     mediaplayer: true
-    caption: Moving speaking listening tape-head prototype &#35
+    caption: Moving speaking listening tape-head prototype &#35 1
 mediaplayer: true
 ---
 

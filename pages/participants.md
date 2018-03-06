@@ -1,8 +1,9 @@
 ---
 layout: page-fullwidth
+
 title: "PARTICIPANTS"
 header:
-image_fullwidth: "borchert1.gif"
+  image_fullwidth: "borchert1.gif"
 
 permalink: "/participants/"
 ---

@@ -35,6 +35,16 @@
     - title: "Schedule & speakers"
       url: "/W3schedule&speakers/"
 
+- title: Documentation
+  url: "/documentation/"
+  side: left
+  dropdown:
+    - title: "Workshop 1"
+      url: "/W1documentation/"
+    - title: "Workshop 2"
+      url: "/W2documentation/"
+    - title: "Workshop 3"
+      url: "/W3documentation/"
 
 - title: Blog
   url: "/blog/"

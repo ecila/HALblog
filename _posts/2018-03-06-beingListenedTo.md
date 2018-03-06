@@ -21,7 +21,7 @@ image:
     thumb: b_listenedTo_tape.jpg
     homepage: b_listenedTo_tape.jpg
     mediaplayer: true
-    caption: A mobile tape head player-listener
+    caption: Moving speaking listening tape-head prototype &#35
 mediaplayer: true
 ---
 
@@ -40,7 +40,7 @@ For Di Scipio listening can be thought of as a process that is both reflexive an
 
 Bringing this in to the context of performance systems, we are interested in thinking about how the system shows it is listening and how that showing changes the human performer's actions.
 
-![feralTour]({{site.urlimg}}b_listenedTo_Cello.jpg)    
+![feralTour]({{site.urlimg}}b_listenedTo_Cello.JPG)    
 *Feral Cello on Tour*
 
 

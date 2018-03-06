@@ -35,4 +35,12 @@ owen_john: # replace this with your info
   uri: http://www.algorithmiclistening.org/participants#OG
   twitter: "@weefuzzy"
 
+nick_tom: # replace this with your info
+  name: "Nicholas Ward & Tom Davis"
+  siterole: "blogger"
+  uri: http://www.algorithmiclistening.org/participants#DS
+  #twitter: "@weefuzzy"
+
+
+
 # you can add more authors here

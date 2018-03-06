@@ -4,7 +4,7 @@ layout: post
 # Content
 #
 subheadline: "HAL Seed Project"
-title: "A sense of being listened to"
+title: "A Sense of Being Listened To"
 categories:
   - seeds
 
@@ -41,7 +41,7 @@ For Di Scipio listening can be thought of as a process that is both reflexive an
 Bringing this in to the context of performance systems, we are interested in thinking about how the system shows it is listening and how that showing changes the human performer's actions.
 
 ![feralTour]({{site.urlimg}}b_listenedTo_Cello.JPG)    
-*Feral Cello on Tour*
+*Feral Cello Phone's Home*
 
 
 In particular Tom has been working on a performance system called the *Feral Cello* that reconfigures the sound world of an actuated cello live in the performance through a process of machine listening and digital signal processing.  Pickups on the cello's body are fed to a Max patch that analyses the sound for certain pre-recorded sonic gestures. When these gestures are 'heard' by the system the Cello switches between different DSP states, effecting the acoustic response of the cello. These gestures are pre-determined by the performer but due to variations in performance and listening errors the system are not 100% predictable. This leads to quite a different performance scenario for the instrumentalist who has to deal with the difficulties of performing with an acoustic system that is constantly being reconfigured live in the moment of performance. Tom would like to extend the listening algorithm in this system such that it has a sense that it is being listened to. In particular he is interested in how can we give our machines a sense of 'occasion' that is broader than mere feature extraction.
@@ -59,7 +59,7 @@ These are some of the questions that we would like to explore.
 Over two days in November we sought to move from these questions toward some new work. We decided to eschew the digital entirely, at least temporarily, thereby indulging a contrarian desire to park the actual algorithm. In this age of Deep learning, machine learning, AI and the implied digital computational flavour of all things algorithmic we wanted to begin with an all analogue approach for our listening machine.
 
 ![tapePlaying]({{site.urlimg}}b_listenedTo_Nick.jpg)    
-*Pre-tape playing thinking*
+*Pre listening tape making thinking*
 
 We've started by playing with tape and begun development on our tape based listener, a device that travels forward and back along a strand of magnetic tape alternately listening (recording to tape) and speaking (playing back from tape). To listen or speak it must move. The raising and lowering of one end of the tape is used to accomplish this. We envisage a rake of these listeners installed in a room. This is some form of surveillance. But out in the open.  A congregation of daft machines that feel obliged to record your utterings, and their own, and then warble them back, sometimes in reverse. Comical machine listening implemented by a real stupidity. A flock of mad listening blurting machines some of which try to hide away from humans. Running along their tape. Noting the sounds of each other and the humans in the rooms or singing out earlier secrets captured.
 

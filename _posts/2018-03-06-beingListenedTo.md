@@ -41,7 +41,7 @@ For Di Scipio listening can be thought of as a process that is both reflexive an
 Bringing this in to the context of performance systems, we are interested in thinking about how the system shows it is listening and how that showing changes the human performer's actions.
 
 ![feralTour]({{site.urlimg}}b_listenedTo_Cello.JPG)    
-*Feral Cello Phone's Home*
+*Feral Cello Phones Home*
 
 
 In particular Tom has been working on a performance system called the *Feral Cello* that reconfigures the sound world of an actuated cello live in the performance through a process of machine listening and digital signal processing.  Pickups on the cello's body are fed to a Max patch that analyses the sound for certain pre-recorded sonic gestures. When these gestures are 'heard' by the system the Cello switches between different DSP states, effecting the acoustic response of the cello. These gestures are pre-determined by the performer but due to variations in performance and listening errors the system are not 100% predictable. This leads to quite a different performance scenario for the instrumentalist who has to deal with the difficulties of performing with an acoustic system that is constantly being reconfigured live in the moment of performance. Tom would like to extend the listening algorithm in this system such that it has a sense that it is being listened to. In particular he is interested in how can we give our machines a sense of 'occasion' that is broader than mere feature extraction.

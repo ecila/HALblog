@@ -53,10 +53,9 @@ Recent workshops run by the Sussex Humanities Lab have sought to address an iden
 <p></p>
 
 ----
-----
-
 ### Technical - Machine listening & Learning
-
+----
+<p></p>
 
 <p></p>
 <iframe width='100%' height='546' src="https://www.youtube.com/embed/PGCDVJQw47Q" frameborder="0" allowfullscreen></iframe>
@@ -95,10 +94,10 @@ I will present a cursory overview of fMRI and EEG literature relating to auditor
 
 
 ----
+### Critical -  Music & Media
 ----
 
-### Critical -  Music & Media
-
+<p></p>
 
 
 <p></p>
@@ -135,11 +134,11 @@ In spite of continuous efforts to describe the relationship between listening, c
 <p></p>
 
 
-----
-----
 
+----
 ### Philosophical - Ethical, Analytical & Speculative
-
+----
+<p></p>s
 
 
 ### **Beatrice Fazi**

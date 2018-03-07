@@ -10,31 +10,27 @@
   url: "/participants/"
   side: left
 
-- title: Events
-  url: "/events/"
-  side: left
-
-- title: Workshop 1
+- title: Workshops
   url: "/workshop1/"
   side: left
   dropdown:
-    - title: "Schedule & speakers"
+    - title: Workshop 1
+      url: "/workshop1/"
+    - title: "W1 schedule & speakers"
       url: "/W1schedule&speakers/"
-
-- title: Workshop 2
-  url: "/workshop2/"
-  side: left
-  dropdown:
-    - title: "Schedule & speakers"
+    - title: Workshop 2
+      url: "/workshop2/"
+    - title: "W2 chedule & speakers"
       url: "/W2schedule&speakers/"
-
-- title: Workshop 3
-  url: "/workshop3/"
-  side: left
-  dropdown:
-    - title: "Schedule & speakers"
+    - title: Workshop 3
+      url: "/workshop3/"
+    - title: "W3 schedule & speakers"
       url: "/W3schedule&speakers/"
 
+- title: Events
+  url: "/events/"
+  side: left
+  
 - title: Documentation
   url: "/documentation/"
   side: left

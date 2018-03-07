@@ -19,7 +19,7 @@ May 31-June 1. Sonic Arts Research Centre, Queen's University Belfast
 
 ## DAY 1 TALKS
 ----
-
+----
 <p></p>
 <iframe width='100%' height='546' src="https://www.youtube.com/embed/Yc_LuwVsSpk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <p></p>
@@ -98,7 +98,7 @@ You can find out about ongoing and past work here: [http://www.socasites.qub.ac.
 ---
 ## Lunch time performance
 ---
-
+<p></p>
 <iframe width='100%' height='546' src="https://www.youtube.com/embed/ufpOb0KuGyo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### **John Bowers**
@@ -112,6 +112,7 @@ In a number of recent performances (notably in collaboration with Tom Schofield)
 ---
 ## Presentations & demos
 ---
+<p></p>
 <iframe width="100%" height="546" src="https://www.youtube.com/embed/BVsMwuQul98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### **David Kant**

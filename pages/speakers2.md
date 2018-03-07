@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "SCHEDULE"
+title: "WORKSHOP 2 SCHEDULE"
 header: no
 image:
   title: "grays_lato_img.gif"
